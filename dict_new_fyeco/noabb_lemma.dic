@@ -1,0 +1,947 @@
+anaerobiosis
+chemical
+chemicals
+cold
+hypoxia
+ice
+knockdown
+overexpression
+ph
+temperature
+torin1
+uv
+yes
+ypd
+ypgala
++ acetaldehyde
++ ade
++ adenine
++ adriamycin
++ agno3
++ agnp
++ aminopyrimidine
++ amitrole
++ amorolfine
++ anidulafungin
++ ap20187
++ arginine
++ arsenate
++ arsenic
++ asp
++ asparagine
++ aspartate
++ auxin
++ benzamidine
++ bfa
++ biotin
++ bleomycin
++ bortezomib
++ cacl2
++ caffeine
++ camptothecin
++ canavanin
++ carbendazim
++ caspofungin
++ cccp
++ cdcl2
++ cdso4
++ cerulenin
++ choline
++ cisplatin
++ clomifene
++ clomiphene
++ clotrimazole
++ cocl2
++ compactin
++ cpt
++ cscl
++ cucl2
++ cuso4
++ cycloheximide
++ cysteine
++ dethiobiotin
++ diamide
++ dihydroxyacetone
++ dithiothreitol
++ diuron
++ dmso
++ doxorubicin
++ dtt
++ echinocandin
++ edta
++ ethanol
++ ethanolamine
++ fccp
++ fecl2
++ fecl3
++ ferrichrome
++ feso4
++ fluconazole
++ foa
++ formaldehyde
++ formamide
++ glucose
++ glutamate
++ glutamine
++ glutathione
++ glycerol
++ gtp
++ h2o2
++ hemin
++ hexestrol
++ his
++ hu
++ ile
++ inositol
++ ion
++ ions
++ itraconazole
++ kcl
++ ketoconazole
++ lata
++ latb
++ leu
++ lmb
++ lys
++ mannose
++ meet
++ menadione
++ met
++ methylamine
++ mevalonate
++ mg132
++ mgcl2
++ micafungin
++ mm
++ mms
++ mncl2
++ mnso4
++ mpa
++ na2s
++ na2so3
++ na2so4
++ naaso2
++ nacl
++ nad+
++ nadp+
++ nan3
++ nh4cl
++ nigericin
++ nocodazole
++ oleate
++ ornithine
++ pantothenate
++ peptone
++ phleomycin
++ phosphate
++ pro
++ queuine
++ queuosine
++ rapamycin
++ sam
++ sd
++ sds
++ sirolimus
++ snp
++ sorbitol
++ streptonigrin
++ sugar
++ sulfite
++ tacrolimus
++ tamoxifen
++ tbc
++ tbhp
++ tebuconazole
++ terbinafine
++ terconazole
++ tetrathiomolybdate
++ thiabendazole
++ thiamine
++ thiazole
++ thiolutin
++ thiosulfate
++ torin1
++ tunicamycin
++ ura
++ urea
++ val
++ vanadate
++ vanoxerine
++ zncl2
++ zymolyase
+- oxygen
+2n cell
+2n cells
+acetylcysteine add
+acetylcysteine added
+agar plate
+agar plates
+anaerobic environment
+arginine absent
+asn add
+asn added
+bca add
+bca added
+benzamidine add
+benzamidine added
+biotin absent
+bisbenzimide add
+bisbenzimide added
+c add
+c added
+calcium absent
+canavanin add
+canavanin added
+cbz add
+cbz added
+chemical add
+chemical added
+chemical produce
+chemical produced
+chill cell
+chilled cells
+competitive culture
+complex medium
+cys add
+cys added
+dapi add
+dapi added
+deoxynojirimycin add
+deoxynojirimycin added
+desthiobiotin add
+desthiobiotin added
+dha add
+dha added
+dihydroxyacetone mm
+diploid cell
+diploid cells
+dnj add
+dnj added
+edta add
+edta added
+egta add
+egta added
+eta add
+eta added
+ethanol ye
+expression level
+fk506 add
+fk506 added
+fructose mm
+fructose ye
+galactose mm
+galactose ye
+gamma irradiation
+gamma radiation
+glucose mm
+glycerol add
+glycerol added
+glycerol mm
+glycerol ye
+group absent
+group excess
+grouping absent
+grouping excess
+grouping limit
+grouping limited
+gsh add
+gsh added
+high ph
+high temperature
+histidine add
+histidine added
+hydroxyurea add
+hydroxyurea added
+hypoxic environment
+in vitro
+in vivo
+ionize radiation
+ionizing radiation
+isoleucine add
+isoleucine added
+leucine absent
+leucine add
+leucine added
+limited oxygen
+liquid culture
+low ph
+low temperature
+lysine add
+lysine added
+m add
+m added
+maltose mm
+maltose ye
+mannitol ye
+mat medium
+mating medium
+mbc add
+mbc added
+mea add
+mea added
+mecarzole add
+mecarzole added
+medium texture
+methionine add
+methionine added
+minus oxygen
+mn2+ add
+mn2+ added
+monoethanolamine add
+monoethanolamine added
+nac add
+nac added
+nitrogen absent
+nitrogen exclude
+nitrogen excluded
+nitrogen free
+nitrogen starvation
+nonpermissive temperature
+normal temperature
+overnight culture
+oxygen level
+pantothenate absent
+permissive temperature
+ph 6.8
+phenotype condition
+proline add
+proline added
+proteasome inhibitor
+pyruvate mm
+raffinose ye
+restrictive temperature
+rhodamine phalloidin
+sd medium
+self mating
+semiaerobic environment
+semianaerobic environment
+semipermissive temperature
+sorbitol absent
+spa medium
+sporulation medium
+standard temperature
+sucrose mm
+sucrose ye
+synchronous culture
+tacrolimus add
+tacrolimus added
+tbz add
+tbz added
+thiamine absent
+trehalose mm
+tunicamycin add
+tunicamycin added
+ultraviolet light
+uracil absent
+uracil add
+uracil added
+urea add
+urea added
+uv irradiation
+valine add
+valine added
+water medium
+x ray
+x rays
+xylose add
+xylose added
+xylose ye
++ aminolevulinic acid
++ ammonium sulfate
++ anidulafungin ld
++ anidulafungin sld
++ antimycin a
++ arachidic acid
++ bi ion
++ bi ions
++ biochanin a
++ brefeldin a
++ ca ion
++ ca ions
++ cadmium chloride
++ cadmium sulfate
++ calcium chloride
++ calcofluor white
++ caspofungin ld
++ caspofungin sld
++ cd ion
++ cd ions
++ ciclopirox olamine
++ cl ion
++ cl ions
++ cobalt chloride
++ copper chelator
++ cu ion
++ cu ions
++ cyclosporin a
++ diethyl maleate
++ dimethyl sulfoxide
++ egtazic acid
++ ethyl methanesulfonate
++ ethylene glycol
++ fatty acid
++ guanosine triphosphate
++ iron chelator
++ k ion
++ k ions
++ latrunculin a
++ latrunculin b
++ lauric acid
++ leptomycin b
++ li ion
++ li ions
++ limit glucose
++ limit sulfur
++ limited adenine
++ limited ala
++ limited ammonium
++ limited biotin
++ limited dethiobiotin
++ limited ethanolamine
++ limited glucose
++ limited iron
++ limited leucine
++ limited nh4cl
++ limited nickel
++ limited nitrogen
++ limited pantothenate
++ limited phosphate
++ limited sodium
++ limited sulfur
++ limited thiamine
++ limited uracil
++ limited zinc
++ linoleic acid
++ linolenic acid
++ manganese sulfate
++ manumycin a
++ margaric acid
++ mat pheromone
++ mating pheromone
++ melissic acid
++ mg ion
++ mg ions
++ micafungin ld
++ micafungin sld
++ mn ion
++ mn ions
++ mycophenolic acid
++ myristic acid
++ na ion
++ na ions
++ na oleate
++ naphthaleneacetic acid
++ ni ion
++ ni ions
++ oleic acid
++ palmitic acid
++ pb ion
++ pb ions
++ pentadecanoic acid
++ petroselinic acid
++ phloxine b
++ silver nanoparticles
++ silver nitrate
++ sodium azide
++ sodium nitroprusside
++ stearic acid
++ tev protease
++ trichostatin a
++ ubiquinone q6
++ vaccenic acid
++ valproic acid
++ xenobiotic substrate
++ zinc sulfate
++ zinc sulphate
++ zn ion
++ zn ions
+17 degree celsius
+17 degrees celsius
+18 degree celsius
+18 degrees celsius
+19 degree celsius
+19 degrees celsius
+20 degree celsius
+20 degrees celsius
+21 degree celsius
+21 degrees celsius
+22 degree celsius
+22 degrees celsius
+23 degree celsius
+23 degrees celsius
+24 degree celsius
+24 degrees celsius
+25 degree celsius
+25 degrees celsius
+26 degree celsius
+26 degrees celsius
+27 degree celsius
+27 degrees celsius
+28 degree celsius
+28 degrees celsius
+29 degree celsius
+29 degrees celsius
+30 degree celsius
+30 degrees celsius
+31 degree celsius
+31 degrees celsius
+32 degree celsius
+32 degrees celsius
+33 degree celsius
+33 degrees celsius
+34 degree celsius
+34 degrees celsius
+35 degree celsius
+35 degrees celsius
+36 degree celsius
+36 degrees celsius
+37 degree celsius
+37 degrees celsius
+38 degree celsius
+38 degrees celsius
+39 degree celsius
+39 degrees celsius
+40 degree celsius
+40 degrees celsius
+41 degree celsius
+41 degrees celsius
+42 degree celsius
+42 degrees celsius
+43 degree celsius
+43 degrees celsius
+absence of adenine
+absence of chemical
+absence of inositol
+absence of nitrogen
+absence of uracil
+acute hydroxyurea treatment
+ammonium chloride add
+ammonium chloride added
+bismuth ion add
+bismuth ions added
+ca ion add
+ca ions added
+cadmium ion add
+cadmium ions added
+caesium chloride add
+caesium chloride added
+calcium ion add
+calcium ions added
+cesium chloride add
+cesium chloride added
+chloride ion add
+chloride ions added
+coenzyme q6 add
+coenzyme q6 added
+copper chloride add
+copper chloride added
+copper ion add
+copper ions added
+dha minimal medium
+diethyl maleate add
+diethyl maleate added
+dihydroxyactone minimal medium
+egtazic acid add
+egtazic acid added
+ethanol rich medium
+ethylenediaminetetraacetic acid add
+ethylenediaminetetraacetic acid added
+fructose minimal medium
+fructose rich medium
+galactose rich medium
+glucose minimal medium
+glucose rich medium
+glycerol minimal medium
+glycerol rich medium
+group condition combination
+group define medium
+group experimental environment
+group growth medium
+group growth timing
+group heat shock
+group rich medium
+grouping condition combinations
+grouping defined medium
+grouping experimental environment
+grouping growth medium
+grouping growth timing
+grouping heat shock
+grouping rich medium
+high glucose mm
+high glucose yes
+hoechst stain add
+hoechst stain added
+hydrogen peroxide add
+hydrogen peroxide added
+inorganic phosphate absent
+iron chloride add
+iron chloride added
+iron dichloride add
+iron dichloride added
+iron sulfate add
+iron sulfate added
+iron sulphate add
+iron sulphate added
+iron trichloride add
+iron trichloride added
+lead ion add
+lead ions added
+limited desthiobiotin add
+limited desthiobiotin added
+limited inositol add
+limited inositol added
+limited o atom
+limited o atoms
+limited sulphur add
+limited sulphur added
+limited zn add
+limited zn added
+lithium ion add
+lithium ions added
+lnb glucose medium
+low glucose mm
+low glucose ye
+low glucose yes
+m factor add
+m factor added
+magnesium chloride add
+magnesium chloride added
+magnesium ion add
+magnesium ions added
+malt extract medium
+maltose minimal medium
+maltose rich medium
+manganese chloride add
+manganese chloride added
+manganese ion add
+manganese ions added
+mannitol rich medium
+mat with wt
+mating with wt
+methyl methanesulfonate add
+methyl methanesulfonate added
+multiple passage culture
+nickel ion add
+nickel ions added
+nitrogen source shift
+no glucose yes
+normal glucose mm
+p factor add
+p factor added
+potassium chloride add
+potassium chloride added
+potassium ion add
+potassium ions added
+pyruvate minimal medium
+raffinose rich medium
+reduce oxygen level
+reduced oxygen level
+respiratory chain inhibitor
+semi aerobic environment
+single passage culture
+sodium arsenite add
+sodium arsenite added
+sodium chloride add
+sodium chloride added
+sodium ion add
+sodium ions added
+sodium oleate add
+sodium oleate added
+sodium orthovanadate add
+sodium orthovanadate added
+sodium sulfate add
+sodium sulfate added
+sodium sulfide add
+sodium sulfide added
+sodium sulfite add
+sodium sulfite added
+solid agar plate
+solid agar plates
+sucrose minimal medium
+sucrose rich medium
+sugar alcohol add
+sugar alcohol added
+transient hydroxyurea treatment
+trehalose minimal medium
+valproic acid add
+valproic acid added
+vitamin e add
+vitamin e added
+x - ray
+x - rays
+xylose rich medium
+yes + galactose
+zinc chloride add
+zinc chloride added
+zinc ion add
+zinc ions added
++ 1 - dnj
++ 14 - hydroxydaunomycin
++ 14 - hydroxydaunorubicine
++ 2 - dg
++ 2 - og
++ 3,4 - dihydrocoumarin
++ 3mb - pp1
++ 4 - nqo
++ 5 - fluorouracil
++ 5 - fu
++ alpha - tocopherol
++ beta - estradiol
++ beta - glucanase
++ ck - 666
++ cutin - 1
++ icrf - 193
++ limited aminolevulinic acid
++ m - factor
++ manu - a
++ microtubule depolymerizing drug
++ microtubule depolymerizing drugs
++ p - factor
++ r - limonene
++ respiratory chain inhibitor
++ s - adenosylmethionine
++ tea tree oil
++ top - 53
+1 - deoxynojirimycin add
+1 - deoxynojirimycin added
+2 - aminoethanol add
+2 - aminoethanol added
+2 - deoxyglucose add
+2 - deoxyglucose added
+2 - og present
+2 - oxoglutarate add
+2 - oxoglutarate added
+2 - oxoglutarate present
+3,4 - dihydrocoumarin add
+3,4 - dihydrocoumarin added
+chemical add or exclude
+chemical added or excluded
+cpt block and release
+fission yeast phenotype condition
+glucose starvation and recovery
+glycerol + ethanol ye
+glycerol and ethanol ye
+group sequential growth condition
+group starvation and timing
+grouping sequential growth conditions
+grouping starvation and timing
+growth < 24 hour
+growth < 24 hours
+growth < 24 hr
+growth < 24 hrs
+growth > 24 hour
+growth > 24 hours
+growth > 24 hr
+growth > 24 hrs
+growth > 48 hour
+growth > 48 hours
+growth > 48 hr
+growth > 48 hrs
+growth to exponential phase
+growth to stationary phase
+high glucose minimal medium
+high glucose rich medium
+hu block and release
+low glucose minimal medium
+low glucose rich medium
+low nitrogen glucose mm
+mbc block and release
+mm with trace glucose
+nitrogen starvation and recovery
+non - permissive temperature
+normal glucose minimal medium
+normal glucose rich medium
+presence of mat pheromone
+presence of mating pheromone
+presence of mating pheromones
+recovery from nitrogen depletion
+recovery from nitrogen starvation
+rhodamine - phalloidin add
+rhodamine - phalloidin added
+semi - aerobic environment
+semi - anaerobic environment
+semi - permissive temperature
+sodium dodecyl sulfate add
+sodium dodecyl sulfate added
+standard dextrose rich medium
+standard glucose minimal medium
+standard glucose rich medium
+tea tree oil add
+tea tree oil added
+temperature block and release
+tert - butyl hydroperoxide
+very low glucose mm
+very low glucose ye
+ye with trace glucose
++ ( nh4 ) 2so4
++ 2,2 ' - dipyridyl
++ 20 standard aa 's
++ 3,5 - cyclic amp
++ 5 - fluoroorotic acid
++ electron transport chain inhibitor
++ limited myo - inositol
++ respiratory complex iii inhibitor
+2,2 ' - dipyridyl add
+2,2 ' - dipyridyl added
+22 standard amino acid add
+22 standard amino acids added
+> 7 day nitrogen starvation
+> 7 days nitrogen starvation
+absence of p - factor
+anti - tubulin antibodies added
+anti - tubulin antibody add
+anti - tubulin antibody added
+fitc - conjugate lectin add
+fitc - conjugated lectin added
+glucose mm , no adenine
+glucose mm , no glucose
+glucose mm , no nitrogen
+glycerol and ethanol rich medium
+glycerol mm with trace ethanol
+glycerol mm with trace glucose
+glycerol sole carbon source ye
+group growth to stationary phase
+grouping growth to stationary phase
+growth to late exponential phase
+iron ( ii ) chloride
+iron ( iii ) chloride
+low nitrogen glucose minimal medium
+m and p factor produce
+m and p factor produced
+minimal medium with trace glucose
+rich medium with trace glucose
++ ( 4r ) - limonene
++ 1 - na - pp1
++ 1 - nm - pp1
++ 3 - brb - pp1
++ copper ( ii ) sulfate
+1 - na - pp1 present
+> 6 hour in nitrogen starvation
+> 6 hours in nitrogen starvation
+> 6 hr in nitrogen starvation
+> 6 hrs in nitrogen starvation
+carbonyl cyanide m - chlorophenyl hydrazone
+galactose rich medium with trace glucose
+glucose minimal medium , exclude nitrogen
+glucose minimal medium , excluding nitrogen
+glucose mm , adenine nitrogen source
+glucose mm , ammonium nitrogen source
+glucose mm , arginine nitrogen source
+glucose mm , cysteine nitrogen source
+glucose mm , glutamate nitrogen source
+glucose mm , isoleucine nitrogen source
+glucose mm , lysine nitrogen source
+glucose mm , methionine nitrogen source
+glucose mm , phenylalanine nitrogen source
+glucose mm , proline nitrogen source
+glucose mm , serine nitrogen source
+glucose mm , sulfate sulfur source
+glucose mm , sulphate sulphur source
+glucose mm , uracil nitrogen source
+glucose mm , urea nitrogen source
+glucose mm , xanthine nitrogen source
+glycerol minimal medium with trace glucose
+glycerol sole carbon source rich medium
+non - fermentable carbon source medium
+non - fermentable carbon sources medium
+nonfermentable glycerol and ethanol rich medium
+rich medium with glucose and galactose
+temperature shift , high to low
+temperature shift , high to standard
+temperature shift , low to high
+temperature shift , low to standard
+temperature shift , standard to high
+zinc starvation follow by zinc shock
+zinc starvation followed by zinc shock
++ 4 - nitroquinoline n - oxide
++ ammonium iron ( 2+ ) sulfate
++ ferrous ammonium sulfate ( anhydrous )
++ mitochondrial complex iii / iv inhibitor
+cold shock and recovery at high temperature
+cold shock and recovery at normal temperature
+glucose minimal medium , arginine nitrogen source
+glucose minimal medium , cysteine nitrogen source
+glucose minimal medium , glutamate nitrogen source
+glucose minimal medium , lysine nitrogen source
+glucose minimal medium , methionine nitrogen source
+glucose minimal medium , serine nitrogen source
+glucose minimal medium , sulfate sulfur source
+glucose minimal medium , sulphate sulphur source
+glucose minimal medium , urea nitrogen source
+heat shock and recovery at high temperature
+heat shock and recovery at normal temperature
+nitrogen source shift , glutamate to proline
+nitrogen source shift , proline to glutamate
+nonfermentable glycerol sole carbon source rich medium
+presence of 3',5 ' - cyclic amp
+transient amino acid starvation < 1 hour
++ 3 - amino - 1,2,4 - triazole
++ n - acetyl - l - cysteine
++ s - adenosyl - l - methionine
+2 - deoxy - d - glucose add
+2 - deoxy - d - glucose added
+3 ' 5 ' - cyclic amp produce
+3 ' 5 ' - cyclic amp produced
+4',6 - diamidino - 2 - phenylindole add
+4',6 - diamidino - 2 - phenylindole added
+non - fermentable glycerol and ethanol rich medium
+nonfermentable galactose and very low glucose rich medium
+standard glucose minimal medium , cysteine nitrogen source
+standard glucose minimal medium , glutamate nitrogen source
+standard glucose minimal medium , lysine nitrogen source
+standard glucose minimal medium , methionine nitrogen source
+standard glucose minimal medium , urea nitrogen source
+absence of 3 ' 5 ' - cyclic amp
+glucose rich medium , peptone / ye nitrogen source
+glycerol main carbon source + very low glucose mm
+isogenic cell of opposite mating type add to culture
+isogenic cells of opposite mating type added to culture
+non - fermentable glycerol sole carbon source rich medium
+presence of m - factor and p - factor
+glucose mm , organic nitrogen source , no inorganic nitrogen
+growth at high temperature follow by growth at standard temperature
+growth at high temperature followed by growth at standard temperature
+growth at low temperature follow by growth at standard temperature
+growth at low temperature followed by growth at standard temperature
+l - gamma - glutamyl - l - cysteinylglycine add
+l - gamma - glutamyl - l - cysteinylglycine added
+non - fermentable galactose and very low glucose rich medium
+wild type cell of opposite mating type add to culture
+wild type cells of opposite mating type added to culture
+nitrogen starvation follow by heat shock and recovery at normal temperature
+nitrogen starvation follow by heat shock and recovery at permissive temperature
+nitrogen starvation followed by heat shock and recovery at normal temperature
+nitrogen starvation followed by heat shock and recovery at permissive temperature
++ 3 - ( 3,4 - dichlorophenyl ) - 1,1 - dimethylurea
+growth to stationary phase in rich medium follow by transfer to h2o
+growth to stationary phase in rich medium followed by transfer to h2o
++ ( 8e,10s ) - 10 - hydroxy - 8 - octadecenoic acid
+growth to stationary phase in rich medium follow by transfer to minimal medium
+growth to stationary phase in rich medium followed by transfer to minimal medium
+nitrogen starvation at normal temperature and shift to high temperature in rich medium
+two - step temperature shift , low to standard , standard to high
+two - step temperature shift , standard to high , high to standard
+two - step temperature shift , standard to low , low to high
+24 - 48h nitrogen starvation follow by 12 - 24h recovery in rich medium
+24 - 48h nitrogen starvation follow by 5 - 12h recovery in rich medium
+24 - 48h nitrogen starvation followed by 12 - 24h recovery in rich medium
+24 - 48h nitrogen starvation followed by 5 - 12h recovery in rich medium
+28 day nitrogen starvation follow by 10 - 50 hour recovery in minimal medium
+28 days nitrogen starvation followed by 10 - 50 hours recovery in minimal medium
+72h - 7days nitrogen starvation follow by 12 - 24h recovery in rich medium
+72h - 7days nitrogen starvation followed by 12 - 24h recovery in rich medium
++ ( r , z ) - 10 - hydroxyoctadec - 8 - enoic acid
+24 - 48h nitrogen starvation follow by 4 - 7 day recovery in rich medium
+24 - 48h nitrogen starvation followed by 4 - 7 day recovery in rich medium
+72h - 7days nitrogen starvation follow by 4 - 7 day recovery in rich medium
+72h - 7days nitrogen starvation followed by 4 - 7 days recovery in rich medium
++ n , n , n ' , n ' - tetramethyldiazene - 1,2 - dicarboxamide
+heat shock for 20 - 30 min at 48 degree c , preceeded and follow by growth at high temperature
+heat shock for 20 - 30 min at 48 degree c , preceeded and follow by growth at normal temperature
+heat shock for 20 - 30 min at 48 degrees c , preceeded and followed by growth at high temperature
+heat shock for 20 - 30 min at 48 degrees c , preceeded and followed by growth at normal temperature
+4 - amino - 1 - tert - butyl - 3 - ( 1 ' - naphthyl ) pyrazolo [ 3,4 - d ] pyrimidine add
+4 - amino - 1 - tert - butyl - 3 - ( 1 ' - naphthyl ) pyrazolo [ 3,4 - d ] pyrimidine added
+4 - amino - 1 - tert - butyl - 3 - ( 1 ' - naphthyl ) pyrazolo [ 3,4 - d ] pyrimidine present
+an experimental condition in which carbonyl cyanide m - chlorophenyl hydrazone be add to the medium or assay buffer in excess compare to standard medium or assay buffer .
+an experimental condition in which carbonyl cyanide m - chlorophenyl hydrazone was added to the medium or assay buffer in excess compared to standard medium or assay buffers .

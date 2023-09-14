@@ -1,0 +1,4503 @@
+{
+  "cellulitis": [
+    "SYMP:0000000"
+  ],
+  "abdominal cramp": [
+    "SYMP:0000001"
+  ],
+  "stomach cramp": [
+    "SYMP:0000001"
+  ],
+  "abdominal distention": [
+    "SYMP:0000002"
+  ],
+  "obsolete acute enteritis in newborn": [
+    "SYMP:0000003"
+  ],
+  "obsolete acute enteritis in newborns": [
+    "SYMP:0000003"
+  ],
+  "obsolete arrest moulting": [
+    "SYMP:0000004"
+  ],
+  "obsolete arrested moulting": [
+    "SYMP:0000004"
+  ],
+  "ataxia": [
+    "SYMP:0000005"
+  ],
+  "uncoordination": [
+    "SYMP:0000005"
+  ],
+  "backache": [
+    "SYMP:0000006"
+  ],
+  "back pain": [
+    "SYMP:0000006"
+  ],
+  "bleeding": [
+    "SYMP:0000007"
+  ],
+  "blindness": [
+    "SYMP:0000008"
+  ],
+  "blister": [
+    "SYMP:0000009"
+  ],
+  "obsolete bloody diarrhea": [
+    "SYMP:0000010"
+  ],
+  "obsolete bloody exudate": [
+    "SYMP:0000011"
+  ],
+  "blur vision": [
+    "SYMP:0000012"
+  ],
+  "blurred vision": [
+    "SYMP:0000012"
+  ],
+  "obsolete capillary leakage": [
+    "SYMP:0000013"
+  ],
+  "obsolete cardiomyocyte destruction": [
+    "SYMP:0000014"
+  ],
+  "giddiness": [
+    "SYMP:0000015"
+  ],
+  "confusion": [
+    "SYMP:0000016"
+  ],
+  "crinkle": [
+    "SYMP:0000017"
+  ],
+  "darkening of skin": [
+    "SYMP:0000018"
+  ],
+  "deafness": [
+    "SYMP:0000019"
+  ],
+  "dehydration": [
+    "SYMP:0000020"
+  ],
+  "delirium": [
+    "SYMP:0000021"
+  ],
+  "depression": [
+    "SYMP:0000022"
+  ],
+  "disorientation": [
+    "SYMP:0000023"
+  ],
+  "drowsiness": [
+    "SYMP:0000024"
+  ],
+  "drowsy": [
+    "SYMP:0000024"
+  ],
+  "somnolence": [
+    "SYMP:0000024"
+  ],
+  "dry cough": [
+    "SYMP:0000025"
+  ],
+  "nonproductive cough": [
+    "SYMP:0000025"
+  ],
+  "obsolete epidermal proliferation": [
+    "SYMP:0000026"
+  ],
+  "obsolete excess mucus in bronchus": [
+    "SYMP:0000027"
+  ],
+  "obsolete excess mucus in bronchi": [
+    "SYMP:0000027"
+  ],
+  "obsolete exophthalmia": [
+    "SYMP:0000028"
+  ],
+  "abnormal protrusion of the eyeball": [
+    "SYMP:0000028"
+  ],
+  "obsolete feather loss": [
+    "SYMP:0000029"
+  ],
+  "paralysis": [
+    "SYMP:0000030"
+  ],
+  "obsolete flaccid limb paralysis": [
+    "SYMP:0000031"
+  ],
+  "flaccidity": [
+    "SYMP:0000032"
+  ],
+  "flat keratotic capsule": [
+    "SYMP:0000033"
+  ],
+  "obsolete fluid in pericardial sac": [
+    "SYMP:0000034"
+  ],
+  "obsolete fragile bone": [
+    "SYMP:0000035"
+  ],
+  "obsolete fragile bones": [
+    "SYMP:0000035"
+  ],
+  "hemorrhagic gastroenteritis": [
+    "SYMP:0000036"
+  ],
+  "haemorrhagic gastroenteritis": [
+    "SYMP:0000036"
+  ],
+  "obsolete catarrhal enteritis": [
+    "SYMP:0000037"
+  ],
+  "dyspneic enteritis": [
+    "SYMP:0000038"
+  ],
+  "enteritis": [
+    "SYMP:0000039"
+  ],
+  "hematuria": [
+    "SYMP:0000040"
+  ],
+  "hemorrhage": [
+    "SYMP:0000041"
+  ],
+  "obsolete hemorrhagic enteritis": [
+    "SYMP:0000042"
+  ],
+  "obsolete hemorrhagic meningitis": [
+    "SYMP:0000043"
+  ],
+  "obsolete hemorrhagic thoracic lymphadenitis": [
+    "SYMP:0000044"
+  ],
+  "hepatic necrosis": [
+    "SYMP:0000045"
+  ],
+  "hepatitis": [
+    "SYMP:0000046"
+  ],
+  "hepatosplenomegaly": [
+    "SYMP:0000047"
+  ],
+  "obsolete high fever": [
+    "SYMP:0000048"
+  ],
+  "obsolete hind limb paralysis": [
+    "SYMP:0000049"
+  ],
+  "hindlimb paralysis": [
+    "SYMP:0000049"
+  ],
+  "obsolete hunch posture": [
+    "SYMP:0000050"
+  ],
+  "obsolete hunched posture": [
+    "SYMP:0000050"
+  ],
+  "hydrocephalus": [
+    "SYMP:0000051"
+  ],
+  "obsolete hyperemic liver": [
+    "SYMP:0000052"
+  ],
+  "obsolete hyperemic spleen": [
+    "SYMP:0000053"
+  ],
+  "hypergammaglobulinemia": [
+    "SYMP:0000054"
+  ],
+  "obsolete hyperkeratotic plaque of surface of foot": [
+    "SYMP:0000055"
+  ],
+  "obsolete hyperkeratotic plaques of surface of foot": [
+    "SYMP:0000055"
+  ],
+  "hyperpigmentation": [
+    "SYMP:0000056"
+  ],
+  "obsolete hyperplastic alveolar nodule": [
+    "SYMP:0000057"
+  ],
+  "obsolete hyperplastic alveolar nodules": [
+    "SYMP:0000057"
+  ],
+  "han": [
+    "SYMP:0000057"
+  ],
+  "hyperreflexia": [
+    "SYMP:0000058"
+  ],
+  "hypotension": [
+    "SYMP:0000059"
+  ],
+  "obsolete ill - thrift": [
+    "SYMP:0000060"
+  ],
+  "inflammation": [
+    "SYMP:0000061"
+  ],
+  "obsolete inflammation of meninges": [
+    "SYMP:0000062"
+  ],
+  "intestinal hemorrhage": [
+    "SYMP:0000063"
+  ],
+  "joint pain": [
+    "SYMP:0000064"
+  ],
+  "arthralgia": [
+    "SYMP:0000064"
+  ],
+  "arthromyalgia": [
+    "SYMP:0000064"
+  ],
+  "obsolete joint swell": [
+    "SYMP:0000065"
+  ],
+  "obsolete joint swelling": [
+    "SYMP:0000065"
+  ],
+  "keratotic nodule of the skin": [
+    "SYMP:0000066"
+  ],
+  "keratotic nodules of the skin": [
+    "SYMP:0000066"
+  ],
+  "obsolete lameness": [
+    "SYMP:0000067"
+  ],
+  "laryngitis": [
+    "SYMP:0000068"
+  ],
+  "laryngotracheitis": [
+    "SYMP:0000069"
+  ],
+  "larynx and trachea inflammation": [
+    "SYMP:0000069"
+  ],
+  "lesion in myocardium": [
+    "SYMP:0000070"
+  ],
+  "lesions in myocardium": [
+    "SYMP:0000070"
+  ],
+  "obsolete lesion in respiratory tract": [
+    "SYMP:0000071"
+  ],
+  "obsolete lesions in respiratory tract": [
+    "SYMP:0000071"
+  ],
+  "obsolete lesion in spleen": [
+    "SYMP:0000072"
+  ],
+  "obsolete lesions in spleen": [
+    "SYMP:0000072"
+  ],
+  "obsolete lesion in thymus": [
+    "SYMP:0000073"
+  ],
+  "obsolete lesions in thymus": [
+    "SYMP:0000073"
+  ],
+  "obsolete lesion in swim bladder": [
+    "SYMP:0000074"
+  ],
+  "obsolete lesions in swim bladder": [
+    "SYMP:0000074"
+  ],
+  "lethargy": [
+    "SYMP:0000075"
+  ],
+  "listlessness": [
+    "SYMP:0000076"
+  ],
+  "languid": [
+    "SYMP:0000076"
+  ],
+  "obsolete localize cutaneous lesion": [
+    "SYMP:0000077"
+  ],
+  "obsolete localized cutaneous lesions": [
+    "SYMP:0000077"
+  ],
+  "obsolete loose droppings": [
+    "SYMP:0000078"
+  ],
+  "coordination symptom": [
+    "SYMP:0000079"
+  ],
+  "obsolete loss of coordination": [
+    "SYMP:0000080"
+  ],
+  "obsolete low grade fever": [
+    "SYMP:0000081"
+  ],
+  "lesion in lung": [
+    "SYMP:0000082"
+  ],
+  "lesions in lung": [
+    "SYMP:0000082"
+  ],
+  "lymphangitis": [
+    "SYMP:0000083"
+  ],
+  "lymphoblastoma": [
+    "SYMP:0000084"
+  ],
+  "obsolete lymphocytic hyperplasia": [
+    "SYMP:0000085"
+  ],
+  "lymphopenia": [
+    "SYMP:0000086"
+  ],
+  "massive hepatic necrosis": [
+    "SYMP:0000087"
+  ],
+  "obsolete massive lymphadenopathy": [
+    "SYMP:0000088"
+  ],
+  "meningoencephalitis": [
+    "SYMP:0000089"
+  ],
+  "encephalitis": [
+    "SYMP:0000090"
+  ],
+  "mild encephalitis": [
+    "SYMP:0000091"
+  ],
+  "skin lesion": [
+    "SYMP:0000092"
+  ],
+  "muscle cramp": [
+    "SYMP:0000093"
+  ],
+  "muscle weakness": [
+    "SYMP:0000094"
+  ],
+  "myocarditis": [
+    "SYMP:0000095"
+  ],
+  "obsolete nasal discharge": [
+    "SYMP:0000096"
+  ],
+  "obsolete neck swell": [
+    "SYMP:0000097"
+  ],
+  "obsolete neck swelling": [
+    "SYMP:0000097"
+  ],
+  "nephritis": [
+    "SYMP:0000098"
+  ],
+  "pain": [
+    "SYMP:0000099"
+  ],
+  "lesion in pancreas": [
+    "SYMP:0000100"
+  ],
+  "lesions in pancreas": [
+    "SYMP:0000100"
+  ],
+  "obsolete partial paralysis": [
+    "SYMP:0000101"
+  ],
+  "paresis": [
+    "SYMP:0000101"
+  ],
+  "peritonitis": [
+    "SYMP:0000102"
+  ],
+  "obsolete persistent lymphocytosis": [
+    "SYMP:0000103"
+  ],
+  "obsolete petechial hemorrhage": [
+    "SYMP:0000104"
+  ],
+  "obsolete petechial hemorrhages": [
+    "SYMP:0000104"
+  ],
+  "obsolete photosensitivity": [
+    "SYMP:0000105"
+  ],
+  "plasmacytosis": [
+    "SYMP:0000106"
+  ],
+  "pleural effusion": [
+    "SYMP:0000107"
+  ],
+  "obsolete portal hepatitis": [
+    "SYMP:0000108"
+  ],
+  "mouth papule": [
+    "SYMP:0000109"
+  ],
+  "mouth papules": [
+    "SYMP:0000109"
+  ],
+  "obsolete proliferative mouth papule": [
+    "SYMP:0000110"
+  ],
+  "obsolete proliferative mouth papules": [
+    "SYMP:0000110"
+  ],
+  "obsolete proliferative skin lesion": [
+    "SYMP:0000111"
+  ],
+  "obsolete proliferative skin lesions": [
+    "SYMP:0000111"
+  ],
+  "tracheitis": [
+    "SYMP:0000112"
+  ],
+  "obsolete proliferative tracheitis": [
+    "SYMP:0000113"
+  ],
+  "thrombocytopenia": [
+    "SYMP:0000114"
+  ],
+  "obsolete prolong thrombocytopenia": [
+    "SYMP:0000115"
+  ],
+  "obsolete prolonged thrombocytopenia": [
+    "SYMP:0000115"
+  ],
+  "prostration": [
+    "SYMP:0000116"
+  ],
+  "obsolete pustular skin lesion": [
+    "SYMP:0000117"
+  ],
+  "obsolete pustular skin lesions": [
+    "SYMP:0000117"
+  ],
+  "rale": [
+    "SYMP:0000118"
+  ],
+  "rales": [
+    "SYMP:0000118"
+  ],
+  "crackle": [
+    "SYMP:0000118"
+  ],
+  "crackles": [
+    "SYMP:0000118"
+  ],
+  "crepitation": [
+    "SYMP:0000118"
+  ],
+  "crepitations": [
+    "SYMP:0000118"
+  ],
+  "obsolete reddening": [
+    "SYMP:0000119"
+  ],
+  "obsolete retinal inflammation": [
+    "SYMP:0000120"
+  ],
+  "obsolete rhinitis": [
+    "SYMP:0000121"
+  ],
+  "obsolete salivary gland swell": [
+    "SYMP:0000122"
+  ],
+  "obsolete salivary gland swelling": [
+    "SYMP:0000122"
+  ],
+  "obsolete sclerodermoid plaque": [
+    "SYMP:0000123"
+  ],
+  "obsolete sclerodermoid plaques": [
+    "SYMP:0000123"
+  ],
+  "seizure": [
+    "SYMP:0000124"
+  ],
+  "liver inflammation": [
+    "SYMP:0000125"
+  ],
+  "obsolete self - limit liver inflammation": [
+    "SYMP:0000126"
+  ],
+  "obsolete self - limiting liver inflammation": [
+    "SYMP:0000126"
+  ],
+  "severe backache": [
+    "SYMP:0000127"
+  ],
+  "intense back pain": [
+    "SYMP:0000127"
+  ],
+  "conjunctivitis": [
+    "SYMP:0000128"
+  ],
+  "severe conjunctivitis": [
+    "SYMP:0000129"
+  ],
+  "severe headache": [
+    "SYMP:0000130"
+  ],
+  "severe joint pain": [
+    "SYMP:0000131"
+  ],
+  "intense join pain": [
+    "SYMP:0000131"
+  ],
+  "necrosis": [
+    "SYMP:0000132"
+  ],
+  "severe necrosis": [
+    "SYMP:0000133"
+  ],
+  "sinusitis": [
+    "SYMP:0000134"
+  ],
+  "obsolete skin papule": [
+    "SYMP:0000135"
+  ],
+  "obsolete skin papules": [
+    "SYMP:0000135"
+  ],
+  "skin ulcer": [
+    "SYMP:0000136"
+  ],
+  "obsolete slight cough": [
+    "SYMP:0000137"
+  ],
+  "obsolete slight pyrexia": [
+    "SYMP:0000138"
+  ],
+  "sneeze": [
+    "SYMP:0000139"
+  ],
+  "sneezing": [
+    "SYMP:0000139"
+  ],
+  "obsolete spastic paralysis": [
+    "SYMP:0000140"
+  ],
+  "spasticity": [
+    "SYMP:0000141"
+  ],
+  "obsolete spleen hemorrhage": [
+    "SYMP:0000142"
+  ],
+  "obsolete spleen hemorrhages": [
+    "SYMP:0000142"
+  ],
+  "obsolete spleen infiltrates": [
+    "SYMP:0000143"
+  ],
+  "obsolete bronchopneumonia": [
+    "SYMP:0000144"
+  ],
+  "bronchial pneumonia": [
+    "SYMP:0000144"
+  ],
+  "lobular pneumonia": [
+    "SYMP:0000144"
+  ],
+  "obsolete splitting of tissue": [
+    "SYMP:0000145"
+  ],
+  "obsolete splitting of tissues": [
+    "SYMP:0000145"
+  ],
+  "feces and droppings symptom": [
+    "SYMP:0000146"
+  ],
+  "fecal": [
+    "SYMP:0000146"
+  ],
+  "steatorrhea": [
+    "SYMP:0000147"
+  ],
+  "obsolete sudden onset of fever": [
+    "SYMP:0000148"
+  ],
+  "obsolete sudden onset of severe chill": [
+    "SYMP:0000149"
+  ],
+  "obsolete sudden onset of severe chills": [
+    "SYMP:0000149"
+  ],
+  "obsolete swollen cervical lymphnodes": [
+    "SYMP:0000150"
+  ],
+  "obsolete systemic infection": [
+    "SYMP:0000151"
+  ],
+  "obsolete systemic necrosis": [
+    "SYMP:0000152"
+  ],
+  "vasculitis": [
+    "SYMP:0000153"
+  ],
+  "obsolete systemic vasculitis": [
+    "SYMP:0000154"
+  ],
+  "obsolete tarry droppings": [
+    "SYMP:0000155"
+  ],
+  "thirst": [
+    "SYMP:0000156"
+  ],
+  "thymus symptom": [
+    "SYMP:0000157"
+  ],
+  "spleen symptom": [
+    "SYMP:0000158"
+  ],
+  "obsolete thymus atrophy": [
+    "SYMP:0000159"
+  ],
+  "tracheobronchitis": [
+    "SYMP:0000160"
+  ],
+  "obsolete transient fever": [
+    "SYMP:0000161"
+  ],
+  "tremor": [
+    "SYMP:0000162"
+  ],
+  "obsolete ulcerative dermal vesicle": [
+    "SYMP:0000163"
+  ],
+  "obsolete ulcerative dermal vesicles": [
+    "SYMP:0000163"
+  ],
+  "incoordination": [
+    "SYMP:0000164"
+  ],
+  "lack of coordination": [
+    "SYMP:0000164"
+  ],
+  "obsolete upper respiratory distress": [
+    "SYMP:0000165"
+  ],
+  "obsolete vascular lesion": [
+    "SYMP:0000166"
+  ],
+  "obsolete vascular lesions": [
+    "SYMP:0000166"
+  ],
+  "obsolete vascular necrosis": [
+    "SYMP:0000167"
+  ],
+  "obsolete vein swell": [
+    "SYMP:0000168"
+  ],
+  "obsolete vein swelling": [
+    "SYMP:0000168"
+  ],
+  "obsolete vesicle on foot": [
+    "SYMP:0000169"
+  ],
+  "obsolete vesicles on feet": [
+    "SYMP:0000169"
+  ],
+  "obsolete vesicle on hoof corona": [
+    "SYMP:0000170"
+  ],
+  "obsolete vesicles on hoof corona": [
+    "SYMP:0000170"
+  ],
+  "obsolete vesicle on mouth": [
+    "SYMP:0000171"
+  ],
+  "obsolete vesicles on mouth": [
+    "SYMP:0000171"
+  ],
+  "obsolete vesicle on teat": [
+    "SYMP:0000172"
+  ],
+  "obsolete vesicles on teats": [
+    "SYMP:0000172"
+  ],
+  "obsolete vesicular lesion on lip border": [
+    "SYMP:0000173"
+  ],
+  "obsolete vesicular lesions on lip border": [
+    "SYMP:0000173"
+  ],
+  "cold sore": [
+    "SYMP:0000173"
+  ],
+  "waste": [
+    "SYMP:0000174"
+  ],
+  "wasting": [
+    "SYMP:0000174"
+  ],
+  "obsolete watery diarrhea": [
+    "SYMP:0000175"
+  ],
+  "obsolete watery ocular discharge": [
+    "SYMP:0000176"
+  ],
+  "weakness": [
+    "SYMP:0000177"
+  ],
+  "weight loss": [
+    "SYMP:0000178"
+  ],
+  "loss of weight": [
+    "SYMP:0000178"
+  ],
+  "obsolete wet droppings": [
+    "SYMP:0000179"
+  ],
+  "liver symptom": [
+    "SYMP:0000180"
+  ],
+  "obsolete yellow liver": [
+    "SYMP:0000181"
+  ],
+  "bubo": [
+    "SYMP:0000182"
+  ],
+  "buboes": [
+    "SYMP:0000182"
+  ],
+  "muscle symptom": [
+    "SYMP:0000183"
+  ],
+  "change in skin color": [
+    "SYMP:0000184"
+  ],
+  "weariness": [
+    "SYMP:0000185"
+  ],
+  "exhaustion": [
+    "SYMP:0000186"
+  ],
+  "tiredness": [
+    "SYMP:0000187"
+  ],
+  "abdominal discomfort": [
+    "SYMP:0000188"
+  ],
+  "postural reaction": [
+    "SYMP:0000189"
+  ],
+  "wheelbarrow": [
+    "SYMP:0000190"
+  ],
+  "wheelbarrowing": [
+    "SYMP:0000190"
+  ],
+  "obsolete hemistanding": [
+    "SYMP:0000191"
+  ],
+  "obsolete hemiwalking": [
+    "SYMP:0000192"
+  ],
+  "hop": [
+    "SYMP:0000193"
+  ],
+  "hopping": [
+    "SYMP:0000193"
+  ],
+  "conscious proprioception": [
+    "SYMP:0000194"
+  ],
+  "abnormal hemiwalking hemistanding": [
+    "SYMP:0000195"
+  ],
+  "reproductive system symptom": [
+    "SYMP:0000196"
+  ],
+  "abortion": [
+    "SYMP:0000197"
+  ],
+  "infectious abortion": [
+    "SYMP:0000197"
+  ],
+  "miscarriage": [
+    "SYMP:0000198"
+  ],
+  "spontaneous abortion": [
+    "SYMP:0000199"
+  ],
+  "acute arthritis": [
+    "SYMP:0000200"
+  ],
+  "acute meningoencephalitis": [
+    "SYMP:0000201"
+  ],
+  "acute painful vision loss": [
+    "SYMP:0000202"
+  ],
+  "obsolete acute respiratory distress": [
+    "SYMP:0000203"
+  ],
+  "obsolete acute suppurative lesion": [
+    "SYMP:0000204"
+  ],
+  "obsolete acute suppurative lesions": [
+    "SYMP:0000204"
+  ],
+  "salivary gland symptom": [
+    "SYMP:0000205"
+  ],
+  "acute suppurative parotiditis": [
+    "SYMP:0000206"
+  ],
+  "afebrile": [
+    "SYMP:0000207"
+  ],
+  "anemia": [
+    "SYMP:0000208"
+  ],
+  "anaemia": [
+    "SYMP:0000208"
+  ],
+  "ischemia": [
+    "SYMP:0000209"
+  ],
+  "photophobia": [
+    "SYMP:0000210"
+  ],
+  "light intolerance": [
+    "SYMP:0000210"
+  ],
+  "asthenopia": [
+    "SYMP:0000211"
+  ],
+  "eye weakness": [
+    "SYMP:0000211"
+  ],
+  "rapid eye fatigue": [
+    "SYMP:0000211"
+  ],
+  "eye strain": [
+    "SYMP:0000212"
+  ],
+  "agraphia": [
+    "SYMP:0000213"
+  ],
+  "inability to write": [
+    "SYMP:0000213"
+  ],
+  "anomia": [
+    "SYMP:0000214"
+  ],
+  "amnesic aphasia": [
+    "SYMP:0000214"
+  ],
+  "amnestic aphasia": [
+    "SYMP:0000214"
+  ],
+  "anomic aphasia": [
+    "SYMP:0000214"
+  ],
+  "inability to name object": [
+    "SYMP:0000214"
+  ],
+  "inability to name objects": [
+    "SYMP:0000214"
+  ],
+  "nominal aphasia": [
+    "SYMP:0000214"
+  ],
+  "inability to comprehend speech": [
+    "SYMP:0000215"
+  ],
+  "inability to speak": [
+    "SYMP:0000216"
+  ],
+  "inability to form word": [
+    "SYMP:0000217"
+  ],
+  "inability to form words": [
+    "SYMP:0000217"
+  ],
+  "poor enunciation": [
+    "SYMP:0000218"
+  ],
+  "receptive aphasia": [
+    "SYMP:0000219"
+  ],
+  "fluent aphasia": [
+    "SYMP:0000219"
+  ],
+  "inability to perceive pitch , rhythm , and emotional tone of speech": [
+    "SYMP:0000219"
+  ],
+  "sensory aphasia": [
+    "SYMP:0000219"
+  ],
+  "wernicke 's aphasia": [
+    "SYMP:0000219"
+  ],
+  "areflexia": [
+    "SYMP:0000220"
+  ],
+  "absence of neurological reflex": [
+    "SYMP:0000220"
+  ],
+  "absence of neurological reflexes": [
+    "SYMP:0000220"
+  ],
+  "absence of knee jerk reflex": [
+    "SYMP:0000221"
+  ],
+  "limb weakness": [
+    "SYMP:0000222"
+  ],
+  "extremity weakness": [
+    "SYMP:0000222"
+  ],
+  "extremities weakness": [
+    "SYMP:0000222"
+  ],
+  "arm weakness": [
+    "SYMP:0000223"
+  ],
+  "leg weakness": [
+    "SYMP:0000224"
+  ],
+  "asthenia": [
+    "SYMP:0000225"
+  ],
+  "loss of strength": [
+    "SYMP:0000225"
+  ],
+  "atrial fibrillation": [
+    "SYMP:0000226"
+  ],
+  "a - fib": [
+    "SYMP:0000226"
+  ],
+  "afib": [
+    "SYMP:0000226"
+  ],
+  "auricular fibrillation": [
+    "SYMP:0000226"
+  ],
+  "blood vessel infection": [
+    "SYMP:0000227"
+  ],
+  "hemorrhagic diarrhea": [
+    "SYMP:0000228"
+  ],
+  "bloody stool": [
+    "SYMP:0000229"
+  ],
+  "blood in stool": [
+    "SYMP:0000229"
+  ],
+  "body ache": [
+    "SYMP:0000230"
+  ],
+  "bradycardia": [
+    "SYMP:0000231"
+  ],
+  "bronchiolitis": [
+    "SYMP:0000232"
+  ],
+  "bronchiole inflammation": [
+    "SYMP:0020057"
+  ],
+  "bronchioles inflammation": [
+    "SYMP:0000232"
+  ],
+  "inability to think clearly": [
+    "SYMP:0000233"
+  ],
+  "cloud sensorium": [
+    "SYMP:0000233"
+  ],
+  "clouded sensorium": [
+    "SYMP:0000233"
+  ],
+  "decreased sensorium": [
+    "SYMP:0000233"
+  ],
+  "cloudy cornea": [
+    "SYMP:0000234"
+  ],
+  "colic": [
+    "SYMP:0000235"
+  ],
+  "colicky pain": [
+    "SYMP:0000236"
+  ],
+  "congestion": [
+    "SYMP:0000237"
+  ],
+  "block nose": [
+    "SYMP:0000237"
+  ],
+  "blocked nose": [
+    "SYMP:0000237"
+  ],
+  "nasal blockage": [
+    "SYMP:0000237"
+  ],
+  "nasal obstruction": [
+    "SYMP:0000237"
+  ],
+  "stuff up nose": [
+    "SYMP:0000237"
+  ],
+  "stuffed up nose": [
+    "SYMP:0000237"
+  ],
+  "stuffy nose": [
+    "SYMP:0000237"
+  ],
+  "continuous profuse salivation": [
+    "SYMP:0000238"
+  ],
+  "cornea symptom": [
+    "SYMP:0000239"
+  ],
+  "corneal opacity": [
+    "SYMP:0000240"
+  ],
+  "corneal ulcer": [
+    "SYMP:0000241"
+  ],
+  "corneal ulcers": [
+    "SYMP:0000241"
+  ],
+  "cough with bloody sputum": [
+    "SYMP:0000242"
+  ],
+  "cyclic fever": [
+    "SYMP:0000243"
+  ],
+  "intermittent fever": [
+    "SYMP:0000243"
+  ],
+  "recurrent fever": [
+    "SYMP:0000243"
+  ],
+  "alteration of appetite": [
+    "SYMP:0000244"
+  ],
+  "decrease appetite": [
+    "SYMP:0000245"
+  ],
+  "decreased appetite": [
+    "SYMP:0000245"
+  ],
+  "poor appetite": [
+    "SYMP:0000245"
+  ],
+  "increase appetite": [
+    "SYMP:0000246"
+  ],
+  "increased appetite": [
+    "SYMP:0000246"
+  ],
+  "proprioception symptom": [
+    "SYMP:0000247"
+  ],
+  "decrease conscious proprioception": [
+    "SYMP:0000248"
+  ],
+  "decreased conscious proprioception": [
+    "SYMP:0000248"
+  ],
+  "reflex symptom": [
+    "SYMP:0000249"
+  ],
+  "decrease flexor withdrawal reflex": [
+    "SYMP:0000250"
+  ],
+  "decreased flexor withdrawal reflex": [
+    "SYMP:0000250"
+  ],
+  "dermal abscess": [
+    "SYMP:0000251"
+  ],
+  "cutaneous abscess": [
+    "SYMP:0000251"
+  ],
+  "dermal abscesses": [
+    "SYMP:0000251"
+  ],
+  "skin abscess": [
+    "SYMP:0000251"
+  ],
+  "subcutaneous abscess": [
+    "SYMP:0000251"
+  ],
+  "diffuse rash": [
+    "SYMP:0000252"
+  ],
+  "diffuse erythema": [
+    "SYMP:0000252"
+  ],
+  "anisocoria": [
+    "SYMP:0000253"
+  ],
+  "enlargement of one pupil": [
+    "SYMP:0000253"
+  ],
+  "pupil of different size": [
+    "SYMP:0000253"
+  ],
+  "pupils of different size": [
+    "SYMP:0000253"
+  ],
+  "dilate pupil": [
+    "SYMP:0000254"
+  ],
+  "dilated pupil": [
+    "SYMP:0000254"
+  ],
+  "diminish gastro - intestinal motility": [
+    "SYMP:0000255"
+  ],
+  "diminished gastro - intestinal motility": [
+    "SYMP:0000255"
+  ],
+  "diminish gag reflex": [
+    "SYMP:0000256"
+  ],
+  "diminished gag reflex": [
+    "SYMP:0000256"
+  ],
+  "absent gag reflex": [
+    "SYMP:0000257"
+  ],
+  "double vision": [
+    "SYMP:0000258"
+  ],
+  "diplopia": [
+    "SYMP:0000258"
+  ],
+  "dry hacking cough": [
+    "SYMP:0000259"
+  ],
+  "dry mouth": [
+    "SYMP:0000260"
+  ],
+  "dry mucous membrane": [
+    "SYMP:0000261"
+  ],
+  "dry mucous membranes": [
+    "SYMP:0000261"
+  ],
+  "endocarditis": [
+    "SYMP:0000262"
+  ],
+  "epididymitis": [
+    "SYMP:0000263"
+  ],
+  "inflammation of the epididymis": [
+    "SYMP:0000263"
+  ],
+  "epididymorchitis": [
+    "SYMP:0000264"
+  ],
+  "epididymo - orchitis": [
+    "SYMP:0000264"
+  ],
+  "obsolete absence seizure": [
+    "SYMP:0000265"
+  ],
+  "petit mal seizure": [
+    "SYMP:0000265"
+  ],
+  "focal seizure": [
+    "SYMP:0000266"
+  ],
+  "partial seizure": [
+    "SYMP:0000266"
+  ],
+  "generalize seizure": [
+    "SYMP:0000267"
+  ],
+  "generalized seizure": [
+    "SYMP:0000267"
+  ],
+  "tonic - clonic seizure": [
+    "SYMP:0000268"
+  ],
+  "grand mal seizure": [
+    "SYMP:0000268"
+  ],
+  "epileptic seizure": [
+    "SYMP:0000269"
+  ],
+  "simple partial seizure": [
+    "SYMP:0000270"
+  ],
+  "complex partial seizure": [
+    "SYMP:0000271"
+  ],
+  "myoclonic seizure": [
+    "SYMP:0000272"
+  ],
+  "clonic seizure": [
+    "SYMP:0000273"
+  ],
+  "tonic seizure": [
+    "SYMP:0000274"
+  ],
+  "atonic seizure": [
+    "SYMP:0000275"
+  ],
+  "obsolete excess pericardial fluid": [
+    "SYMP:0000276"
+  ],
+  "excess salivation": [
+    "SYMP:0000277"
+  ],
+  "profuse salivation": [
+    "SYMP:0000277"
+  ],
+  "extensive ulcer": [
+    "SYMP:0000278"
+  ],
+  "extreme exhaustion": [
+    "SYMP:0000279"
+  ],
+  "extreme fatigue": [
+    "SYMP:0000280"
+  ],
+  "eye discharge": [
+    "SYMP:0000281"
+  ],
+  "ocular discharge": [
+    "SYMP:0000281"
+  ],
+  "fix dilate pupil": [
+    "SYMP:0000282"
+  ],
+  "fixed dilated pupils": [
+    "SYMP:0000282"
+  ],
+  "facial paralysis": [
+    "SYMP:0000283"
+  ],
+  "fix pupil": [
+    "SYMP:0000284"
+  ],
+  "fixed pupil": [
+    "SYMP:0000284"
+  ],
+  "fixed pupils": [
+    "SYMP:0000284"
+  ],
+  "flaccid paralysis": [
+    "SYMP:0000285"
+  ],
+  "obsolete floppy head": [
+    "SYMP:0000286"
+  ],
+  "arrhythmia": [
+    "SYMP:0000287"
+  ],
+  "abnormal heart beat": [
+    "SYMP:0000287",
+    "SYMP:0000530"
+  ],
+  "abnormal heart rhythm": [
+    "SYMP:0000287"
+  ],
+  "dysrhythmia": [
+    "SYMP:0000287"
+  ],
+  "fluctuation of heart rate": [
+    "SYMP:0000287"
+  ],
+  "heart rhythm symptom": [
+    "SYMP:0000287"
+  ],
+  "irregular heartbeat": [
+    "SYMP:0000287"
+  ],
+  "eczema": [
+    "SYMP:0000289"
+  ],
+  "belching": [
+    "SYMP:0000290"
+  ],
+  "eructation": [
+    "SYMP:0000290"
+  ],
+  "gas pain": [
+    "SYMP:0000291"
+  ],
+  "heart failure": [
+    "SYMP:0000292"
+  ],
+  "hemiparesis": [
+    "SYMP:0000293"
+  ],
+  "hemolysis": [
+    "SYMP:0000294"
+  ],
+  "haemolysis": [
+    "SYMP:0000294"
+  ],
+  "hepatic abscess": [
+    "SYMP:0000295"
+  ],
+  "hepatic abscesses": [
+    "SYMP:0000295"
+  ],
+  "hepatic dysfunction": [
+    "SYMP:0000296"
+  ],
+  "hilar lymphadenitis": [
+    "SYMP:0000297"
+  ],
+  "hoarse voice": [
+    "SYMP:0000298"
+  ],
+  "hyperemia": [
+    "SYMP:0000299"
+  ],
+  "hyperaemia": [
+    "SYMP:0000299"
+  ],
+  "hyperemic": [
+    "SYMP:0000299"
+  ],
+  "hyperesthesia": [
+    "SYMP:0000300"
+  ],
+  "hyperaesthesia": [
+    "SYMP:0000300"
+  ],
+  "hypopyon": [
+    "SYMP:0000301"
+  ],
+  "hypothermia": [
+    "SYMP:0000302"
+  ],
+  "hypoxemia": [
+    "SYMP:0000303"
+  ],
+  "hypoxaemia": [
+    "SYMP:0000303"
+  ],
+  "impaired coordination": [
+    "SYMP:0000304"
+  ],
+  "impaired gag reflex": [
+    "SYMP:0000305"
+  ],
+  "inability to fee": [
+    "SYMP:0000306"
+  ],
+  "inability to feed": [
+    "SYMP:0000306"
+  ],
+  "inibility to stand": [
+    "SYMP:0000307"
+  ],
+  "inability to swallow": [
+    "SYMP:0000308"
+  ],
+  "loss of appetite": [
+    "SYMP:0000309"
+  ],
+  "inappetence": [
+    "SYMP:0000309"
+  ],
+  "lack of appetite": [
+    "SYMP:0000309"
+  ],
+  "inflamed eye": [
+    "SYMP:0000310"
+  ],
+  "inflamed eyes": [
+    "SYMP:0000310"
+  ],
+  "intestinal hypermotility": [
+    "SYMP:0000311"
+  ],
+  "joint symptom": [
+    "SYMP:0000312"
+  ],
+  "joint inflammation": [
+    "SYMP:0000313"
+  ],
+  "keratitis": [
+    "SYMP:0000314"
+  ],
+  "corneitis": [
+    "SYMP:0000314"
+  ],
+  "inflammation of the cornea of the eye": [
+    "SYMP:0000314"
+  ],
+  "lateroventral deviation of the head": [
+    "SYMP:0000315"
+  ],
+  "leg cramp": [
+    "SYMP:0000316"
+  ],
+  "obsolete leukopenia": [
+    "SYMP:0000317"
+  ],
+  "low white blood cell count": [
+    "SYMP:0020060"
+  ],
+  "loss of balance": [
+    "SYMP:0000318"
+  ],
+  "loss of tendon reflex": [
+    "SYMP:0000319"
+  ],
+  "vision symptom": [
+    "SYMP:0000320"
+  ],
+  "loss of vision": [
+    "SYMP:0000321"
+  ],
+  "low birth weight": [
+    "SYMP:0000322"
+  ],
+  "melena": [
+    "SYMP:0000323"
+  ],
+  "melaena": [
+    "SYMP:0000323"
+  ],
+  "bronchitis": [
+    "SYMP:0000324"
+  ],
+  "mild bronchitis": [
+    "SYMP:0000325"
+  ],
+  "mild hypotension": [
+    "SYMP:0000326"
+  ],
+  "tetanic convulsion": [
+    "SYMP:0000327"
+  ],
+  "tetanic convulsions": [
+    "SYMP:0000327"
+  ],
+  "mild tetanic convulsion": [
+    "SYMP:0000328"
+  ],
+  "motor weakness": [
+    "SYMP:0000329"
+  ],
+  "mouth sore": [
+    "SYMP:0000330"
+  ],
+  "muscle ache": [
+    "SYMP:0000331"
+  ],
+  "muscle soreness": [
+    "SYMP:0000332"
+  ],
+  "muscle tenderness": [
+    "SYMP:0000333"
+  ],
+  "muscle necrosis": [
+    "SYMP:0000334"
+  ],
+  "neck weakness": [
+    "SYMP:0000335"
+  ],
+  "neurological dysfunction": [
+    "SYMP:0000336"
+  ],
+  "night sweat": [
+    "SYMP:0000337"
+  ],
+  "night sweats": [
+    "SYMP:0000337"
+  ],
+  "sleep hyperhidrosis": [
+    "SYMP:0000337"
+  ],
+  "nystagmus": [
+    "SYMP:0000338"
+  ],
+  "rapid involuntary rhythmic eye movement": [
+    "SYMP:0000338"
+  ],
+  "occasional diplopia": [
+    "SYMP:0000339"
+  ],
+  "limb edema": [
+    "SYMP:0000340"
+  ],
+  "limb oedema": [
+    "SYMP:0000340"
+  ],
+  "oedema of the limb": [
+    "SYMP:0000340"
+  ],
+  "oedema of the limbs": [
+    "SYMP:0000340"
+  ],
+  "obsolete ophthalmoplegia": [
+    "SYMP:0000341"
+  ],
+  "extraocular muscle paralysis": [
+    "SYMP:0000658"
+  ],
+  "eye movement paralysis": [
+    "SYMP:0000341"
+  ],
+  "slur speech": [
+    "SYMP:0000342"
+  ],
+  "slurred speech": [
+    "SYMP:0000342"
+  ],
+  "painful lymph gland": [
+    "SYMP:0000343"
+  ],
+  "painful lymph glands": [
+    "SYMP:0000343"
+  ],
+  "painful lymph node": [
+    "SYMP:0000343"
+  ],
+  "painful lymph nodes": [
+    "SYMP:0000343"
+  ],
+  "palpebral edema": [
+    "SYMP:0000344"
+  ],
+  "edema of the eyelid": [
+    "SYMP:0000344"
+  ],
+  "pant respiration": [
+    "SYMP:0000345"
+  ],
+  "panting respiration": [
+    "SYMP:0000345"
+  ],
+  "papule": [
+    "SYMP:0000346"
+  ],
+  "lip paralysis": [
+    "SYMP:0000347"
+  ],
+  "paralyse lip": [
+    "SYMP:0000347"
+  ],
+  "paralysed lips": [
+    "SYMP:0000347"
+  ],
+  "throat muscle paralysis": [
+    "SYMP:0000348"
+  ],
+  "paraplegia": [
+    "SYMP:0000349"
+  ],
+  "parotid abscess": [
+    "SYMP:0000350"
+  ],
+  "obsolete partial paralysis of the limb": [
+    "SYMP:0000351"
+  ],
+  "obsolete partial paralysis of the limbs": [
+    "SYMP:0000351"
+  ],
+  "peripheral muscle weakness": [
+    "SYMP:0000352"
+  ],
+  "phlegm": [
+    "SYMP:0000353"
+  ],
+  "pneumonitis": [
+    "SYMP:0000354"
+  ],
+  "inflammation of lung tissue": [
+    "SYMP:0000354"
+  ],
+  "poor feeding": [
+    "SYMP:0000355"
+  ],
+  "phlebitis": [
+    "SYMP:0000356"
+  ],
+  "inflammation of a vein": [
+    "SYMP:0000356"
+  ],
+  "postphlebitic ulcer": [
+    "SYMP:0000357"
+  ],
+  "premature labor": [
+    "SYMP:0000358"
+  ],
+  "profound weakness": [
+    "SYMP:0000359"
+  ],
+  "emaciation": [
+    "SYMP:0000360"
+  ],
+  "progressive emaciation": [
+    "SYMP:0000361"
+  ],
+  "progressive prostration": [
+    "SYMP:0000362"
+  ],
+  "progressive weakness": [
+    "SYMP:0000363"
+  ],
+  "prostate symptom": [
+    "SYMP:0000364"
+  ],
+  "prostatic abscess": [
+    "SYMP:0000365"
+  ],
+  "prostatic infection": [
+    "SYMP:0000366"
+  ],
+  "proteinuria": [
+    "SYMP:0000367"
+  ],
+  "proximal paralysis of arm and leg": [
+    "SYMP:0000368"
+  ],
+  "ptosis": [
+    "SYMP:0000369"
+  ],
+  "droopiness": [
+    "SYMP:0000369"
+  ],
+  "renal abscess": [
+    "SYMP:0000370"
+  ],
+  "kidney abscess": [
+    "SYMP:0000370"
+  ],
+  "perirenal abscess": [
+    "SYMP:0000370"
+  ],
+  "respiratory paralysis": [
+    "SYMP:0000371"
+  ],
+  "rhinorrhea": [
+    "SYMP:0000372"
+  ],
+  "runny nose": [
+    "SYMP:0000372"
+  ],
+  "salivation": [
+    "SYMP:0000373"
+  ],
+  "scrotal abscess": [
+    "SYMP:0000374"
+  ],
+  "severe abdominal cramp": [
+    "SYMP:0000375"
+  ],
+  "severe diarrhea": [
+    "SYMP:0000376"
+  ],
+  "obsolete mastitis": [
+    "SYMP:0000377"
+  ],
+  "inflammation of mammary breast": [
+    "SYMP:0000377",
+    "SYMP:0020053"
+  ],
+  "mammitis": [
+    "SYMP:0000377",
+    "SYMP:0020053"
+  ],
+  "obsolete severe mastitis": [
+    "SYMP:0000378"
+  ],
+  "severe myalgia": [
+    "SYMP:0000379"
+  ],
+  "obsolete severe pneumonia": [
+    "SYMP:0000380"
+  ],
+  "spleen abscess": [
+    "SYMP:0000381"
+  ],
+  "stagger gait": [
+    "SYMP:0000382"
+  ],
+  "staggering gait": [
+    "SYMP:0000382"
+  ],
+  "stiff neck": [
+    "SYMP:0000383"
+  ],
+  "neck symptom": [
+    "SYMP:0000384"
+  ],
+  "cervicalgia": [
+    "SYMP:0000384"
+  ],
+  "throat symptom": [
+    "SYMP:0000385"
+  ],
+  "mouth symptom": [
+    "SYMP:0000386"
+  ],
+  "head symptom": [
+    "SYMP:0000387"
+  ],
+  "nose symptom": [
+    "SYMP:0000388"
+  ],
+  "stupor": [
+    "SYMP:0000389"
+  ],
+  "thyroid symptom": [
+    "SYMP:0000390"
+  ],
+  "thyroid abscess": [
+    "SYMP:0000391"
+  ],
+  "thyroid abscesses": [
+    "SYMP:0000391"
+  ],
+  "ear symptom": [
+    "SYMP:0000392"
+  ],
+  "tinnitus": [
+    "SYMP:0000393"
+  ],
+  "sensation of noise": [
+    "SYMP:0000393"
+  ],
+  "muscle twitch": [
+    "SYMP:0000394"
+  ],
+  "muscle twitching": [
+    "SYMP:0000394"
+  ],
+  "facial muscle twitch": [
+    "SYMP:0000395"
+  ],
+  "facial muscle twitching": [
+    "SYMP:0000395"
+  ],
+  "mydriasis": [
+    "SYMP:0000396"
+  ],
+  "excessive pupil dilation": [
+    "SYMP:0000396"
+  ],
+  "prolonged pupil dilation": [
+    "SYMP:0000396"
+  ],
+  "unreactive mydriasis": [
+    "SYMP:0000397"
+  ],
+  "vaginal discharge": [
+    "SYMP:0000398"
+  ],
+  "vertigo": [
+    "SYMP:0000399"
+  ],
+  "weak cry": [
+    "SYMP:0000400"
+  ],
+  "wobble": [
+    "SYMP:0000401"
+  ],
+  "cachexia": [
+    "SYMP:0000402"
+  ],
+  "general physical wasting and malnutrition": [
+    "SYMP:0000402"
+  ],
+  "weight gain": [
+    "SYMP:0000403"
+  ],
+  "gain of weight": [
+    "SYMP:0000403"
+  ],
+  "dyspareunia": [
+    "SYMP:0000404"
+  ],
+  "difficult sexual intercourse": [
+    "SYMP:0000404"
+  ],
+  "painful sexual intercourse": [
+    "SYMP:0000404"
+  ],
+  "vaginismus": [
+    "SYMP:0000405"
+  ],
+  "painful spasmodic vagina contraction": [
+    "SYMP:0000405"
+  ],
+  "painful spasmodic vagina contractions": [
+    "SYMP:0000405"
+  ],
+  "bruise": [
+    "SYMP:0000406"
+  ],
+  "bruises": [
+    "SYMP:0000406"
+  ],
+  "bruising": [
+    "SYMP:0000406"
+  ],
+  "contusion": [
+    "SYMP:0000406"
+  ],
+  "ecchymosis": [
+    "SYMP:0000406"
+  ],
+  "syncope": [
+    "SYMP:0000407"
+  ],
+  "faint": [
+    "SYMP:0000407"
+  ],
+  "fainting": [
+    "SYMP:0000407",
+    "SYMP:0000445"
+  ],
+  "loss of consciousness due to insuffiecient blood flow to the brain": [
+    "SYMP:0000407"
+  ],
+  "cataplexy": [
+    "SYMP:0000408"
+  ],
+  "hyperthermia": [
+    "SYMP:0000409"
+  ],
+  "neurological and physiological symptom": [
+    "SYMP:0000410"
+  ],
+  "infant symptom": [
+    "SYMP:0000411"
+  ],
+  "anxiety": [
+    "SYMP:0000412"
+  ],
+  "catatonia": [
+    "SYMP:0000413"
+  ],
+  "dysarthria": [
+    "SYMP:0000414"
+  ],
+  "amaurosis fugax": [
+    "SYMP:0000415"
+  ],
+  "amaurosis": [
+    "SYMP:0000416"
+  ],
+  "pupil symptom": [
+    "SYMP:0000417"
+  ],
+  "contract pupil": [
+    "SYMP:0000418"
+  ],
+  "contracted pupil": [
+    "SYMP:0000418"
+  ],
+  "miosis": [
+    "SYMP:0000419"
+  ],
+  "bloating": [
+    "SYMP:0000420"
+  ],
+  "hematochezia": [
+    "SYMP:0000421"
+  ],
+  "dyspepsia": [
+    "SYMP:0000422"
+  ],
+  "indigestion": [
+    "SYMP:0000422"
+  ],
+  "pyrosis": [
+    "SYMP:0000423"
+  ],
+  "acid indigestion": [
+    "SYMP:0000423",
+    "SYMP:0000439"
+  ],
+  "heartburn": [
+    "SYMP:0000423"
+  ],
+  "claudication": [
+    "SYMP:0000424"
+  ],
+  "blockage of leg artery": [
+    "SYMP:0000424"
+  ],
+  "blockage of leg arteries": [
+    "SYMP:0000424"
+  ],
+  "reticulocytosis": [
+    "SYMP:0000425"
+  ],
+  "macrocytosis": [
+    "SYMP:0000426"
+  ],
+  "obsolete impotence": [
+    "SYMP:0000427"
+  ],
+  "erectile dysfunction": [
+    "SYMP:0000427"
+  ],
+  "hypoventilation": [
+    "SYMP:0000428"
+  ],
+  "bradypnea": [
+    "SYMP:0000429"
+  ],
+  "abnormally slow breathing": [
+    "SYMP:0000429"
+  ],
+  "pleuritic chest pain": [
+    "SYMP:0000430"
+  ],
+  "sputum": [
+    "SYMP:0000431"
+  ],
+  "sputum production": [
+    "SYMP:0000431"
+  ],
+  "itch": [
+    "SYMP:0000432"
+  ],
+  "itching": [
+    "SYMP:0000432"
+  ],
+  "pruritus": [
+    "SYMP:0000432"
+  ],
+  "anasarca": [
+    "SYMP:0000433"
+  ],
+  "generalize edema": [
+    "SYMP:0000433"
+  ],
+  "generalized edema": [
+    "SYMP:0000433"
+  ],
+  "urticaria": [
+    "SYMP:0000434"
+  ],
+  "hive": [
+    "SYMP:0000434"
+  ],
+  "hives": [
+    "SYMP:0000434"
+  ],
+  "nettle rash": [
+    "SYMP:0000434"
+  ],
+  "uredo": [
+    "SYMP:0000434"
+  ],
+  "paresthesia": [
+    "SYMP:0000435"
+  ],
+  "abnormal vaginal bleeding": [
+    "SYMP:0000436"
+  ],
+  "abnormal menstruation": [
+    "SYMP:0000436"
+  ],
+  "earache": [
+    "SYMP:0000437"
+  ],
+  "toothache": [
+    "SYMP:0000438"
+  ],
+  "obsolete heartburn": [
+    "SYMP:0000439"
+  ],
+  "hair loss": [
+    "SYMP:0000440"
+  ],
+  "elbow pain": [
+    "SYMP:0000441"
+  ],
+  "knee pain": [
+    "SYMP:0000442"
+  ],
+  "shoulder pain": [
+    "SYMP:0000443"
+  ],
+  "nail discoloration": [
+    "SYMP:0000444"
+  ],
+  "obsolete faint": [
+    "SYMP:0000445"
+  ],
+  "bloodshot eye": [
+    "SYMP:0000446"
+  ],
+  "red eye": [
+    "SYMP:0000446"
+  ],
+  "redness of eye": [
+    "SYMP:0000446"
+  ],
+  "bloody sputum": [
+    "SYMP:0000447"
+  ],
+  "epistaxis": [
+    "SYMP:0000448"
+  ],
+  "nosebleed": [
+    "SYMP:0000448"
+  ],
+  "cardiogenic shock": [
+    "SYMP:0000449"
+  ],
+  "shock": [
+    "SYMP:0000450"
+  ],
+  "septic shock": [
+    "SYMP:0000451"
+  ],
+  "abnormal sputum": [
+    "SYMP:0000452"
+  ],
+  "right upper quadrant abdominal rigidity": [
+    "SYMP:0000453"
+  ],
+  "abdominal rigidity": [
+    "SYMP:0000454"
+  ],
+  "abnormal weight gain": [
+    "SYMP:0000455"
+  ],
+  "leave upper quadrant abdominal pain": [
+    "SYMP:0000456"
+  ],
+  "left upper quadrant abdominal pain": [
+    "SYMP:0000456"
+  ],
+  "abdominal pain": [
+    "SYMP:0000457"
+  ],
+  "nausea": [
+    "SYMP:0000458"
+  ],
+  "digestive system symptom": [
+    "SYMP:0000459"
+  ],
+  "hepatomegaly": [
+    "SYMP:0000460"
+  ],
+  "enlargement of the liver": [
+    "SYMP:0000460"
+  ],
+  "abdominal symptom": [
+    "SYMP:0000461"
+  ],
+  "symptom": [
+    "SYMP:0000462"
+  ],
+  "lack of normal physiological development": [
+    "SYMP:0000463"
+  ],
+  "lack of expect normal physiological development in childhood": [
+    "SYMP:0000464"
+  ],
+  "lack of expected normal physiological development in childhood": [
+    "SYMP:0000464"
+  ],
+  "failure to thrive": [
+    "SYMP:0000465"
+  ],
+  "delay milestone": [
+    "SYMP:0000466"
+  ],
+  "delayed milestones": [
+    "SYMP:0000466"
+  ],
+  "developmental delay": [
+    "SYMP:0000466"
+  ],
+  "right low quadrant abdominal rigidity": [
+    "SYMP:0000467"
+  ],
+  "right lower quadrant abdominal rigidity": [
+    "SYMP:0000467"
+  ],
+  "generalize abdominal rigidity": [
+    "SYMP:0000468"
+  ],
+  "generalized abdominal rigidity": [
+    "SYMP:0000468"
+  ],
+  "epigastric abdominal rigidity": [
+    "SYMP:0000469"
+  ],
+  "leave upper quadrant abdominal rigidity": [
+    "SYMP:0000470"
+  ],
+  "left upper quadrant abdominal rigidity": [
+    "SYMP:0000470"
+  ],
+  "multiple site abdominal rigidity": [
+    "SYMP:0000471"
+  ],
+  "multiple sites abdominal rigidity": [
+    "SYMP:0000471"
+  ],
+  "early satiety": [
+    "SYMP:0000472"
+  ],
+  "nutrition , metabolism , and development symptom": [
+    "SYMP:0000473"
+  ],
+  "obsolete abnormal loss of weight and underweight": [
+    "SYMP:0000474"
+  ],
+  "underweight": [
+    "SYMP:0000475"
+  ],
+  "obsolete loss of weight": [
+    "SYMP:0000476"
+  ],
+  "epigastric abdominal swelling": [
+    "SYMP:0000477"
+  ],
+  "abdominal swelling": [
+    "SYMP:0000478"
+  ],
+  "abnormality of gait": [
+    "SYMP:0000479"
+  ],
+  "nervous system symptom": [
+    "SYMP:0000480"
+  ],
+  "persistent vegetative state": [
+    "SYMP:0000481"
+  ],
+  "alteration of consciousness": [
+    "SYMP:0000482"
+  ],
+  "leave low quadrant abdominal tenderness": [
+    "SYMP:0000483"
+  ],
+  "left lower quadrant abdominal tenderness": [
+    "SYMP:0000483"
+  ],
+  "abdominal tenderness": [
+    "SYMP:0000484"
+  ],
+  "dysuria": [
+    "SYMP:0000485"
+  ],
+  "difficult urine discharge": [
+    "SYMP:0000485"
+  ],
+  "painful urine discharge": [
+    "SYMP:0000485"
+  ],
+  "urinary system symptom": [
+    "SYMP:0000486"
+  ],
+  "rash": [
+    "SYMP:0000487"
+  ],
+  "erythema": [
+    "SYMP:0000487"
+  ],
+  "rubor": [
+    "SYMP:0000487"
+  ],
+  "skin eruption": [
+    "SYMP:0000487"
+  ],
+  "skin rash": [
+    "SYMP:0000487"
+  ],
+  "skin redness": [
+    "SYMP:0000487"
+  ],
+  "skin and integumentary tissue symptom": [
+    "SYMP:0000488"
+  ],
+  "abnormal bowel sound": [
+    "SYMP:0000489"
+  ],
+  "multiple site abdominal tenderness": [
+    "SYMP:0000490"
+  ],
+  "multiple sites abdominal tenderness": [
+    "SYMP:0000490"
+  ],
+  "continuous leakage of urine": [
+    "SYMP:0000491"
+  ],
+  "urinary incontinence": [
+    "SYMP:0000492"
+  ],
+  "incontinence": [
+    "SYMP:0000492"
+  ],
+  "dysphagia": [
+    "SYMP:0000493"
+  ],
+  "difficulty in swallow": [
+    "SYMP:0000493"
+  ],
+  "difficulty in swallowing": [
+    "SYMP:0000493"
+  ],
+  "difficulty swallow": [
+    "SYMP:0000493"
+  ],
+  "difficulty swallowing": [
+    "SYMP:0000493"
+  ],
+  "impaired swallowing": [
+    "SYMP:0000493"
+  ],
+  "renal colic": [
+    "SYMP:0000494"
+  ],
+  "urethral discharge": [
+    "SYMP:0000495"
+  ],
+  "epigastric abdominal tenderness": [
+    "SYMP:0000496"
+  ],
+  "periumbilic abdominal tenderness": [
+    "SYMP:0000497"
+  ],
+  "generalize abdominal tenderness": [
+    "SYMP:0000498"
+  ],
+  "generalized abdominal tenderness": [
+    "SYMP:0000498"
+  ],
+  "right upper quadrant abdominal tenderness": [
+    "SYMP:0000499"
+  ],
+  "right low quadrant abdominal tenderness": [
+    "SYMP:0000500"
+  ],
+  "right lower quadrant abdominal tenderness": [
+    "SYMP:0000500"
+  ],
+  "leave low quadrant abdominal swelling": [
+    "SYMP:0000501"
+  ],
+  "left lower quadrant abdominal swelling": [
+    "SYMP:0000501"
+  ],
+  "mixed incontinence ( female ) ( male )": [
+    "SYMP:0000502"
+  ],
+  "adult failure to thrive": [
+    "SYMP:0000503"
+  ],
+  "headache": [
+    "SYMP:0000504"
+  ],
+  "cephalalgia": [
+    "SYMP:0000504"
+  ],
+  "throat pain": [
+    "SYMP:0000505"
+  ],
+  "sore throat": [
+    "SYMP:0000505"
+  ],
+  "hemorrhage from throat": [
+    "SYMP:0000506"
+  ],
+  "head swell": [
+    "SYMP:0000507"
+  ],
+  "head swelling": [
+    "SYMP:0000507"
+  ],
+  "aphasia": [
+    "SYMP:0000508"
+  ],
+  "inability to comprehend language": [
+    "SYMP:0000508"
+  ],
+  "flatulence": [
+    "SYMP:0000509"
+  ],
+  "gas": [
+    "SYMP:0000509"
+  ],
+  "gas production": [
+    "SYMP:0000509"
+  ],
+  "pallor": [
+    "SYMP:0000510"
+  ],
+  "paleness": [
+    "SYMP:0000510"
+  ],
+  "flush": [
+    "SYMP:0000511"
+  ],
+  "flushing": [
+    "SYMP:0000511"
+  ],
+  "male stress incontinence": [
+    "SYMP:0000512"
+  ],
+  "stridor": [
+    "SYMP:0000513"
+  ],
+  "respiratory system and chest symptom": [
+    "SYMP:0000514"
+  ],
+  "hiccough": [
+    "SYMP:0000515"
+  ],
+  "lump in chest": [
+    "SYMP:0000516"
+  ],
+  "hemoptysis": [
+    "SYMP:0000517"
+  ],
+  "cough up of blood": [
+    "SYMP:0000517"
+  ],
+  "coughing up of blood": [
+    "SYMP:0000517"
+  ],
+  "expectoration of blood": [
+    "SYMP:0000517"
+  ],
+  "expectoration of blood - stain sputum": [
+    "SYMP:0000517"
+  ],
+  "expectoration of blood - stained sputum": [
+    "SYMP:0000517"
+  ],
+  "haemoptysis": [
+    "SYMP:0000517"
+  ],
+  "generalize abdominal pain": [
+    "SYMP:0000518"
+  ],
+  "generalized abdominal pain": [
+    "SYMP:0000518"
+  ],
+  "abnormal feces": [
+    "SYMP:0000519"
+  ],
+  "visible peristalsis": [
+    "SYMP:0000520"
+  ],
+  "enlargement of lymph node": [
+    "SYMP:0000521"
+  ],
+  "enlargement of lymph nodes": [
+    "SYMP:0000521"
+  ],
+  "swell of lymph node": [
+    "SYMP:0000521"
+  ],
+  "swelling of lymph nodes": [
+    "SYMP:0000521"
+  ],
+  "swollen lymph gland": [
+    "SYMP:0000521"
+  ],
+  "swollen lymph glands": [
+    "SYMP:0000521"
+  ],
+  "feed difficulty and mismanagement": [
+    "SYMP:0000522"
+  ],
+  "feeding difficulties and mismanagement": [
+    "SYMP:0000522"
+  ],
+  "anorexia": [
+    "SYMP:0000523"
+  ],
+  "polyphagia": [
+    "SYMP:0000524"
+  ],
+  "transient alteration of awareness": [
+    "SYMP:0000525"
+  ],
+  "ascites": [
+    "SYMP:0000526"
+  ],
+  "hydroperitoneum": [
+    "SYMP:0000526"
+  ],
+  "undiagnosed cardiac murmur": [
+    "SYMP:0000527"
+  ],
+  "cardiovascular system symptom": [
+    "SYMP:0000528"
+  ],
+  "tachycardia": [
+    "SYMP:0000529"
+  ],
+  "palpitation": [
+    "SYMP:0000530"
+  ],
+  "abnormal heart beats": [
+    "SYMP:0000530"
+  ],
+  "splenomegaly": [
+    "SYMP:0000531"
+  ],
+  "esplenomegaly": [
+    "SYMP:0000531"
+  ],
+  "urge incontinence": [
+    "SYMP:0000532"
+  ],
+  "post - void dribbling": [
+    "SYMP:0000533"
+  ],
+  "spontaneous ecchymosis": [
+    "SYMP:0000534"
+  ],
+  "spontaneous ecchymoses": [
+    "SYMP:0000534"
+  ],
+  "change in skin texture": [
+    "SYMP:0000535"
+  ],
+  "disturbance of skin sensation": [
+    "SYMP:0000536"
+  ],
+  "cyanosis": [
+    "SYMP:0000537"
+  ],
+  "edema": [
+    "SYMP:0000538"
+  ],
+  "dropsy": [
+    "SYMP:0000538"
+  ],
+  "jaundice": [
+    "SYMP:0000539"
+  ],
+  "icteric": [
+    "SYMP:0000539"
+  ],
+  "icterus": [
+    "SYMP:0000539"
+  ],
+  "painful respiration": [
+    "SYMP:0000540"
+  ],
+  "periumbilic abdominal swelling": [
+    "SYMP:0000541"
+  ],
+  "epigastric abdominal pain": [
+    "SYMP:0000542"
+  ],
+  "memory loss": [
+    "SYMP:0000543"
+  ],
+  "transient paralysis of limb": [
+    "SYMP:0000544"
+  ],
+  "multiple site abdominal swell": [
+    "SYMP:0000545"
+  ],
+  "multiple sites abdominal swelling": [
+    "SYMP:0000545"
+  ],
+  "right low quadrant abdominal pain": [
+    "SYMP:0000546"
+  ],
+  "right lower quadrant abdominal pain": [
+    "SYMP:0000546"
+  ],
+  "right upper quadrant abdominal pain": [
+    "SYMP:0000547"
+  ],
+  "right low quadrant abdominal swelling": [
+    "SYMP:0000548"
+  ],
+  "right lower quadrant abdominal swelling": [
+    "SYMP:0000548"
+  ],
+  "generalize abdominal swelling": [
+    "SYMP:0000549"
+  ],
+  "generalized abdominal swelling": [
+    "SYMP:0000549"
+  ],
+  "clubbing of finger": [
+    "SYMP:0000550"
+  ],
+  "clubbing of fingers": [
+    "SYMP:0000550"
+  ],
+  "disturbance of sensation of smell and taste": [
+    "SYMP:0000551"
+  ],
+  "disturbances of sensation of smell and taste": [
+    "SYMP:0000551"
+  ],
+  "taste alteration": [
+    "SYMP:0000551"
+  ],
+  "meningismus": [
+    "SYMP:0000552"
+  ],
+  "neurologic neglect syndrome": [
+    "SYMP:0000553"
+  ],
+  "leave low quadrant abdominal rigidity": [
+    "SYMP:0000554"
+  ],
+  "left lower quadrant abdominal rigidity": [
+    "SYMP:0000554"
+  ],
+  "leave upper quadrant abdominal swelling": [
+    "SYMP:0000555"
+  ],
+  "left upper quadrant abdominal swelling": [
+    "SYMP:0000555"
+  ],
+  "localize superficial lump": [
+    "SYMP:0000556"
+  ],
+  "localized superficial lump": [
+    "SYMP:0000556"
+  ],
+  "urinary retention": [
+    "SYMP:0000557"
+  ],
+  "inability to urinate": [
+    "SYMP:0000557"
+  ],
+  "ischuria": [
+    "SYMP:0000557"
+  ],
+  "retention of urine": [
+    "SYMP:0000557"
+  ],
+  "incomplete bladder empty": [
+    "SYMP:0000558"
+  ],
+  "incomplete bladder emptying": [
+    "SYMP:0000558"
+  ],
+  "voice disturbance": [
+    "SYMP:0000559"
+  ],
+  "polydipsia": [
+    "SYMP:0000560"
+  ],
+  "multiple site abdominal pain": [
+    "SYMP:0000561"
+  ],
+  "multiple sites abdominal pain": [
+    "SYMP:0000561"
+  ],
+  "right upper quadrant abdominal swelling": [
+    "SYMP:0000562"
+  ],
+  "urinary frequency": [
+    "SYMP:0000563"
+  ],
+  "frequent urination": [
+    "SYMP:0000563"
+  ],
+  "nocturia": [
+    "SYMP:0000564"
+  ],
+  "nycturia": [
+    "SYMP:0000564"
+  ],
+  "polyuria": [
+    "SYMP:0000565"
+  ],
+  "excessive secretion of urine": [
+    "SYMP:0000565"
+  ],
+  "sleep disturbance": [
+    "SYMP:0000566"
+  ],
+  "general symptom": [
+    "SYMP:0000567"
+  ],
+  "short stature": [
+    "SYMP:0000568"
+  ],
+  "oliguria": [
+    "SYMP:0000569"
+  ],
+  "diarrhea": [
+    "SYMP:0000570"
+  ],
+  "bacterial gastroenteritis": [
+    "SYMP:0000570"
+  ],
+  "diarrhoea": [
+    "SYMP:0000570"
+  ],
+  "fecal incontinence": [
+    "SYMP:0000570"
+  ],
+  "incontinence of feces": [
+    "SYMP:0000570"
+  ],
+  "loose bowel": [
+    "SYMP:0000570"
+  ],
+  "loose bowels": [
+    "SYMP:0000570"
+  ],
+  "the run": [
+    "SYMP:0000570"
+  ],
+  "the runs": [
+    "SYMP:0000570"
+  ],
+  "insomnia": [
+    "SYMP:0000571"
+  ],
+  "agrypnia": [
+    "SYMP:0000571"
+  ],
+  "splitting of urinary stream": [
+    "SYMP:0000572"
+  ],
+  "urinary stream symptom": [
+    "SYMP:0000573"
+  ],
+  "aphonia": [
+    "SYMP:0000574"
+  ],
+  "precordial pain": [
+    "SYMP:0000575"
+  ],
+  "chest pain": [
+    "SYMP:0000576"
+  ],
+  "fussy infant": [
+    "SYMP:0000577"
+  ],
+  "incontinence without sensory awareness": [
+    "SYMP:0000578"
+  ],
+  "insomnia with sleep apnea": [
+    "SYMP:0000579"
+  ],
+  "dysfunction associate with sleep stage": [
+    "SYMP:0000580"
+  ],
+  "dysfunctions associated with sleep stages": [
+    "SYMP:0000580"
+  ],
+  "sleep apnea": [
+    "SYMP:0000581"
+  ],
+  "hypersomnia": [
+    "SYMP:0000582"
+  ],
+  "hypersomnia with sleep apnea": [
+    "SYMP:0000583"
+  ],
+  "disruption of 24 - hour sleep - wake cycle": [
+    "SYMP:0000584"
+  ],
+  "disruptions of 24 - hour sleep - wake cycle": [
+    "SYMP:0000584"
+  ],
+  "sleep related movement disorder": [
+    "SYMP:0000585"
+  ],
+  "overflow incontinence": [
+    "SYMP:0000586"
+  ],
+  "abnormal chest sound": [
+    "SYMP:0000587"
+  ],
+  "extravasation of urine": [
+    "SYMP:0000588"
+  ],
+  "slowing of urinary stream": [
+    "SYMP:0000589"
+  ],
+  "urinary urgency": [
+    "SYMP:0000590"
+  ],
+  "urgency of urination": [
+    "SYMP:0000590"
+  ],
+  "leave upper quadrant abdominal tenderness": [
+    "SYMP:0000591"
+  ],
+  "left upper quadrant abdominal tenderness": [
+    "SYMP:0000591"
+  ],
+  "excessive cry of infant": [
+    "SYMP:0000592"
+  ],
+  "excessive crying of infant": [
+    "SYMP:0000592"
+  ],
+  "gangrene": [
+    "SYMP:0000593"
+  ],
+  "abnormal involuntary movement": [
+    "SYMP:0000594"
+  ],
+  "febrile convulsion": [
+    "SYMP:0000595"
+  ],
+  "febrile seizure": [
+    "SYMP:0000595"
+  ],
+  "convulsion": [
+    "SYMP:0000596"
+  ],
+  "head and neck symptom": [
+    "SYMP:0000597"
+  ],
+  "respiratory abnormality": [
+    "SYMP:0000598"
+  ],
+  "cheyne - stokes respiration": [
+    "SYMP:0000599"
+  ],
+  "apnea": [
+    "SYMP:0000600"
+  ],
+  "hyperventilation": [
+    "SYMP:0000601"
+  ],
+  "orthopnea": [
+    "SYMP:0000602"
+  ],
+  "tachypnea": [
+    "SYMP:0000603"
+  ],
+  "rapid breathing": [
+    "SYMP:0000603"
+  ],
+  "wheeze": [
+    "SYMP:0000604"
+  ],
+  "wheezing": [
+    "SYMP:0000604"
+  ],
+  "coma": [
+    "SYMP:0000605"
+  ],
+  "nocturnal enuresis": [
+    "SYMP:0000606"
+  ],
+  "bed wet": [
+    "SYMP:0000606"
+  ],
+  "bed wetting": [
+    "SYMP:0000606"
+  ],
+  "nighttime incontinence": [
+    "SYMP:0000606"
+  ],
+  "hallucination": [
+    "SYMP:0000607"
+  ],
+  "syncope and collapse": [
+    "SYMP:0000608"
+  ],
+  "generalize hyperhidrosis": [
+    "SYMP:0000609"
+  ],
+  "generalized hyperhidrosis": [
+    "SYMP:0000609"
+  ],
+  "secondary hyperhidrosis": [
+    "SYMP:0000609"
+  ],
+  "dizziness": [
+    "SYMP:0000610"
+  ],
+  "dizzy": [
+    "SYMP:0000610"
+  ],
+  "periumbilic abdominal pain": [
+    "SYMP:0000611"
+  ],
+  "periumbilic abdominal rigidity": [
+    "SYMP:0000612"
+  ],
+  "fever": [
+    "SYMP:0000613"
+  ],
+  "pyrexia": [
+    "SYMP:0000613"
+  ],
+  "cough": [
+    "SYMP:0000614"
+  ],
+  "obsolete lack of coordination": [
+    "SYMP:0000615"
+  ],
+  "loss of height": [
+    "SYMP:0000616"
+  ],
+  "torticollis": [
+    "SYMP:0000617"
+  ],
+  "twist neck": [
+    "SYMP:0000617"
+  ],
+  "twisted neck": [
+    "SYMP:0000617"
+  ],
+  "wry neck": [
+    "SYMP:0000617"
+  ],
+  "abnormal posture": [
+    "SYMP:0000618"
+  ],
+  "tetany": [
+    "SYMP:0000619"
+  ],
+  "leave low quadrant abdominal pain": [
+    "SYMP:0000620"
+  ],
+  "left lower quadrant abdominal pain": [
+    "SYMP:0000620"
+  ],
+  "alexia": [
+    "SYMP:0000621"
+  ],
+  "acute mesenteric lymphadenitis": [
+    "SYMP:0000622"
+  ],
+  "acute renal failure": [
+    "SYMP:0000623"
+  ],
+  "obsolete appendicitis": [
+    "SYMP:0000624"
+  ],
+  "conscious disturbance": [
+    "SYMP:0000625"
+  ],
+  "disturb vision": [
+    "SYMP:0000627"
+  ],
+  "disturbed vision": [
+    "SYMP:0000627"
+  ],
+  "disturbance of vision": [
+    "SYMP:0000627"
+  ],
+  "vision distortion": [
+    "SYMP:0000628"
+  ],
+  "exanthema": [
+    "SYMP:0000629"
+  ],
+  "frontal headache": [
+    "SYMP:0000630"
+  ],
+  "hemolytic anemia": [
+    "SYMP:0000631"
+  ],
+  "hip pain": [
+    "SYMP:0000632"
+  ],
+  "inflammatory low back pain": [
+    "SYMP:0000633"
+  ],
+  "leukocytosis": [
+    "SYMP:0000634"
+  ],
+  "low backache": [
+    "SYMP:0000635"
+  ],
+  "low back pain": [
+    "SYMP:0000635"
+  ],
+  "maculopapular rash": [
+    "SYMP:0000636"
+  ],
+  "opisthotonus": [
+    "SYMP:0000637"
+  ],
+  "papular rash": [
+    "SYMP:0000638"
+  ],
+  "rectorrhagia": [
+    "SYMP:0000639"
+  ],
+  "rectal bleeding": [
+    "SYMP:0000639"
+  ],
+  "ankle rash": [
+    "SYMP:0000640"
+  ],
+  "redness of ankle": [
+    "SYMP:0000640"
+  ],
+  "renal involvement": [
+    "SYMP:0000641"
+  ],
+  "obsolete respiratory distress": [
+    "SYMP:0000642"
+  ],
+  "respiratory failure": [
+    "SYMP:0000643"
+  ],
+  "respiratory dysfunction": [
+    "SYMP:0000643"
+  ],
+  "ruffle feather": [
+    "SYMP:0000644"
+  ],
+  "ruffled feather": [
+    "SYMP:0000644"
+  ],
+  "obsolete ankle swell": [
+    "SYMP:0000645"
+  ],
+  "obsolete ankle swelling": [
+    "SYMP:0000645"
+  ],
+  "synovitis": [
+    "SYMP:0000646"
+  ],
+  "tache noire": [
+    "SYMP:0000647"
+  ],
+  "tenesmus": [
+    "SYMP:0000648"
+  ],
+  "terminal ileitis": [
+    "SYMP:0000649"
+  ],
+  "thick white exudate on tongue": [
+    "SYMP:0000650"
+  ],
+  "discharge": [
+    "SYMP:0000651"
+  ],
+  "wound discharge": [
+    "SYMP:0000652"
+  ],
+  "yellow drop": [
+    "SYMP:0000653"
+  ],
+  "yellow dropping": [
+    "SYMP:0000653"
+  ],
+  "irritability": [
+    "SYMP:0000654"
+  ],
+  "inconsolability": [
+    "SYMP:0000654"
+  ],
+  "mouth bleeding": [
+    "SYMP:0000655"
+  ],
+  "pale mucous membrane": [
+    "SYMP:0000656"
+  ],
+  "ischemic necrosis of jejunum": [
+    "SYMP:0000657"
+  ],
+  "extraocular muscles paralysis": [
+    "SYMP:0000658"
+  ],
+  "pareses": [
+    "SYMP:0000659"
+  ],
+  "partial paralysis": [
+    "SYMP:0000659"
+  ],
+  "purpuric rash": [
+    "SYMP:0000660"
+  ],
+  "recumbency": [
+    "SYMP:0000661"
+  ],
+  "shake": [
+    "SYMP:0000662"
+  ],
+  "shakes": [
+    "SYMP:0000662"
+  ],
+  "tremble": [
+    "SYMP:0000662"
+  ],
+  "trembling": [
+    "SYMP:0000662"
+  ],
+  "uncoordinated gait": [
+    "SYMP:0000663"
+  ],
+  "yellow exudate from nose": [
+    "SYMP:0000664"
+  ],
+  "yellow exudate from eye": [
+    "SYMP:0000665"
+  ],
+  "yellow exudate from eyes": [
+    "SYMP:0000665"
+  ],
+  "abnormal behavior": [
+    "SYMP:0000666"
+  ],
+  "abnormal hemistanding": [
+    "SYMP:0000669"
+  ],
+  "abnormal hemiwalking": [
+    "SYMP:0000670"
+  ],
+  "sudden onset of fever": [
+    "SYMP:0000671"
+  ],
+  "abscess": [
+    "SYMP:0000672"
+  ],
+  "bradykinesia": [
+    "SYMP:0000673"
+  ],
+  "acute cranial nerve dysfunction": [
+    "SYMP:0000674"
+  ],
+  "acute diarrhea": [
+    "SYMP:0000675"
+  ],
+  "acute enteritis": [
+    "SYMP:0000676"
+  ],
+  "acute gastroenteritis": [
+    "SYMP:0000677"
+  ],
+  "acute mental dysfunction": [
+    "SYMP:0000678"
+  ],
+  "acute dyspnea": [
+    "SYMP:0000679"
+  ],
+  "acute weight loss": [
+    "SYMP:0000680"
+  ],
+  "aggressive behavior": [
+    "SYMP:0000681"
+  ],
+  "alter mental status": [
+    "SYMP:0000682"
+  ],
+  "altered mental status": [
+    "SYMP:0000682"
+  ],
+  "obsolete tachypnoea": [
+    "SYMP:0000683"
+  ],
+  "bifrontal headache": [
+    "SYMP:0000684"
+  ],
+  "brain cyst": [
+    "SYMP:0000685"
+  ],
+  "chronic cough": [
+    "SYMP:0000686"
+  ],
+  "obsolete chronic fatigue syndrome": [
+    "SYMP:0000687"
+  ],
+  "circle movement": [
+    "SYMP:0000688"
+  ],
+  "circling movement": [
+    "SYMP:0000688"
+  ],
+  "cramp": [
+    "SYMP:0000689"
+  ],
+  "cranial nerve palsy": [
+    "SYMP:0000690"
+  ],
+  "cranial nerve palsies": [
+    "SYMP:0000690"
+  ],
+  "cytopenia": [
+    "SYMP:0000691"
+  ],
+  "low blood pressure": [
+    "SYMP:0000692"
+  ],
+  "decrease facial sensation": [
+    "SYMP:0000693"
+  ],
+  "decreased facial sensation": [
+    "SYMP:0000693"
+  ],
+  "decrease jaw tone": [
+    "SYMP:0000694"
+  ],
+  "decreased jaw tone": [
+    "SYMP:0000694"
+  ],
+  "decrease milk production": [
+    "SYMP:0000695"
+  ],
+  "decreased milk production": [
+    "SYMP:0000695"
+  ],
+  "decrease motor response": [
+    "SYMP:0000696"
+  ],
+  "decreased motor response": [
+    "SYMP:0000696"
+  ],
+  "decrease pharyngeal tone": [
+    "SYMP:0000697"
+  ],
+  "decreased pharyngeal tone": [
+    "SYMP:0000697"
+  ],
+  "decrease sucking": [
+    "SYMP:0000698"
+  ],
+  "decreased sucking": [
+    "SYMP:0000698"
+  ],
+  "deltoid muscle weakness": [
+    "SYMP:0000699"
+  ],
+  "diminish spontaneous movement": [
+    "SYMP:0000700"
+  ],
+  "diminished spontaneous movement": [
+    "SYMP:0000700"
+  ],
+  "nasal discharge": [
+    "SYMP:0000701"
+  ],
+  "distended loop of intestine on rectal": [
+    "SYMP:0000702"
+  ],
+  "distended loops of intestines on rectal": [
+    "SYMP:0000702"
+  ],
+  "droopy ear": [
+    "SYMP:0000703"
+  ],
+  "droopy ears": [
+    "SYMP:0000703"
+  ],
+  "dysphonia": [
+    "SYMP:0000704"
+  ],
+  "expressive aphasia": [
+    "SYMP:0000705"
+  ],
+  "agrammatic aphasia": [
+    "SYMP:0000705"
+  ],
+  "broca 's aphasia": [
+    "SYMP:0000705"
+  ],
+  "facial weakness": [
+    "SYMP:0000706"
+  ],
+  "flaccid muscle tone": [
+    "SYMP:0000707"
+  ],
+  "granulomatous inflammation": [
+    "SYMP:0000709"
+  ],
+  "head press": [
+    "SYMP:0000710"
+  ],
+  "head pressing": [
+    "SYMP:0000710"
+  ],
+  "hind limb paralysis": [
+    "SYMP:0000711"
+  ],
+  "infertility": [
+    "SYMP:0000712"
+  ],
+  "inability to lie flat": [
+    "SYMP:0000713"
+  ],
+  "intraretinal hemorrhage": [
+    "SYMP:0000714"
+  ],
+  "skin desquamation": [
+    "SYMP:0000715"
+  ],
+  "swell symptom": [
+    "SYMP:0000716"
+  ],
+  "swelling symptom": [
+    "SYMP:0000716"
+  ],
+  "leg swell": [
+    "SYMP:0000717"
+  ],
+  "leg swelling": [
+    "SYMP:0000717"
+  ],
+  "loss of consciousness": [
+    "SYMP:0000718"
+  ],
+  "memory impairment": [
+    "SYMP:0000719"
+  ],
+  "microangiopathic hemolytic anemia": [
+    "SYMP:0000720"
+  ],
+  "moderate anemia": [
+    "SYMP:0000721"
+  ],
+  "moderate conjuctival injection": [
+    "SYMP:0000722"
+  ],
+  "multiple abscess": [
+    "SYMP:0000723"
+  ],
+  "multiple abscesses": [
+    "SYMP:0000723"
+  ],
+  "multiple organ failure": [
+    "SYMP:0000724"
+  ],
+  "necrosis of jejunum": [
+    "SYMP:0000725"
+  ],
+  "painful reginal lymphadenopathy": [
+    "SYMP:0000726"
+  ],
+  "palate weakness": [
+    "SYMP:0000727"
+  ],
+  "partial hind limb paralysis": [
+    "SYMP:0000728"
+  ],
+  "pulmonary consolidation": [
+    "SYMP:0000729"
+  ],
+  "rapid respiration": [
+    "SYMP:0000730"
+  ],
+  "renal failure": [
+    "SYMP:0000731"
+  ],
+  "sudden ataxis": [
+    "SYMP:0000732"
+  ],
+  "sternocleidomastoid weakness": [
+    "SYMP:0000733"
+  ],
+  "obsolete stroke": [
+    "SYMP:0000734"
+  ],
+  "apoplexy": [
+    "SYMP:0000734",
+    "SYMP:0020056"
+  ],
+  "brain attack": [
+    "SYMP:0000734"
+  ],
+  "cerebral accident": [
+    "SYMP:0000734",
+    "SYMP:0020056"
+  ],
+  "cerebrovascular accident": [
+    "SYMP:0020056"
+  ],
+  "obsolete suppurative pneumonia": [
+    "SYMP:0000735"
+  ],
+  "lymph gland swell": [
+    "SYMP:0000736"
+  ],
+  "lymph gland swelling": [
+    "SYMP:0000736"
+  ],
+  "respiratory tract mucosa ulcer": [
+    "SYMP:0000737"
+  ],
+  "yellowish green diarrhea": [
+    "SYMP:0000738"
+  ],
+  "bronchopulmonary bleeding": [
+    "SYMP:0000739"
+  ],
+  "genitourinary hemorrhage": [
+    "SYMP:0000740"
+  ],
+  "nasal bleed": [
+    "SYMP:0000741"
+  ],
+  "nasal bleeding": [
+    "SYMP:0000741"
+  ],
+  "gum bleeding": [
+    "SYMP:0000742"
+  ],
+  "gingival hemorrhage": [
+    "SYMP:0000742"
+  ],
+  "blotchy red rash": [
+    "SYMP:0000743"
+  ],
+  "cervical lymphadenopathy": [
+    "SYMP:0000744"
+  ],
+  "change in body sensation": [
+    "SYMP:0000745"
+  ],
+  "enanthem": [
+    "SYMP:0000746"
+  ],
+  "extreme prostration": [
+    "SYMP:0000747"
+  ],
+  "facial edema": [
+    "SYMP:0000748"
+  ],
+  "facial swelling": [
+    "SYMP:0000748"
+  ],
+  "hemodynamic instability": [
+    "SYMP:0000749"
+  ],
+  "hemorrhage into mucous membrane": [
+    "SYMP:0000750"
+  ],
+  "hemorrhage into skin": [
+    "SYMP:0000751"
+  ],
+  "herpetic lesion on upper lip": [
+    "SYMP:0000752"
+  ],
+  "intense anxiety": [
+    "SYMP:0000753"
+  ],
+  "severe chest pain": [
+    "SYMP:0000754"
+  ],
+  "intense chest pain": [
+    "SYMP:0000754"
+  ],
+  "intense toxemia": [
+    "SYMP:0000755"
+  ],
+  "menorrhagia": [
+    "SYMP:0000756"
+  ],
+  "mild conjunctivitis": [
+    "SYMP:0000757"
+  ],
+  "neurological alteration": [
+    "SYMP:0000758"
+  ],
+  "parotid pain": [
+    "SYMP:0000759"
+  ],
+  "salivary gland pain": [
+    "SYMP:0000759"
+  ],
+  "petechia": [
+    "SYMP:0000760"
+  ],
+  "petechiae": [
+    "SYMP:0000760"
+  ],
+  "petechial rash": [
+    "SYMP:0000760"
+  ],
+  "extracellular fluid alteration": [
+    "SYMP:0000761"
+  ],
+  "excess lymphocyte in cerebrospinal fluid": [
+    "SYMP:0000762"
+  ],
+  "excess lymphocytes in cerebrospinal fluid": [
+    "SYMP:0000762"
+  ],
+  "renal alteration": [
+    "SYMP:0000763"
+  ],
+  "retrobulbar pain": [
+    "SYMP:0000764"
+  ],
+  "sensory disturbance": [
+    "SYMP:0000765"
+  ],
+  "slow pulse": [
+    "SYMP:0000766"
+  ],
+  "subconjunctival bleeding": [
+    "SYMP:0000767"
+  ],
+  "testicular pain": [
+    "SYMP:0000768"
+  ],
+  "vascular alteration": [
+    "SYMP:0000769"
+  ],
+  "pelvic symptom": [
+    "SYMP:0000770"
+  ],
+  "pelvic swell": [
+    "SYMP:0000771"
+  ],
+  "pelvic swelling": [
+    "SYMP:0000771"
+  ],
+  "pelvic mass": [
+    "SYMP:0000772"
+  ],
+  "pelvic lump": [
+    "SYMP:0000773"
+  ],
+  "generalize pelvic lump": [
+    "SYMP:0000774"
+  ],
+  "generalized pelvic lump": [
+    "SYMP:0000774"
+  ],
+  "right low quadrant pelvic lump": [
+    "SYMP:0000775"
+  ],
+  "right lower quadrant pelvic lump": [
+    "SYMP:0000775"
+  ],
+  "epigastric pelvic lump": [
+    "SYMP:0000776"
+  ],
+  "leave low quadrant pelvic lump": [
+    "SYMP:0000777"
+  ],
+  "left lower quadrant pelvic lump": [
+    "SYMP:0000777"
+  ],
+  "leave upper quadrant pelvic lump": [
+    "SYMP:0000778"
+  ],
+  "left upper quadrant pelvic lump": [
+    "SYMP:0000778"
+  ],
+  "right upper quadrant pelvic lump": [
+    "SYMP:0000779"
+  ],
+  "multiple site pelvic lump": [
+    "SYMP:0000780"
+  ],
+  "multiple sites pelvic lump": [
+    "SYMP:0000780"
+  ],
+  "periumbilic pelvic lump": [
+    "SYMP:0000781"
+  ],
+  "right upper quadrant pelvic mass": [
+    "SYMP:0000782"
+  ],
+  "leave low quadrant pelvic mass": [
+    "SYMP:0000783"
+  ],
+  "left lower quadrant pelvic mass": [
+    "SYMP:0000783"
+  ],
+  "epigastric pelvic mass": [
+    "SYMP:0000784"
+  ],
+  "leave upper quadrant pelvic mass": [
+    "SYMP:0000785"
+  ],
+  "left upper quadrant pelvic mass": [
+    "SYMP:0000785"
+  ],
+  "generalize pelvic mass": [
+    "SYMP:0000786"
+  ],
+  "generalized pelvic mass": [
+    "SYMP:0000786"
+  ],
+  "periumbilic pelvic mass": [
+    "SYMP:0000787"
+  ],
+  "multiple site pelvic mass": [
+    "SYMP:0000788"
+  ],
+  "multiple sites pelvic mass": [
+    "SYMP:0000788"
+  ],
+  "right low quadrant pelvic mass": [
+    "SYMP:0000789"
+  ],
+  "right lower quadrant pelvic mass": [
+    "SYMP:0000789"
+  ],
+  "multiple site pelvic swell": [
+    "SYMP:0000790"
+  ],
+  "multiple sites pelvic swelling": [
+    "SYMP:0000790"
+  ],
+  "generalize pelvic swell": [
+    "SYMP:0000791"
+  ],
+  "generalized pelvic swelling": [
+    "SYMP:0000791"
+  ],
+  "epigastric pelvic swell": [
+    "SYMP:0000792"
+  ],
+  "epigastric pelvic swelling": [
+    "SYMP:0000792"
+  ],
+  "leave low quadrant pelvic swell": [
+    "SYMP:0000793"
+  ],
+  "left lower quadrant pelvic swelling": [
+    "SYMP:0000793"
+  ],
+  "leave upper quadrant pelvic swell": [
+    "SYMP:0000794"
+  ],
+  "left upper quadrant pelvic swelling": [
+    "SYMP:0000794"
+  ],
+  "periumbilic pelvic swell": [
+    "SYMP:0000795"
+  ],
+  "periumbilic pelvic swelling": [
+    "SYMP:0000795"
+  ],
+  "right low quadrant pelvic swell": [
+    "SYMP:0000796"
+  ],
+  "right lower quadrant pelvic swelling": [
+    "SYMP:0000796"
+  ],
+  "right upper quadrant pelvic swell": [
+    "SYMP:0000797"
+  ],
+  "right upper quadrant pelvic swelling": [
+    "SYMP:0000797"
+  ],
+  "abdominal mass": [
+    "SYMP:0000798"
+  ],
+  "abdominal lump": [
+    "SYMP:0000799"
+  ],
+  "leave upper quadrant abdominal mass": [
+    "SYMP:0000800"
+  ],
+  "left upper quadrant abdominal mass": [
+    "SYMP:0000800"
+  ],
+  "leave low quadrant abdominal mass": [
+    "SYMP:0000801"
+  ],
+  "left lower quadrant abdominal mass": [
+    "SYMP:0000801"
+  ],
+  "epigastric abdominal mass": [
+    "SYMP:0000802"
+  ],
+  "multiple site abdominal mass": [
+    "SYMP:0000803"
+  ],
+  "multiple sites abdominal mass": [
+    "SYMP:0000803"
+  ],
+  "generalize abdominal mass": [
+    "SYMP:0000804"
+  ],
+  "generalized abdominal mass": [
+    "SYMP:0000804"
+  ],
+  "periumbilic abdominal mass": [
+    "SYMP:0000805"
+  ],
+  "right low quadrant abdominal mass": [
+    "SYMP:0000806"
+  ],
+  "right lower quadrant abdominal mass": [
+    "SYMP:0000806"
+  ],
+  "right upper quadrant abdominal mass": [
+    "SYMP:0000807"
+  ],
+  "multiple site abdominal lump": [
+    "SYMP:0000808"
+  ],
+  "multiple sites abdominal lump": [
+    "SYMP:0000808"
+  ],
+  "periumbilic abdominal lump": [
+    "SYMP:0000809"
+  ],
+  "epigastric abdominal lump": [
+    "SYMP:0000810"
+  ],
+  "leave upper quadrant abdominal lump": [
+    "SYMP:0000811"
+  ],
+  "left upper quadrant abdominal lump": [
+    "SYMP:0000811"
+  ],
+  "right low quadrant abdominal lump": [
+    "SYMP:0000812"
+  ],
+  "right lower quadrant abdominal lump": [
+    "SYMP:0000812"
+  ],
+  "right upper quadrant abdominal lump": [
+    "SYMP:0000813"
+  ],
+  "generalize abdominal lump": [
+    "SYMP:0000814"
+  ],
+  "generalized abdominal lump": [
+    "SYMP:0000814"
+  ],
+  "leave low quadrant abdominal lump": [
+    "SYMP:0000815"
+  ],
+  "left lower quadrant abdominal lump": [
+    "SYMP:0000815"
+  ],
+  "dysfunction associate with arousal from sleep": [
+    "SYMP:0000816"
+  ],
+  "dysfunctions associated with arousal from sleep": [
+    "SYMP:0000816"
+  ],
+  "inability to concentrate": [
+    "SYMP:0000817"
+  ],
+  "localize superficial mass": [
+    "SYMP:0000818"
+  ],
+  "localized superficial mass": [
+    "SYMP:0000818"
+  ],
+  "localize superficial swelling": [
+    "SYMP:0000819"
+  ],
+  "localized superficial swelling": [
+    "SYMP:0000819"
+  ],
+  "mass in chest": [
+    "SYMP:0000820"
+  ],
+  "swell in chest": [
+    "SYMP:0000821"
+  ],
+  "swelling in chest": [
+    "SYMP:0000821"
+  ],
+  "chronic enteritis": [
+    "SYMP:0000822"
+  ],
+  "sinus bradycardia": [
+    "SYMP:0000823"
+  ],
+  "junctional tachycardia": [
+    "SYMP:0000824"
+  ],
+  "paroxysmal tachycardia": [
+    "SYMP:0000825"
+  ],
+  "sinus tachycardia": [
+    "SYMP:0000826"
+  ],
+  "ventricular tachycardia": [
+    "SYMP:0000827"
+  ],
+  "v - tach": [
+    "SYMP:0000827"
+  ],
+  "sore eye": [
+    "SYMP:0000828"
+  ],
+  "sore eyes": [
+    "SYMP:0000828"
+  ],
+  "neck pain": [
+    "SYMP:0000829"
+  ],
+  "phantom pain": [
+    "SYMP:0000830"
+  ],
+  "nociceptive pain": [
+    "SYMP:0000831"
+  ],
+  "neuropathic pain": [
+    "SYMP:0000832"
+  ],
+  "visceral pain": [
+    "SYMP:0000833"
+  ],
+  "hypoesthesia": [
+    "SYMP:0000834"
+  ],
+  "numbness": [
+    "SYMP:0000834"
+  ],
+  "hypoalgesia": [
+    "SYMP:0000835"
+  ],
+  "hyperalgesia": [
+    "SYMP:0000836"
+  ],
+  "chronic pain": [
+    "SYMP:0000837"
+  ],
+  "breakthrough pain": [
+    "SYMP:0000838"
+  ],
+  "acute pain": [
+    "SYMP:0000839"
+  ],
+  "sudden pain": [
+    "SYMP:0000839"
+  ],
+  "allodynia": [
+    "SYMP:0000840"
+  ],
+  "reactive hyperemia": [
+    "SYMP:0000841"
+  ],
+  "active hyperemia": [
+    "SYMP:0000842"
+  ],
+  "functional hyperemia": [
+    "SYMP:0000843"
+  ],
+  "face hyperemia": [
+    "SYMP:0000844"
+  ],
+  "hyperemia of the neck": [
+    "SYMP:0000845"
+  ],
+  "chest hyperemia": [
+    "SYMP:0000846"
+  ],
+  "spastic paralysis": [
+    "SYMP:0000847"
+  ],
+  "motor paralysis": [
+    "SYMP:0000848"
+  ],
+  "stillbirth": [
+    "SYMP:0000849"
+  ],
+  "congest sclera": [
+    "SYMP:0000850"
+  ],
+  "congested sclera": [
+    "SYMP:0000850"
+  ],
+  "gross hematuria": [
+    "SYMP:0000851"
+  ],
+  "anuria": [
+    "SYMP:0000852"
+  ],
+  "stress incontinence": [
+    "SYMP:0000853"
+  ],
+  "hypermenorrhea": [
+    "SYMP:0000854"
+  ],
+  "metrorrhagia": [
+    "SYMP:0000855"
+  ],
+  "subjective vertigo": [
+    "SYMP:0000856"
+  ],
+  "objective vertigo": [
+    "SYMP:0000857"
+  ],
+  "hypokinesia": [
+    "SYMP:0000858"
+  ],
+  "rigidity hypokinesia": [
+    "SYMP:0000859"
+  ],
+  "postural instability hypokinesia": [
+    "SYMP:0000860"
+  ],
+  "freeze hypokinesia": [
+    "SYMP:0000861"
+  ],
+  "freezing hypokinesia": [
+    "SYMP:0000861"
+  ],
+  "refer pain": [
+    "SYMP:0000862"
+  ],
+  "referred pain": [
+    "SYMP:0000862"
+  ],
+  "facial tremor": [
+    "SYMP:0000863"
+  ],
+  "lesion in oropharynx": [
+    "SYMP:0000864"
+  ],
+  "lesions in oropharynx": [
+    "SYMP:0000864"
+  ],
+  "lesion in mouth": [
+    "SYMP:0000865"
+  ],
+  "lesions in mouth": [
+    "SYMP:0000865"
+  ],
+  "cervical edema": [
+    "SYMP:0000866"
+  ],
+  "gastrointestinal bleeding": [
+    "SYMP:0000867"
+  ],
+  "breathing problem": [
+    "SYMP:0000868"
+  ],
+  "breathing problems": [
+    "SYMP:0000868"
+  ],
+  "nasal congestion": [
+    "SYMP:0000869"
+  ],
+  "icteric eye": [
+    "SYMP:0000870"
+  ],
+  "icteric eyes": [
+    "SYMP:0000870"
+  ],
+  "icteric mucous membrane": [
+    "SYMP:0000871"
+  ],
+  "icteric skin": [
+    "SYMP:0000872"
+  ],
+  "otitis": [
+    "SYMP:0000873"
+  ],
+  "hematoma": [
+    "SYMP:0000874"
+  ],
+  "lameness": [
+    "SYMP:0000875"
+  ],
+  "pericardial effusion": [
+    "SYMP:0000876"
+  ],
+  "decrease tongue tone": [
+    "SYMP:0000877"
+  ],
+  "decreased tongue tone": [
+    "SYMP:0000877"
+  ],
+  "transient fever": [
+    "SYMP:0000878"
+  ],
+  "low - grade fever": [
+    "SYMP:0000879"
+  ],
+  "low grade fever": [
+    "SYMP:0000879"
+  ],
+  "prolong fever": [
+    "SYMP:0000880"
+  ],
+  "prolonged fever": [
+    "SYMP:0000880"
+  ],
+  "mild fever": [
+    "SYMP:0000881"
+  ],
+  "high fever": [
+    "SYMP:0000882"
+  ],
+  "very high fever": [
+    "SYMP:0000883"
+  ],
+  "obsolete severe temperature increase": [
+    "SYMP:0000885"
+  ],
+  "hyperpyrexia": [
+    "SYMP:0000886"
+  ],
+  "pel - epstein fever": [
+    "SYMP:0000887"
+  ],
+  "continuous fever": [
+    "SYMP:0000888"
+  ],
+  "continue fever": [
+    "SYMP:0000888"
+  ],
+  "continued fever": [
+    "SYMP:0000888"
+  ],
+  "remittent fever": [
+    "SYMP:0000889"
+  ],
+  "relapse fever": [
+    "SYMP:0000890"
+  ],
+  "relapsing fever": [
+    "SYMP:0000890"
+  ],
+  "musculoskeletal system symptom": [
+    "SYMP:0000891"
+  ],
+  "sensation perception": [
+    "SYMP:0000892"
+  ],
+  "hypotensive": [
+    "SYMP:0000893"
+  ],
+  "cold clammy skin": [
+    "SYMP:0000894"
+  ],
+  "anaphylactic shock": [
+    "SYMP:0000895"
+  ],
+  "anaphylaxis": [
+    "SYMP:0000895"
+  ],
+  "exophthalmos": [
+    "SYMP:0000896"
+  ],
+  "exophthalmia": [
+    "SYMP:0000896"
+  ],
+  "exophthalmus": [
+    "SYMP:0000896"
+  ],
+  "proptosis": [
+    "SYMP:0000896"
+  ],
+  "ventricular bradycardia": [
+    "SYMP:0000897"
+  ],
+  "idioventricular rhythm": [
+    "SYMP:0000897"
+  ],
+  "ventricular escape rhythm": [
+    "SYMP:0000897"
+  ],
+  "cardiac fibrillation": [
+    "SYMP:0000898"
+  ],
+  "ventricular fibrillation": [
+    "SYMP:0000899"
+  ],
+  "v - fib": [
+    "SYMP:0000899"
+  ],
+  "allergic reaction": [
+    "SYMP:0000900"
+  ],
+  "hemic and immune system symptom": [
+    "SYMP:0017795"
+  ],
+  "immune system symptom": [
+    "SYMP:0019138"
+  ],
+  "hemic system symptom": [
+    "SYMP:0019139"
+  ],
+  "hematopoietic system symptom": [
+    "SYMP:0019140"
+  ],
+  "lymphatic system symptom": [
+    "SYMP:0019141"
+  ],
+  "lymphadenopathy": [
+    "SYMP:0019142"
+  ],
+  "adenopathy": [
+    "SYMP:0019142"
+  ],
+  "coagulopathy": [
+    "SYMP:0019143"
+  ],
+  "microangiopathy": [
+    "SYMP:0019144"
+  ],
+  "vomit": [
+    "SYMP:0019145"
+  ],
+  "vomiting": [
+    "SYMP:0019145"
+  ],
+  "emesis": [
+    "SYMP:0019145"
+  ],
+  "hyponatremia": [
+    "SYMP:0019146"
+  ],
+  "hematemesis": [
+    "SYMP:0019147"
+  ],
+  "bloody vomit": [
+    "SYMP:0019147"
+  ],
+  "haematemesis": [
+    "SYMP:0019147"
+  ],
+  "vomit blood": [
+    "SYMP:0019147"
+  ],
+  "vomiting blood": [
+    "SYMP:0019147"
+  ],
+  "septicemia": [
+    "SYMP:0019148"
+  ],
+  "toxemia": [
+    "SYMP:0019149"
+  ],
+  "obsolete pharyngitis": [
+    "SYMP:0019150"
+  ],
+  "pharynx inflammation": [
+    "SYMP:0020055"
+  ],
+  "pulmonary edema": [
+    "SYMP:0019151"
+  ],
+  "oedematous lung": [
+    "SYMP:0019151"
+  ],
+  "oedematous lungs": [
+    "SYMP:0019151"
+  ],
+  "diaphoresis": [
+    "SYMP:0019152"
+  ],
+  "profuse perspiration": [
+    "SYMP:0019152"
+  ],
+  "dyspnea": [
+    "SYMP:0019153"
+  ],
+  "breathe difficulty": [
+    "SYMP:0019153"
+  ],
+  "breathing difficulty": [
+    "SYMP:0019153"
+  ],
+  "breathlessness": [
+    "SYMP:0019153"
+  ],
+  "difficulty breathe": [
+    "SYMP:0019153"
+  ],
+  "difficulty breathing": [
+    "SYMP:0019153"
+  ],
+  "labor respiration": [
+    "SYMP:0019153"
+  ],
+  "labored respiration": [
+    "SYMP:0019153"
+  ],
+  "shortness of breath": [
+    "SYMP:0019153"
+  ],
+  "hemorrhagic mediastinitis": [
+    "SYMP:0019154"
+  ],
+  "lymphadenitis": [
+    "SYMP:0019155"
+  ],
+  "hematogenous": [
+    "SYMP:0019156"
+  ],
+  "eschar": [
+    "SYMP:0019158"
+  ],
+  "gastroenteritis": [
+    "SYMP:0019159"
+  ],
+  "boil": [
+    "SYMP:0019160"
+  ],
+  "furuncle": [
+    "SYMP:0019160"
+  ],
+  "muscle pain": [
+    "SYMP:0019161"
+  ],
+  "myalgia": [
+    "SYMP:0019161"
+  ],
+  "muscle tightness": [
+    "SYMP:0019162"
+  ],
+  "eye symptom": [
+    "SYMP:0019163"
+  ],
+  "excessive tearing": [
+    "SYMP:0019164"
+  ],
+  "light sensitivity": [
+    "SYMP:0019165"
+  ],
+  "obsolete ulceration": [
+    "SYMP:0019166"
+  ],
+  "obsolete ulcerations": [
+    "SYMP:0019166"
+  ],
+  "ulcer": [
+    "SYMP:0019166"
+  ],
+  "ulcers": [
+    "SYMP:0019166"
+  ],
+  "pustule": [
+    "SYMP:0019167"
+  ],
+  "obsolete pneumonia": [
+    "SYMP:0019168"
+  ],
+  "arthritis": [
+    "SYMP:0019169"
+  ],
+  "obsolete osteomyelitis": [
+    "SYMP:0019170"
+  ],
+  "spondylitis": [
+    "SYMP:0019171"
+  ],
+  "ocular lesion": [
+    "SYMP:0019172"
+  ],
+  "meningitis": [
+    "SYMP:0019173"
+  ],
+  "chill": [
+    "SYMP:0019174"
+  ],
+  "chills": [
+    "SYMP:0019174"
+  ],
+  "rigor": [
+    "SYMP:0019174"
+  ],
+  "rigors": [
+    "SYMP:0019174"
+  ],
+  "sweaty": [
+    "SYMP:0019175"
+  ],
+  "perspire": [
+    "SYMP:0019175"
+  ],
+  "malaise": [
+    "SYMP:0019176"
+  ],
+  "fatigue": [
+    "SYMP:0019177"
+  ],
+  "necrotic lesion": [
+    "SYMP:0019178"
+  ],
+  "lightheadedness": [
+    "SYMP:0019179"
+  ],
+  "light - headedness": [
+    "SYMP:0019179"
+  ],
+  "constipation": [
+    "SYMP:0019180"
+  ],
+  "hoarseness": [
+    "SYMP:0019181"
+  ],
+  "behavioral symptom": [
+    "SYMP:0019182"
+  ],
+  "hyperactivity": [
+    "SYMP:0019183"
+  ],
+  "limited attention": [
+    "SYMP:0019184"
+  ],
+  "communication difficulty": [
+    "SYMP:0019185"
+  ],
+  "obsessive interest": [
+    "SYMP:0019186"
+  ],
+  "obsessive interests": [
+    "SYMP:0019186"
+  ],
+  "repetitive behavior": [
+    "SYMP:0019187"
+  ],
+  "stimming": [
+    "SYMP:0019187"
+  ],
+  "intracranial hemorrhage": [
+    "SYMP:0019188"
+  ],
+  "intracerebral hemorrhage": [
+    "SYMP:0019189"
+  ],
+  "subdural hemorrhage": [
+    "SYMP:0019190"
+  ],
+  "subdural hematoma": [
+    "SYMP:0019190"
+  ],
+  "airway stenosis": [
+    "SYMP:0020000"
+  ],
+  "apthous ulcer": [
+    "SYMP:0020001"
+  ],
+  "aphthous stomatitis": [
+    "SYMP:0020001"
+  ],
+  "canker sore": [
+    "SYMP:0020001"
+  ],
+  "anal abscess": [
+    "SYMP:0020002"
+  ],
+  "acholic stool": [
+    "SYMP:0020003"
+  ],
+  "clay - color bowel movement": [
+    "SYMP:0020003"
+  ],
+  "clay - colored bowel movement": [
+    "SYMP:0020003"
+  ],
+  "ageusia": [
+    "SYMP:0020004"
+  ],
+  "loss of taste": [
+    "SYMP:0020004"
+  ],
+  "acquire color vision deficiency": [
+    "SYMP:0020005"
+  ],
+  "acquired color vision deficiency": [
+    "SYMP:0020005"
+  ],
+  "agitation": [
+    "SYMP:0020006"
+  ],
+  "anterior scleral inflammation": [
+    "SYMP:0020007"
+  ],
+  "bark croup cough": [
+    "SYMP:0020008"
+  ],
+  "barking croup cough": [
+    "SYMP:0020008"
+  ],
+  "blind spot": [
+    "SYMP:0020009"
+  ],
+  "blur vision with halo": [
+    "SYMP:0020010"
+  ],
+  "blurred vision with haloes": [
+    "SYMP:0020010"
+  ],
+  "bloody diarrhea": [
+    "SYMP:0020011"
+  ],
+  "weight symptom": [
+    "SYMP:0020012"
+  ],
+  "abnormal weight loss": [
+    "SYMP:0020013"
+  ],
+  "chronic weight loss": [
+    "SYMP:0020014"
+  ],
+  "obsolete gain of weight": [
+    "SYMP:0020015"
+  ],
+  "acute weight gain": [
+    "SYMP:0020016"
+  ],
+  "chronic weight gain": [
+    "SYMP:0020017"
+  ],
+  "overweight": [
+    "SYMP:0020018"
+  ],
+  "obesity": [
+    "SYMP:0020018"
+  ],
+  "postnasal drainage": [
+    "SYMP:0020019"
+  ],
+  "abnormal scar formation": [
+    "SYMP:0020020"
+  ],
+  "abnormal wound healing": [
+    "SYMP:0020021"
+  ],
+  "bone conduction hyperacusis": [
+    "SYMP:0020022"
+  ],
+  "bone pain": [
+    "SYMP:0020023"
+  ],
+  "bronchospasm": [
+    "SYMP:0020024"
+  ],
+  "caseation": [
+    "SYMP:0020025"
+  ],
+  "chronic inflammation": [
+    "SYMP:0020026"
+  ],
+  "wet cough": [
+    "SYMP:0020027"
+  ],
+  "productive cough": [
+    "SYMP:0020027"
+  ],
+  "poor wind heal": [
+    "SYMP:0020028"
+  ],
+  "poor wound healing": [
+    "SYMP:0020028"
+  ],
+  "concentration difficulty": [
+    "SYMP:0020029"
+  ],
+  "patch of hair loss with a black dot pattern": [
+    "SYMP:0020030"
+  ],
+  "patches of hair loss with a black dot pattern": [
+    "SYMP:0020030"
+  ],
+  "chest discomfort": [
+    "SYMP:0020031"
+  ],
+  "chest tightness": [
+    "SYMP:0020032"
+  ],
+  "paroxysmal cough": [
+    "SYMP:0020033"
+  ],
+  "conjunctiva symptom": [
+    "SYMP:0020034"
+  ],
+  "conjunctival congestion": [
+    "SYMP:0020035"
+  ],
+  "conjunctival degeneration": [
+    "SYMP:0020036"
+  ],
+  "conjunctival suffusion": [
+    "SYMP:0020037"
+  ],
+  "conjunctival swell": [
+    "SYMP:0020038"
+  ],
+  "conjunctival swelling": [
+    "SYMP:0020038"
+  ],
+  "contracture": [
+    "SYMP:0020039"
+  ],
+  "hair symptom": [
+    "SYMP:0020040"
+  ],
+  "corkscrew hair": [
+    "SYMP:0020041"
+  ],
+  "corneal scar": [
+    "SYMP:0020042"
+  ],
+  "corneal scarring": [
+    "SYMP:0020042"
+  ],
+  "dark urine": [
+    "SYMP:0020043"
+  ],
+  "hair shed": [
+    "SYMP:0020044"
+  ],
+  "hair shedding": [
+    "SYMP:0020044"
+  ],
+  "balance symptom": [
+    "SYMP:0020045"
+  ],
+  "feeding problem": [
+    "SYMP:0020046"
+  ],
+  "descend muscle paralysis": [
+    "SYMP:0020047"
+  ],
+  "descending muscle paralysis": [
+    "SYMP:0020047"
+  ],
+  "skin peeling": [
+    "SYMP:0020048"
+  ],
+  "delay psychomotor development": [
+    "SYMP:0020049"
+  ],
+  "delayed psychomotor development": [
+    "SYMP:0020049"
+  ],
+  "decrease tearing": [
+    "SYMP:0020050"
+  ],
+  "decreased tearing": [
+    "SYMP:0020050"
+  ],
+  "decrease metabolism": [
+    "SYMP:0020051"
+  ],
+  "decreased metabolism": [
+    "SYMP:0020051"
+  ],
+  "hand weakness": [
+    "SYMP:0020052"
+  ],
+  "mammary gland inflammation": [
+    "SYMP:0020053"
+  ],
+  "severe mammary gland inflammation": [
+    "SYMP:0020054"
+  ],
+  "cerebral hemorrhage": [
+    "SYMP:0020056"
+  ],
+  "severe bronchiole inflammation": [
+    "SYMP:0020058"
+  ],
+  "suppurative bronchiole inflammation": [
+    "SYMP:0020059"
+  ],
+  "outlet dysfunction constipation": [
+    "SYMP:0020061"
+  ],
+  "soft tissue necrosis": [
+    "SYMP:0020062"
+  ],
+  "blood pressure": [
+    "SYMP:0020063"
+  ],
+  "high blood pressure": [
+    "SYMP:0020064"
+  ]
+}

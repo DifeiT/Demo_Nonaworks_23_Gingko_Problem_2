@@ -1,0 +1,2847 @@
+{
+  "fission yeast phenotype condition": [
+    "FYECO:0000001"
+  ],
+  "phenotype condition": [
+    "FYECO:0000001"
+  ],
+  "temperature": [
+    "FYECO:0000002"
+  ],
+  "expression level": [
+    "FYECO:0000003"
+  ],
+  "high temperature": [
+    "FYECO:0000004"
+  ],
+  "33 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "33 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "34 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "34 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "35 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "35 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "36 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "36 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "37 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "37 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "38 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "38 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "39 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "39 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "40 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "40 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "41 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "41 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "42 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "42 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "43 degree celsius": [
+    "FYECO:0000004"
+  ],
+  "43 degrees celsius": [
+    "FYECO:0000004"
+  ],
+  "standard temperature": [
+    "FYECO:0000005"
+  ],
+  "25 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "25 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "26 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "26 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "27 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "27 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "28 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "28 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "29 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "29 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "30 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "30 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "31 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "31 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "32 degree celsius": [
+    "FYECO:0000005"
+  ],
+  "32 degrees celsius": [
+    "FYECO:0000005"
+  ],
+  "normal temperature": [
+    "FYECO:0000005"
+  ],
+  "low temperature": [
+    "FYECO:0000006"
+  ],
+  "17 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "17 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "18 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "18 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "19 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "19 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "20 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "20 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "21 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "21 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "22 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "22 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "23 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "23 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "24 degree celsius": [
+    "FYECO:0000006"
+  ],
+  "24 degrees celsius": [
+    "FYECO:0000006"
+  ],
+  "cold": [
+    "FYECO:0000006",
+    "FYECO:0000202"
+  ],
+  "overexpression": [
+    "FYECO:0000007"
+  ],
+  "knockdown": [
+    "FYECO:0000008"
+  ],
+  "group growth medium": [
+    "FYECO:0000009"
+  ],
+  "grouping growth medium": [
+    "FYECO:0000009"
+  ],
+  "absence of chemical": [
+    "FYECO:0000010"
+  ],
+  "grouping limit": [
+    "FYECO:0000011"
+  ],
+  "grouping limited": [
+    "FYECO:0000011"
+  ],
+  "group define medium": [
+    "FYECO:0000013"
+  ],
+  "grouping defined medium": [
+    "FYECO:0000013"
+  ],
+  "sporulation medium": [
+    "FYECO:0000015"
+  ],
+  "malt extract medium": [
+    "FYECO:0000015"
+  ],
+  "mat medium": [
+    "FYECO:0000015"
+  ],
+  "mating medium": [
+    "FYECO:0000015"
+  ],
+  "spa medium": [
+    "FYECO:0000015"
+  ],
+  "high glucose mm": [
+    "FYECO:0000016"
+  ],
+  "high glucose minimal medium": [
+    "FYECO:0000016"
+  ],
+  "+ limited adenine": [
+    "FYECO:0000021"
+  ],
+  "absence of p - factor": [
+    "FYECO:0000022"
+  ],
+  "presence of 3',5 ' - cyclic amp": [
+    "FYECO:0000023"
+  ],
+  "+ sugar": [
+    "FYECO:0000024"
+  ],
+  "+ sorbitol": [
+    "FYECO:0000025"
+  ],
+  "+ vanadate": [
+    "FYECO:0000026"
+  ],
+  "sodium orthovanadate add": [
+    "FYECO:0000026"
+  ],
+  "sodium orthovanadate added": [
+    "FYECO:0000026"
+  ],
+  "presence of mat pheromone": [
+    "FYECO:0000027"
+  ],
+  "presence of mating pheromone": [
+    "FYECO:0000027"
+  ],
+  "+ tbc": [
+    "FYECO:0000028"
+  ],
+  "+ ion": [
+    "FYECO:0000030"
+  ],
+  "+ ions": [
+    "FYECO:0000030"
+  ],
+  "+ k ion": [
+    "FYECO:0000031"
+  ],
+  "+ k ions": [
+    "FYECO:0000031"
+  ],
+  "potassium ion add": [
+    "FYECO:0000031"
+  ],
+  "potassium ions added": [
+    "FYECO:0000031"
+  ],
+  "+ cl ion": [
+    "FYECO:0000032"
+  ],
+  "+ cl ions": [
+    "FYECO:0000032"
+  ],
+  "chloride ion add": [
+    "FYECO:0000032"
+  ],
+  "chloride ions added": [
+    "FYECO:0000032"
+  ],
+  "+ cd ion": [
+    "FYECO:0000033"
+  ],
+  "+ cd ions": [
+    "FYECO:0000033"
+  ],
+  "cadmium ion add": [
+    "FYECO:0000033"
+  ],
+  "cadmium ions added": [
+    "FYECO:0000033"
+  ],
+  "+ ca ion": [
+    "FYECO:0000034"
+  ],
+  "+ ca ions": [
+    "FYECO:0000034"
+  ],
+  "ca ion add": [
+    "FYECO:0000034"
+  ],
+  "ca ions added": [
+    "FYECO:0000034"
+  ],
+  "calcium ion add": [
+    "FYECO:0000034"
+  ],
+  "calcium ions added": [
+    "FYECO:0000034"
+  ],
+  "+ cu ion": [
+    "FYECO:0000035"
+  ],
+  "+ cu ions": [
+    "FYECO:0000035"
+  ],
+  "copper ion add": [
+    "FYECO:0000035"
+  ],
+  "copper ions added": [
+    "FYECO:0000035"
+  ],
+  "+ pb ion": [
+    "FYECO:0000036"
+  ],
+  "+ pb ions": [
+    "FYECO:0000036"
+  ],
+  "lead ion add": [
+    "FYECO:0000036"
+  ],
+  "lead ions added": [
+    "FYECO:0000036"
+  ],
+  "+ bi ion": [
+    "FYECO:0000037"
+  ],
+  "+ bi ions": [
+    "FYECO:0000037"
+  ],
+  "bismuth ion add": [
+    "FYECO:0000037"
+  ],
+  "bismuth ions added": [
+    "FYECO:0000037"
+  ],
+  "+ mg ion": [
+    "FYECO:0000038"
+  ],
+  "+ mg ions": [
+    "FYECO:0000038"
+  ],
+  "magnesium ion add": [
+    "FYECO:0000038"
+  ],
+  "magnesium ions added": [
+    "FYECO:0000038"
+  ],
+  "+ p - factor": [
+    "FYECO:0000039"
+  ],
+  "p factor add": [
+    "FYECO:0000039"
+  ],
+  "p factor added": [
+    "FYECO:0000039"
+  ],
+  "+ m - factor": [
+    "FYECO:0000040"
+  ],
+  "m factor add": [
+    "FYECO:0000040"
+  ],
+  "m factor added": [
+    "FYECO:0000040"
+  ],
+  "sugar alcohol add": [
+    "FYECO:0000041"
+  ],
+  "sugar alcohol added": [
+    "FYECO:0000041"
+  ],
+  "+ fatty acid": [
+    "FYECO:0000042"
+  ],
+  "+ palmitic acid": [
+    "FYECO:0000043"
+  ],
+  "+ myristic acid": [
+    "FYECO:0000044"
+  ],
+  "+ pentadecanoic acid": [
+    "FYECO:0000045"
+  ],
+  "+ margaric acid": [
+    "FYECO:0000046"
+  ],
+  "+ stearic acid": [
+    "FYECO:0000047"
+  ],
+  "+ petroselinic acid": [
+    "FYECO:0000048"
+  ],
+  "+ oleic acid": [
+    "FYECO:0000049"
+  ],
+  "+ linoleic acid": [
+    "FYECO:0000050"
+  ],
+  "+ linolenic acid": [
+    "FYECO:0000051"
+  ],
+  "+ arachidic acid": [
+    "FYECO:0000052"
+  ],
+  "+ melissic acid": [
+    "FYECO:0000053"
+  ],
+  "glycerol mm": [
+    "FYECO:0000054"
+  ],
+  "glycerol minimal medium": [
+    "FYECO:0000054"
+  ],
+  "m and p factor produce": [
+    "FYECO:0000055"
+  ],
+  "m and p factor produced": [
+    "FYECO:0000055"
+  ],
+  "presence of m - factor and p - factor": [
+    "FYECO:0000055"
+  ],
+  "presence of mating pheromones": [
+    "FYECO:0000055"
+  ],
+  "+ 3,5 - cyclic amp": [
+    "FYECO:0000056"
+  ],
+  "3 ' 5 ' - cyclic amp produce": [
+    "FYECO:0000057"
+  ],
+  "3 ' 5 ' - cyclic amp produced": [
+    "FYECO:0000057"
+  ],
+  "+ mat pheromone": [
+    "FYECO:0000058"
+  ],
+  "+ mating pheromone": [
+    "FYECO:0000058"
+  ],
+  "chemical add or exclude": [
+    "FYECO:0000059"
+  ],
+  "chemical added or excluded": [
+    "FYECO:0000059"
+  ],
+  "chemical add": [
+    "FYECO:0000059"
+  ],
+  "chemical added": [
+    "FYECO:0000059"
+  ],
+  "chemical": [
+    "FYECO:0000059"
+  ],
+  "chemicals": [
+    "FYECO:0000059"
+  ],
+  "chemical produce": [
+    "FYECO:0000060"
+  ],
+  "chemical produced": [
+    "FYECO:0000060"
+  ],
+  "+ xenobiotic substrate": [
+    "FYECO:0000061"
+  ],
+  "absence of nitrogen": [
+    "FYECO:0000062"
+  ],
+  "absence of 3 ' 5 ' - cyclic amp": [
+    "FYECO:0000063"
+  ],
+  "+ inositol": [
+    "FYECO:0000064"
+  ],
+  "absence of adenine": [
+    "FYECO:0000065"
+  ],
+  "absence of inositol": [
+    "FYECO:0000066"
+  ],
+  "+ lauric acid": [
+    "FYECO:0000067"
+  ],
+  "+ vaccenic acid": [
+    "FYECO:0000068"
+  ],
+  "+ caffeine": [
+    "FYECO:0000069"
+  ],
+  "absence of uracil": [
+    "FYECO:0000070"
+  ],
+  "+ 1 - na - pp1": [
+    "FYECO:0000071"
+  ],
+  "1 - na - pp1 present": [
+    "FYECO:0000071"
+  ],
+  "4 - amino - 1 - tert - butyl - 3 - ( 1 ' - naphthyl ) pyrazolo [ 3,4 - d ] pyrimidine add": [
+    "FYECO:0000071"
+  ],
+  "4 - amino - 1 - tert - butyl - 3 - ( 1 ' - naphthyl ) pyrazolo [ 3,4 - d ] pyrimidine added": [
+    "FYECO:0000071"
+  ],
+  "4 - amino - 1 - tert - butyl - 3 - ( 1 ' - naphthyl ) pyrazolo [ 3,4 - d ] pyrimidine present": [
+    "FYECO:0000071"
+  ],
+  "glycerol mm with trace glucose": [
+    "FYECO:0000072"
+  ],
+  "glycerol main carbon source + very low glucose mm": [
+    "FYECO:0000072"
+  ],
+  "glycerol minimal medium with trace glucose": [
+    "FYECO:0000072"
+  ],
+  "dha minimal medium": [
+    "FYECO:0000073"
+  ],
+  "dihydroxyacetone mm": [
+    "FYECO:0000073"
+  ],
+  "dihydroxyactone minimal medium": [
+    "FYECO:0000073"
+  ],
+  "+ nad+": [
+    "FYECO:0000074"
+  ],
+  "+ nadp+": [
+    "FYECO:0000075"
+  ],
+  "+ dihydroxyacetone": [
+    "FYECO:0000076"
+  ],
+  "dha add": [
+    "FYECO:0000076"
+  ],
+  "dha added": [
+    "FYECO:0000076"
+  ],
+  "+ h2o2": [
+    "FYECO:0000078"
+  ],
+  "hydrogen peroxide add": [
+    "FYECO:0000078"
+  ],
+  "hydrogen peroxide added": [
+    "FYECO:0000078"
+  ],
+  "+ thiabendazole": [
+    "FYECO:0000079"
+  ],
+  "tbz add": [
+    "FYECO:0000079"
+  ],
+  "tbz added": [
+    "FYECO:0000079"
+  ],
+  "group rich medium": [
+    "FYECO:0000080"
+  ],
+  "grouping rich medium": [
+    "FYECO:0000080"
+  ],
+  "low glucose yes": [
+    "FYECO:0000081"
+  ],
+  "low glucose rich medium": [
+    "FYECO:0000081"
+  ],
+  "low glucose ye": [
+    "FYECO:0000081"
+  ],
+  "+ arginine": [
+    "FYECO:0000082"
+  ],
+  "+ glutamate": [
+    "FYECO:0000084"
+  ],
+  "+ glutamine": [
+    "FYECO:0000085"
+  ],
+  "+ ornithine": [
+    "FYECO:0000086"
+  ],
+  "+ pro": [
+    "FYECO:0000087"
+  ],
+  "proline add": [
+    "FYECO:0000087"
+  ],
+  "proline added": [
+    "FYECO:0000087"
+  ],
+  "+ 2 - og": [
+    "FYECO:0000088"
+  ],
+  "2 - og present": [
+    "FYECO:0000088"
+  ],
+  "2 - oxoglutarate add": [
+    "FYECO:0000088"
+  ],
+  "2 - oxoglutarate added": [
+    "FYECO:0000088"
+  ],
+  "2 - oxoglutarate present": [
+    "FYECO:0000088"
+  ],
+  "+ na oleate": [
+    "FYECO:0000089"
+  ],
+  "sodium oleate add": [
+    "FYECO:0000089"
+  ],
+  "sodium oleate added": [
+    "FYECO:0000089"
+  ],
+  "+ limited nitrogen": [
+    "FYECO:0000090"
+  ],
+  "nitrogen starvation": [
+    "FYECO:0000090",
+    "FYECO:0000127"
+  ],
+  "+ cisplatin": [
+    "FYECO:0000091"
+  ],
+  "+ na ion": [
+    "FYECO:0000092"
+  ],
+  "+ na ions": [
+    "FYECO:0000092"
+  ],
+  "sodium ion add": [
+    "FYECO:0000092"
+  ],
+  "sodium ions added": [
+    "FYECO:0000092"
+  ],
+  "+ li ion": [
+    "FYECO:0000093"
+  ],
+  "+ li ions": [
+    "FYECO:0000093"
+  ],
+  "lithium ion add": [
+    "FYECO:0000093"
+  ],
+  "lithium ions added": [
+    "FYECO:0000093"
+  ],
+  "group sequential growth condition": [
+    "FYECO:0000094"
+  ],
+  "grouping sequential growth conditions": [
+    "FYECO:0000094"
+  ],
+  "24 - 48h nitrogen starvation follow by 4 - 7 day recovery in rich medium": [
+    "FYECO:0000095"
+  ],
+  "24 - 48h nitrogen starvation followed by 4 - 7 day recovery in rich medium": [
+    "FYECO:0000095"
+  ],
+  "24 - 48h nitrogen starvation follow by 5 - 12h recovery in rich medium": [
+    "FYECO:0000096"
+  ],
+  "24 - 48h nitrogen starvation followed by 5 - 12h recovery in rich medium": [
+    "FYECO:0000096"
+  ],
+  "24 - 48h nitrogen starvation follow by 12 - 24h recovery in rich medium": [
+    "FYECO:0000097"
+  ],
+  "24 - 48h nitrogen starvation followed by 12 - 24h recovery in rich medium": [
+    "FYECO:0000097"
+  ],
+  "72h - 7days nitrogen starvation follow by 12 - 24h recovery in rich medium": [
+    "FYECO:0000098"
+  ],
+  "72h - 7days nitrogen starvation followed by 12 - 24h recovery in rich medium": [
+    "FYECO:0000098"
+  ],
+  "72h - 7days nitrogen starvation follow by 4 - 7 day recovery in rich medium": [
+    "FYECO:0000099"
+  ],
+  "72h - 7days nitrogen starvation followed by 4 - 7 days recovery in rich medium": [
+    "FYECO:0000099"
+  ],
+  "water medium": [
+    "FYECO:0000100"
+  ],
+  "medium texture": [
+    "FYECO:0000101"
+  ],
+  "agar plate": [
+    "FYECO:0000102"
+  ],
+  "agar plates": [
+    "FYECO:0000102"
+  ],
+  "solid agar plate": [
+    "FYECO:0000102"
+  ],
+  "solid agar plates": [
+    "FYECO:0000102"
+  ],
+  "liquid culture": [
+    "FYECO:0000103"
+  ],
+  "low glucose mm": [
+    "FYECO:0000104"
+  ],
+  "low glucose minimal medium": [
+    "FYECO:0000104"
+  ],
+  "+ limited thiamine": [
+    "FYECO:0000105"
+  ],
+  "+ thiamine": [
+    "FYECO:0000106"
+  ],
+  "+ aminopyrimidine": [
+    "FYECO:0000107"
+  ],
+  "+ thiazole": [
+    "FYECO:0000108"
+  ],
+  "group excess": [
+    "FYECO:0000109"
+  ],
+  "grouping excess": [
+    "FYECO:0000109"
+  ],
+  "nitrogen starvation and recovery": [
+    "FYECO:0000110"
+  ],
+  "recovery from nitrogen depletion": [
+    "FYECO:0000110"
+  ],
+  "recovery from nitrogen starvation": [
+    "FYECO:0000110"
+  ],
+  "+ limited myo - inositol": [
+    "FYECO:0000111"
+  ],
+  "limited inositol add": [
+    "FYECO:0000111"
+  ],
+  "limited inositol added": [
+    "FYECO:0000111"
+  ],
+  "+ limited phosphate": [
+    "FYECO:0000112"
+  ],
+  "+ calcofluor white": [
+    "FYECO:0000113"
+  ],
+  "+ cyclosporin a": [
+    "FYECO:0000114"
+  ],
+  "+ gtp": [
+    "FYECO:0000115"
+  ],
+  "+ guanosine triphosphate": [
+    "FYECO:0000115"
+  ],
+  "group heat shock": [
+    "FYECO:0000116"
+  ],
+  "grouping heat shock": [
+    "FYECO:0000116"
+  ],
+  "heat shock and recovery at normal temperature": [
+    "FYECO:0000117"
+  ],
+  "heat shock for 20 - 30 min at 48 degree c , preceeded and follow by growth at normal temperature": [
+    "FYECO:0000117"
+  ],
+  "heat shock for 20 - 30 min at 48 degrees c , preceeded and followed by growth at normal temperature": [
+    "FYECO:0000117"
+  ],
+  "+ glutathione": [
+    "FYECO:0000118"
+  ],
+  "gsh add": [
+    "FYECO:0000118"
+  ],
+  "gsh added": [
+    "FYECO:0000118"
+  ],
+  "l - gamma - glutamyl - l - cysteinylglycine add": [
+    "FYECO:0000118"
+  ],
+  "l - gamma - glutamyl - l - cysteinylglycine added": [
+    "FYECO:0000118"
+  ],
+  "+ n - acetyl - l - cysteine": [
+    "FYECO:0000119"
+  ],
+  "acetylcysteine add": [
+    "FYECO:0000119"
+  ],
+  "acetylcysteine added": [
+    "FYECO:0000119"
+  ],
+  "nac add": [
+    "FYECO:0000119"
+  ],
+  "nac added": [
+    "FYECO:0000119"
+  ],
+  "group absent": [
+    "FYECO:0000120"
+  ],
+  "grouping absent": [
+    "FYECO:0000120"
+  ],
+  "+ methylamine": [
+    "FYECO:0000121"
+  ],
+  "group growth timing": [
+    "FYECO:0000122"
+  ],
+  "grouping growth timing": [
+    "FYECO:0000122"
+  ],
+  "growth to stationary phase": [
+    "FYECO:0000123"
+  ],
+  "growth to late exponential phase": [
+    "FYECO:0000124"
+  ],
+  "growth to exponential phase": [
+    "FYECO:0000125"
+  ],
+  "glucose mm": [
+    "FYECO:0000126"
+  ],
+  "glucose minimal medium": [
+    "FYECO:0000126"
+  ],
+  "normal glucose minimal medium": [
+    "FYECO:0000126"
+  ],
+  "normal glucose mm": [
+    "FYECO:0000126"
+  ],
+  "sd medium": [
+    "FYECO:0000126"
+  ],
+  "standard glucose minimal medium": [
+    "FYECO:0000126"
+  ],
+  "nitrogen absent": [
+    "FYECO:0000127"
+  ],
+  "nitrogen exclude": [
+    "FYECO:0000127"
+  ],
+  "nitrogen excluded": [
+    "FYECO:0000127"
+  ],
+  "nitrogen free": [
+    "FYECO:0000127"
+  ],
+  "ph": [
+    "FYECO:0000128"
+  ],
+  "high ph": [
+    "FYECO:0000129"
+  ],
+  "ph 6.8": [
+    "FYECO:0000129"
+  ],
+  "+ ubiquinone q6": [
+    "FYECO:0000131"
+  ],
+  "coenzyme q6 add": [
+    "FYECO:0000131"
+  ],
+  "coenzyme q6 added": [
+    "FYECO:0000131"
+  ],
+  "group experimental environment": [
+    "FYECO:0000132"
+  ],
+  "grouping experimental environment": [
+    "FYECO:0000132"
+  ],
+  "oxygen level": [
+    "FYECO:0000133"
+  ],
+  "anaerobic environment": [
+    "FYECO:0000134"
+  ],
+  "- oxygen": [
+    "FYECO:0000134"
+  ],
+  "anaerobiosis": [
+    "FYECO:0000134"
+  ],
+  "minus oxygen": [
+    "FYECO:0000134"
+  ],
+  "semi - aerobic environment": [
+    "FYECO:0000135"
+  ],
+  "hypoxia": [
+    "FYECO:0000135"
+  ],
+  "hypoxic environment": [
+    "FYECO:0000135"
+  ],
+  "limited o atom": [
+    "FYECO:0000135"
+  ],
+  "limited o atoms": [
+    "FYECO:0000135"
+  ],
+  "limited oxygen": [
+    "FYECO:0000135"
+  ],
+  "reduce oxygen level": [
+    "FYECO:0000135"
+  ],
+  "reduced oxygen level": [
+    "FYECO:0000135"
+  ],
+  "semi aerobic environment": [
+    "FYECO:0000135"
+  ],
+  "semi - anaerobic environment": [
+    "FYECO:0000135"
+  ],
+  "semiaerobic environment": [
+    "FYECO:0000135"
+  ],
+  "semianaerobic environment": [
+    "FYECO:0000135"
+  ],
+  "raffinose ye": [
+    "FYECO:0000136"
+  ],
+  "raffinose rich medium": [
+    "FYECO:0000136"
+  ],
+  "yes": [
+    "FYECO:0000137"
+  ],
+  "complex medium": [
+    "FYECO:0000137"
+  ],
+  "glucose rich medium": [
+    "FYECO:0000137"
+  ],
+  "normal glucose rich medium": [
+    "FYECO:0000137"
+  ],
+  "standard dextrose rich medium": [
+    "FYECO:0000137"
+  ],
+  "standard glucose rich medium": [
+    "FYECO:0000137"
+  ],
+  "glycerol ye": [
+    "FYECO:0000138"
+  ],
+  "glycerol rich medium": [
+    "FYECO:0000138"
+  ],
+  "glycerol sole carbon source rich medium": [
+    "FYECO:0000138"
+  ],
+  "glycerol sole carbon source ye": [
+    "FYECO:0000138"
+  ],
+  "non - fermentable glycerol sole carbon source rich medium": [
+    "FYECO:0000138"
+  ],
+  "nonfermentable glycerol sole carbon source rich medium": [
+    "FYECO:0000138"
+  ],
+  "glycerol and ethanol rich medium": [
+    "FYECO:0000139"
+  ],
+  "glycerol + ethanol ye": [
+    "FYECO:0000139"
+  ],
+  "glycerol and ethanol ye": [
+    "FYECO:0000139"
+  ],
+  "non - fermentable glycerol and ethanol rich medium": [
+    "FYECO:0000139"
+  ],
+  "nonfermentable glycerol and ethanol rich medium": [
+    "FYECO:0000139"
+  ],
+  "in vitro": [
+    "FYECO:0000140"
+  ],
+  "in vivo": [
+    "FYECO:0000141"
+  ],
+  "+ ade": [
+    "FYECO:0000142"
+  ],
+  "+ adenine": [
+    "FYECO:0000142"
+  ],
+  "+ antimycin a": [
+    "FYECO:0000143"
+  ],
+  "respiratory chain inhibitor": [
+    "FYECO:0000143"
+  ],
+  "sucrose ye": [
+    "FYECO:0000144"
+  ],
+  "sucrose rich medium": [
+    "FYECO:0000144"
+  ],
+  "maltose mm": [
+    "FYECO:0000145"
+  ],
+  "maltose minimal medium": [
+    "FYECO:0000145"
+  ],
+  "trehalose mm": [
+    "FYECO:0000146"
+  ],
+  "trehalose minimal medium": [
+    "FYECO:0000146"
+  ],
+  "sucrose mm": [
+    "FYECO:0000147"
+  ],
+  "sucrose minimal medium": [
+    "FYECO:0000147"
+  ],
+  "galactose rich medium with trace glucose": [
+    "FYECO:0000148"
+  ],
+  "non - fermentable galactose and very low glucose rich medium": [
+    "FYECO:0000148"
+  ],
+  "nonfermentable galactose and very low glucose rich medium": [
+    "FYECO:0000148"
+  ],
+  "ypgala": [
+    "FYECO:0000148"
+  ],
+  "+ 1 - dnj": [
+    "FYECO:0000149"
+  ],
+  "1 - deoxynojirimycin add": [
+    "FYECO:0000149"
+  ],
+  "1 - deoxynojirimycin added": [
+    "FYECO:0000149"
+  ],
+  "deoxynojirimycin add": [
+    "FYECO:0000149"
+  ],
+  "deoxynojirimycin added": [
+    "FYECO:0000149"
+  ],
+  "dnj add": [
+    "FYECO:0000149"
+  ],
+  "dnj added": [
+    "FYECO:0000149"
+  ],
+  "calcium absent": [
+    "FYECO:0000150"
+  ],
+  "+ mn ion": [
+    "FYECO:0000151"
+  ],
+  "+ mn ions": [
+    "FYECO:0000151"
+  ],
+  "manganese ion add": [
+    "FYECO:0000151"
+  ],
+  "manganese ions added": [
+    "FYECO:0000151"
+  ],
+  "mn2+ add": [
+    "FYECO:0000151"
+  ],
+  "mn2+ added": [
+    "FYECO:0000151"
+  ],
+  "+ mannose": [
+    "FYECO:0000152"
+  ],
+  "+ diethyl maleate": [
+    "FYECO:0000153"
+  ],
+  "diethyl maleate add": [
+    "FYECO:0000153"
+  ],
+  "diethyl maleate added": [
+    "FYECO:0000153"
+  ],
+  "+ ethanolamine": [
+    "FYECO:0000154"
+  ],
+  "2 - aminoethanol add": [
+    "FYECO:0000154"
+  ],
+  "2 - aminoethanol added": [
+    "FYECO:0000154"
+  ],
+  "eta add": [
+    "FYECO:0000154"
+  ],
+  "eta added": [
+    "FYECO:0000154"
+  ],
+  "mea add": [
+    "FYECO:0000154"
+  ],
+  "mea added": [
+    "FYECO:0000154"
+  ],
+  "monoethanolamine add": [
+    "FYECO:0000154"
+  ],
+  "monoethanolamine added": [
+    "FYECO:0000154"
+  ],
+  "+ choline": [
+    "FYECO:0000155"
+  ],
+  "rhodamine - phalloidin add": [
+    "FYECO:0000156"
+  ],
+  "rhodamine - phalloidin added": [
+    "FYECO:0000156"
+  ],
+  "rhodamine phalloidin": [
+    "FYECO:0000156"
+  ],
+  "growth to stationary phase in rich medium follow by transfer to h2o": [
+    "FYECO:0000157"
+  ],
+  "growth to stationary phase in rich medium followed by transfer to h2o": [
+    "FYECO:0000157"
+  ],
+  "group growth to stationary phase": [
+    "FYECO:0000158"
+  ],
+  "grouping growth to stationary phase": [
+    "FYECO:0000158"
+  ],
+  "growth to stationary phase in rich medium follow by transfer to minimal medium": [
+    "FYECO:0000159"
+  ],
+  "growth to stationary phase in rich medium followed by transfer to minimal medium": [
+    "FYECO:0000159"
+  ],
+  "+ tacrolimus": [
+    "FYECO:0000160"
+  ],
+  "fk506 add": [
+    "FYECO:0000160"
+  ],
+  "fk506 added": [
+    "FYECO:0000160"
+  ],
+  "tacrolimus add": [
+    "FYECO:0000160"
+  ],
+  "tacrolimus added": [
+    "FYECO:0000160"
+  ],
+  "hoechst stain add": [
+    "FYECO:0000161"
+  ],
+  "hoechst stain added": [
+    "FYECO:0000161"
+  ],
+  "bisbenzimide add": [
+    "FYECO:0000161"
+  ],
+  "bisbenzimide added": [
+    "FYECO:0000161"
+  ],
+  "high glucose yes": [
+    "FYECO:0000162"
+  ],
+  "high glucose rich medium": [
+    "FYECO:0000162"
+  ],
+  "fitc - conjugate lectin add": [
+    "FYECO:0000163"
+  ],
+  "fitc - conjugated lectin added": [
+    "FYECO:0000163"
+  ],
+  "anti - tubulin antibody add": [
+    "FYECO:0000164"
+  ],
+  "anti - tubulin antibodies added": [
+    "FYECO:0000164"
+  ],
+  "anti - tubulin antibody added": [
+    "FYECO:0000164"
+  ],
+  "+ na2s": [
+    "FYECO:0000165"
+  ],
+  "sodium sulfide add": [
+    "FYECO:0000165"
+  ],
+  "sodium sulfide added": [
+    "FYECO:0000165"
+  ],
+  "+ nacl": [
+    "FYECO:0000166"
+  ],
+  "sodium chloride add": [
+    "FYECO:0000166"
+  ],
+  "sodium chloride added": [
+    "FYECO:0000166"
+  ],
+  "+ sd": [
+    "FYECO:0000167"
+  ],
+  "+ sds": [
+    "FYECO:0000167"
+  ],
+  "sodium dodecyl sulfate add": [
+    "FYECO:0000167"
+  ],
+  "sodium dodecyl sulfate added": [
+    "FYECO:0000167"
+  ],
+  "heat shock and recovery at high temperature": [
+    "FYECO:0000168"
+  ],
+  "heat shock for 20 - 30 min at 48 degree c , preceeded and follow by growth at high temperature": [
+    "FYECO:0000168"
+  ],
+  "heat shock for 20 - 30 min at 48 degrees c , preceeded and followed by growth at high temperature": [
+    "FYECO:0000168"
+  ],
+  "+ limited ethanolamine": [
+    "FYECO:0000169"
+  ],
+  "+ hu": [
+    "FYECO:0000170"
+  ],
+  "hydroxyurea add": [
+    "FYECO:0000170"
+  ],
+  "hydroxyurea added": [
+    "FYECO:0000170"
+  ],
+  "sorbitol absent": [
+    "FYECO:0000171"
+  ],
+  "+ zn ion": [
+    "FYECO:0000172"
+  ],
+  "+ zn ions": [
+    "FYECO:0000172"
+  ],
+  "zinc ion add": [
+    "FYECO:0000172"
+  ],
+  "zinc ions added": [
+    "FYECO:0000172"
+  ],
+  "+ zncl2": [
+    "FYECO:0000173"
+  ],
+  "zinc chloride add": [
+    "FYECO:0000173"
+  ],
+  "zinc chloride added": [
+    "FYECO:0000173"
+  ],
+  "+ fecl2": [
+    "FYECO:0000174"
+  ],
+  "iron chloride add": [
+    "FYECO:0000174",
+    "FYECO:0000281"
+  ],
+  "iron chloride added": [
+    "FYECO:0000174",
+    "FYECO:0000281"
+  ],
+  "iron dichloride add": [
+    "FYECO:0000174"
+  ],
+  "iron dichloride added": [
+    "FYECO:0000174"
+  ],
+  "iron ( ii ) chloride": [
+    "FYECO:0000174"
+  ],
+  "+ cdcl2": [
+    "FYECO:0000175"
+  ],
+  "+ cadmium chloride": [
+    "FYECO:0000175"
+  ],
+  "+ edta": [
+    "FYECO:0000176"
+  ],
+  "edta add": [
+    "FYECO:0000176"
+  ],
+  "edta added": [
+    "FYECO:0000176"
+  ],
+  "ethylenediaminetetraacetic acid add": [
+    "FYECO:0000176"
+  ],
+  "ethylenediaminetetraacetic acid added": [
+    "FYECO:0000176"
+  ],
+  "+ limited zinc": [
+    "FYECO:0000177"
+  ],
+  "limited zn add": [
+    "FYECO:0000177"
+  ],
+  "limited zn added": [
+    "FYECO:0000177"
+  ],
+  "+ meet": [
+    "FYECO:0000178"
+  ],
+  "+ met": [
+    "FYECO:0000178"
+  ],
+  "m add": [
+    "FYECO:0000178"
+  ],
+  "m added": [
+    "FYECO:0000178"
+  ],
+  "methionine add": [
+    "FYECO:0000178"
+  ],
+  "methionine added": [
+    "FYECO:0000178"
+  ],
+  "+ cysteine": [
+    "FYECO:0000179"
+  ],
+  "c add": [
+    "FYECO:0000179"
+  ],
+  "c added": [
+    "FYECO:0000179"
+  ],
+  "cys add": [
+    "FYECO:0000179"
+  ],
+  "cys added": [
+    "FYECO:0000179"
+  ],
+  "+ limit sulfur": [
+    "FYECO:0000180"
+  ],
+  "+ limited sulfur": [
+    "FYECO:0000180"
+  ],
+  "limited sulphur add": [
+    "FYECO:0000180"
+  ],
+  "limited sulphur added": [
+    "FYECO:0000180"
+  ],
+  "+ glucose": [
+    "FYECO:0000181"
+  ],
+  "+ asparagine": [
+    "FYECO:0000182"
+  ],
+  "asn add": [
+    "FYECO:0000182"
+  ],
+  "asn added": [
+    "FYECO:0000182"
+  ],
+  "+ alpha - tocopherol": [
+    "FYECO:0000183"
+  ],
+  "vitamin e add": [
+    "FYECO:0000183"
+  ],
+  "vitamin e added": [
+    "FYECO:0000183"
+  ],
+  "+ cucl2": [
+    "FYECO:0000184"
+  ],
+  "copper chloride add": [
+    "FYECO:0000184"
+  ],
+  "copper chloride added": [
+    "FYECO:0000184"
+  ],
+  "+ limited sodium": [
+    "FYECO:0000185"
+  ],
+  "+ feso4": [
+    "FYECO:0000186"
+  ],
+  "iron sulfate add": [
+    "FYECO:0000186"
+  ],
+  "iron sulfate added": [
+    "FYECO:0000186"
+  ],
+  "iron sulphate add": [
+    "FYECO:0000186"
+  ],
+  "iron sulphate added": [
+    "FYECO:0000186"
+  ],
+  "pantothenate absent": [
+    "FYECO:0000187"
+  ],
+  "+ pantothenate": [
+    "FYECO:0000188"
+  ],
+  "+ limited pantothenate": [
+    "FYECO:0000189"
+  ],
+  "dapi add": [
+    "FYECO:0000190"
+  ],
+  "dapi added": [
+    "FYECO:0000190"
+  ],
+  "4',6 - diamidino - 2 - phenylindole add": [
+    "FYECO:0000190"
+  ],
+  "4',6 - diamidino - 2 - phenylindole added": [
+    "FYECO:0000190"
+  ],
+  "+ biotin": [
+    "FYECO:0000191"
+  ],
+  "biotin absent": [
+    "FYECO:0000192"
+  ],
+  "+ dethiobiotin": [
+    "FYECO:0000193"
+  ],
+  "desthiobiotin add": [
+    "FYECO:0000193"
+  ],
+  "desthiobiotin added": [
+    "FYECO:0000193"
+  ],
+  "+ limited biotin": [
+    "FYECO:0000194"
+  ],
+  "+ limited dethiobiotin": [
+    "FYECO:0000195"
+  ],
+  "limited desthiobiotin add": [
+    "FYECO:0000195"
+  ],
+  "limited desthiobiotin added": [
+    "FYECO:0000195"
+  ],
+  "glucose mm , urea nitrogen source": [
+    "FYECO:0000196"
+  ],
+  "glucose minimal medium , urea nitrogen source": [
+    "FYECO:0000196"
+  ],
+  "standard glucose minimal medium , urea nitrogen source": [
+    "FYECO:0000196"
+  ],
+  "+ limited nickel": [
+    "FYECO:0000197"
+  ],
+  "+ ni ion": [
+    "FYECO:0000198"
+  ],
+  "+ ni ions": [
+    "FYECO:0000198"
+  ],
+  "nickel ion add": [
+    "FYECO:0000198"
+  ],
+  "nickel ions added": [
+    "FYECO:0000198"
+  ],
+  "+ lys": [
+    "FYECO:0000199"
+  ],
+  "lysine add": [
+    "FYECO:0000199"
+  ],
+  "lysine added": [
+    "FYECO:0000199"
+  ],
+  "+ peptone": [
+    "FYECO:0000200"
+  ],
+  "ypd": [
+    "FYECO:0000201"
+  ],
+  "glucose rich medium , peptone / ye nitrogen source": [
+    "FYECO:0000201"
+  ],
+  "chill cell": [
+    "FYECO:0000202"
+  ],
+  "chilled cells": [
+    "FYECO:0000202"
+  ],
+  "ice": [
+    "FYECO:0000202"
+  ],
+  "diploid cell": [
+    "FYECO:0000203"
+  ],
+  "diploid cells": [
+    "FYECO:0000203"
+  ],
+  "2n cell": [
+    "FYECO:0000203"
+  ],
+  "2n cells": [
+    "FYECO:0000203"
+  ],
+  "+ na2so4": [
+    "FYECO:0000205"
+  ],
+  "sodium sulfate add": [
+    "FYECO:0000205"
+  ],
+  "sodium sulfate added": [
+    "FYECO:0000205"
+  ],
+  "+ cscl": [
+    "FYECO:0000206"
+  ],
+  "caesium chloride add": [
+    "FYECO:0000206"
+  ],
+  "caesium chloride added": [
+    "FYECO:0000206"
+  ],
+  "cesium chloride add": [
+    "FYECO:0000206"
+  ],
+  "cesium chloride added": [
+    "FYECO:0000206"
+  ],
+  "+ kcl": [
+    "FYECO:0000207"
+  ],
+  "potassium chloride add": [
+    "FYECO:0000207"
+  ],
+  "potassium chloride added": [
+    "FYECO:0000207"
+  ],
+  "+ nh4cl": [
+    "FYECO:0000208"
+  ],
+  "ammonium chloride add": [
+    "FYECO:0000208"
+  ],
+  "ammonium chloride added": [
+    "FYECO:0000208"
+  ],
+  "+ biochanin a": [
+    "FYECO:0000209"
+  ],
+  "bca add": [
+    "FYECO:0000209"
+  ],
+  "bca added": [
+    "FYECO:0000209"
+  ],
+  "+ limit glucose": [
+    "FYECO:0000210"
+  ],
+  "+ limited glucose": [
+    "FYECO:0000210"
+  ],
+  "+ mm": [
+    "FYECO:0000211"
+  ],
+  "+ mms": [
+    "FYECO:0000211"
+  ],
+  "methyl methanesulfonate add": [
+    "FYECO:0000211"
+  ],
+  "methyl methanesulfonate added": [
+    "FYECO:0000211"
+  ],
+  "+ ethanol": [
+    "FYECO:0000212"
+  ],
+  "non - fermentable carbon source medium": [
+    "FYECO:0000213"
+  ],
+  "non - fermentable carbon sources medium": [
+    "FYECO:0000213"
+  ],
+  "+ mgcl2": [
+    "FYECO:0000214"
+  ],
+  "magnesium chloride add": [
+    "FYECO:0000214"
+  ],
+  "magnesium chloride added": [
+    "FYECO:0000214"
+  ],
+  "low ph": [
+    "FYECO:0000215"
+  ],
+  "growth < 24 hr": [
+    "FYECO:0000216"
+  ],
+  "growth < 24 hrs": [
+    "FYECO:0000216"
+  ],
+  "growth < 24 hour": [
+    "FYECO:0000216"
+  ],
+  "growth < 24 hours": [
+    "FYECO:0000216"
+  ],
+  "overnight culture": [
+    "FYECO:0000216"
+  ],
+  "growth > 24 hr": [
+    "FYECO:0000217"
+  ],
+  "growth > 24 hrs": [
+    "FYECO:0000217"
+  ],
+  "growth > 24 hour": [
+    "FYECO:0000217"
+  ],
+  "growth > 24 hours": [
+    "FYECO:0000217"
+  ],
+  "+ beta - estradiol": [
+    "FYECO:0000218"
+  ],
+  "nitrogen source shift , proline to glutamate": [
+    "FYECO:0000219"
+  ],
+  "nitrogen source shift , glutamate to proline": [
+    "FYECO:0000220"
+  ],
+  "nitrogen source shift": [
+    "FYECO:0000221"
+  ],
+  "+ nocodazole": [
+    "FYECO:0000222"
+  ],
+  "+ 1 - nm - pp1": [
+    "FYECO:0000223"
+  ],
+  "+ his": [
+    "FYECO:0000224"
+  ],
+  "histidine add": [
+    "FYECO:0000224"
+  ],
+  "histidine added": [
+    "FYECO:0000224"
+  ],
+  "+ ura": [
+    "FYECO:0000225"
+  ],
+  "uracil add": [
+    "FYECO:0000225"
+  ],
+  "uracil added": [
+    "FYECO:0000225"
+  ],
+  "+ leu": [
+    "FYECO:0000226"
+  ],
+  "leucine add": [
+    "FYECO:0000226"
+  ],
+  "leucine added": [
+    "FYECO:0000226"
+  ],
+  "permissive temperature": [
+    "FYECO:0000227"
+  ],
+  "semi - permissive temperature": [
+    "FYECO:0000228"
+  ],
+  "semipermissive temperature": [
+    "FYECO:0000228"
+  ],
+  "restrictive temperature": [
+    "FYECO:0000229"
+  ],
+  "non - permissive temperature": [
+    "FYECO:0000229"
+  ],
+  "nonpermissive temperature": [
+    "FYECO:0000229"
+  ],
+  "low nitrogen glucose mm": [
+    "FYECO:0000230"
+  ],
+  "low nitrogen glucose minimal medium": [
+    "FYECO:0000230"
+  ],
+  "+ na2so3": [
+    "FYECO:0000231"
+  ],
+  "sodium sulfite add": [
+    "FYECO:0000231"
+  ],
+  "sodium sulfite added": [
+    "FYECO:0000231"
+  ],
+  "temperature shift , low to standard": [
+    "FYECO:0000232"
+  ],
+  "growth at low temperature follow by growth at standard temperature": [
+    "FYECO:0000232"
+  ],
+  "growth at low temperature followed by growth at standard temperature": [
+    "FYECO:0000232"
+  ],
+  "uracil absent": [
+    "FYECO:0000233"
+  ],
+  "+ sulfite": [
+    "FYECO:0000234"
+  ],
+  "+ microtubule depolymerizing drug": [
+    "FYECO:0000235"
+  ],
+  "+ microtubule depolymerizing drugs": [
+    "FYECO:0000235"
+  ],
+  "maltose ye": [
+    "FYECO:0000236"
+  ],
+  "maltose rich medium": [
+    "FYECO:0000236"
+  ],
+  "growth > 48 hr": [
+    "FYECO:0000237"
+  ],
+  "growth > 48 hrs": [
+    "FYECO:0000237"
+  ],
+  "growth > 48 hour": [
+    "FYECO:0000237"
+  ],
+  "growth > 48 hours": [
+    "FYECO:0000237"
+  ],
+  "group condition combination": [
+    "FYECO:0000238"
+  ],
+  "grouping condition combinations": [
+    "FYECO:0000238"
+  ],
+  "group starvation and timing": [
+    "FYECO:0000239"
+  ],
+  "grouping starvation and timing": [
+    "FYECO:0000239"
+  ],
+  "> 7 day nitrogen starvation": [
+    "FYECO:0000240"
+  ],
+  "> 7 days nitrogen starvation": [
+    "FYECO:0000240"
+  ],
+  "28 day nitrogen starvation follow by 10 - 50 hour recovery in minimal medium": [
+    "FYECO:0000241"
+  ],
+  "28 days nitrogen starvation followed by 10 - 50 hours recovery in minimal medium": [
+    "FYECO:0000241"
+  ],
+  "+ rapamycin": [
+    "FYECO:0000242"
+  ],
+  "+ sirolimus": [
+    "FYECO:0000242"
+  ],
+  "+ lmb": [
+    "FYECO:0000243"
+  ],
+  "+ leptomycin b": [
+    "FYECO:0000243"
+  ],
+  "+ 3mb - pp1": [
+    "FYECO:0000244"
+  ],
+  "+ phosphate": [
+    "FYECO:0000245"
+  ],
+  "glucose mm , proline nitrogen source": [
+    "FYECO:0000246"
+  ],
+  "+ cdso4": [
+    "FYECO:0000247"
+  ],
+  "+ cadmium sulfate": [
+    "FYECO:0000247"
+  ],
+  "+ lata": [
+    "FYECO:0000248"
+  ],
+  "+ latrunculin a": [
+    "FYECO:0000248"
+  ],
+  "+ cuso4": [
+    "FYECO:0000249"
+  ],
+  "+ copper ( ii ) sulfate": [
+    "FYECO:0000249"
+  ],
+  "+ agno3": [
+    "FYECO:0000250"
+  ],
+  "+ silver nitrate": [
+    "FYECO:0000250"
+  ],
+  "+ amitrole": [
+    "FYECO:0000251"
+  ],
+  "+ 3 - amino - 1,2,4 - triazole": [
+    "FYECO:0000251"
+  ],
+  "+ glycerol": [
+    "FYECO:0000252"
+  ],
+  "glycerol add": [
+    "FYECO:0000252"
+  ],
+  "glycerol added": [
+    "FYECO:0000252"
+  ],
+  "+ limited ammonium": [
+    "FYECO:0000253"
+  ],
+  "+ limited nh4cl": [
+    "FYECO:0000253"
+  ],
+  "glucose mm , ammonium nitrogen source": [
+    "FYECO:0000254"
+  ],
+  "arginine absent": [
+    "FYECO:0000255"
+  ],
+  "glycerol mm with trace ethanol": [
+    "FYECO:0000256"
+  ],
+  "+ cycloheximide": [
+    "FYECO:0000257"
+  ],
+  "+ arsenate": [
+    "FYECO:0000258"
+  ],
+  "+ arsenic": [
+    "FYECO:0000259"
+  ],
+  "hu block and release": [
+    "FYECO:0000260"
+  ],
+  "+ cacl2": [
+    "FYECO:0000261"
+  ],
+  "+ calcium chloride": [
+    "FYECO:0000261"
+  ],
+  "glucose minimal medium , exclude nitrogen": [
+    "FYECO:0000262"
+  ],
+  "glucose minimal medium , excluding nitrogen": [
+    "FYECO:0000262"
+  ],
+  "glucose mm , glutamate nitrogen source": [
+    "FYECO:0000263"
+  ],
+  "glucose minimal medium , glutamate nitrogen source": [
+    "FYECO:0000263"
+  ],
+  "standard glucose minimal medium , glutamate nitrogen source": [
+    "FYECO:0000263"
+  ],
+  "glucose mm , organic nitrogen source , no inorganic nitrogen": [
+    "FYECO:0000264"
+  ],
+  "> 6 hr in nitrogen starvation": [
+    "FYECO:0000265"
+  ],
+  "> 6 hrs in nitrogen starvation": [
+    "FYECO:0000265"
+  ],
+  "> 6 hour in nitrogen starvation": [
+    "FYECO:0000265"
+  ],
+  "> 6 hours in nitrogen starvation": [
+    "FYECO:0000265"
+  ],
+  "glucose mm , xanthine nitrogen source": [
+    "FYECO:0000266"
+  ],
+  "+ naphthaleneacetic acid": [
+    "FYECO:0000267"
+  ],
+  "+ trichostatin a": [
+    "FYECO:0000268"
+  ],
+  "+ mevalonate": [
+    "FYECO:0000269"
+  ],
+  "+ tev protease": [
+    "FYECO:0000270"
+  ],
+  "+ snp": [
+    "FYECO:0000271"
+  ],
+  "+ sodium nitroprusside": [
+    "FYECO:0000271"
+  ],
+  "glucose mm , no nitrogen": [
+    "FYECO:0000272"
+  ],
+  "glucose mm , no glucose": [
+    "FYECO:0000273"
+  ],
+  "glucose mm , adenine nitrogen source": [
+    "FYECO:0000274"
+  ],
+  "competitive culture": [
+    "FYECO:0000275"
+  ],
+  "glucose mm , uracil nitrogen source": [
+    "FYECO:0000276"
+  ],
+  "+ bleomycin": [
+    "FYECO:0000277"
+  ],
+  "glucose mm , isoleucine nitrogen source": [
+    "FYECO:0000278"
+  ],
+  "+ mncl2": [
+    "FYECO:0000279"
+  ],
+  "manganese chloride add": [
+    "FYECO:0000279"
+  ],
+  "manganese chloride added": [
+    "FYECO:0000279"
+  ],
+  "+ limited leucine": [
+    "FYECO:0000280"
+  ],
+  "+ fecl3": [
+    "FYECO:0000281"
+  ],
+  "iron trichloride add": [
+    "FYECO:0000281"
+  ],
+  "iron trichloride added": [
+    "FYECO:0000281"
+  ],
+  "iron ( iii ) chloride": [
+    "FYECO:0000281"
+  ],
+  "+ limited aminolevulinic acid": [
+    "FYECO:0000282"
+  ],
+  "+ limited ala": [
+    "FYECO:0000282"
+  ],
+  "+ hemin": [
+    "FYECO:0000283"
+  ],
+  "+ thiosulfate": [
+    "FYECO:0000284"
+  ],
+  "cold shock and recovery at normal temperature": [
+    "FYECO:0000285"
+  ],
+  "glucose mm , no adenine": [
+    "FYECO:0000286"
+  ],
+  "+ nigericin": [
+    "FYECO:0000287"
+  ],
+  "temperature shift , high to standard": [
+    "FYECO:0000288"
+  ],
+  "growth at high temperature follow by growth at standard temperature": [
+    "FYECO:0000288"
+  ],
+  "growth at high temperature followed by growth at standard temperature": [
+    "FYECO:0000288"
+  ],
+  "galactose mm": [
+    "FYECO:0000289"
+  ],
+  "+ carbendazim": [
+    "FYECO:0000290"
+  ],
+  "cbz add": [
+    "FYECO:0000290"
+  ],
+  "cbz added": [
+    "FYECO:0000290"
+  ],
+  "mbc add": [
+    "FYECO:0000290"
+  ],
+  "mbc added": [
+    "FYECO:0000290"
+  ],
+  "mecarzole add": [
+    "FYECO:0000290"
+  ],
+  "mecarzole added": [
+    "FYECO:0000290"
+  ],
+  "temperature block and release": [
+    "FYECO:0000291"
+  ],
+  "nitrogen starvation at normal temperature and shift to high temperature in rich medium": [
+    "FYECO:0000292"
+  ],
+  "temperature shift , low to high": [
+    "FYECO:0000293"
+  ],
+  "temperature shift , high to low": [
+    "FYECO:0000294"
+  ],
+  "two - step temperature shift , low to standard , standard to high": [
+    "FYECO:0000295"
+  ],
+  "glucose mm , phenylalanine nitrogen source": [
+    "FYECO:0000296"
+  ],
+  "+ naaso2": [
+    "FYECO:0000297"
+  ],
+  "sodium arsenite add": [
+    "FYECO:0000297"
+  ],
+  "sodium arsenite added": [
+    "FYECO:0000297"
+  ],
+  "+ zymolyase": [
+    "FYECO:0000298"
+  ],
+  "+ queuosine": [
+    "FYECO:0000299"
+  ],
+  "temperature shift , standard to high": [
+    "FYECO:0000300"
+  ],
+  "+ queuine": [
+    "FYECO:0000301"
+  ],
+  "+ ammonium iron ( 2+ ) sulfate": [
+    "FYECO:0000302"
+  ],
+  "+ ferrous ammonium sulfate ( anhydrous )": [
+    "FYECO:0000302"
+  ],
+  "+ menadione": [
+    "FYECO:0000303"
+  ],
+  "+ tbhp": [
+    "FYECO:0000304"
+  ],
+  "tert - butyl hydroperoxide": [
+    "FYECO:0000304"
+  ],
+  "ionize radiation": [
+    "FYECO:0000305"
+  ],
+  "ionizing radiation": [
+    "FYECO:0000305"
+  ],
+  "gamma irradiation": [
+    "FYECO:0000305"
+  ],
+  "gamma radiation": [
+    "FYECO:0000305"
+  ],
+  "two - step temperature shift , standard to low , low to high": [
+    "FYECO:0000306"
+  ],
+  "+ cutin - 1": [
+    "FYECO:0000307"
+  ],
+  "+ doxorubicin": [
+    "FYECO:0000308"
+  ],
+  "+ 14 - hydroxydaunomycin": [
+    "FYECO:0000308"
+  ],
+  "+ 14 - hydroxydaunorubicine": [
+    "FYECO:0000308"
+  ],
+  "+ adriamycin": [
+    "FYECO:0000308"
+  ],
+  "nitrogen starvation follow by heat shock and recovery at normal temperature": [
+    "FYECO:0000309"
+  ],
+  "nitrogen starvation followed by heat shock and recovery at normal temperature": [
+    "FYECO:0000309"
+  ],
+  "nitrogen starvation follow by heat shock and recovery at permissive temperature": [
+    "FYECO:0000309"
+  ],
+  "nitrogen starvation followed by heat shock and recovery at permissive temperature": [
+    "FYECO:0000309"
+  ],
+  "glucose starvation and recovery": [
+    "FYECO:0000310"
+  ],
+  "+ cocl2": [
+    "FYECO:0000311"
+  ],
+  "+ cobalt chloride": [
+    "FYECO:0000311"
+  ],
+  "+ sam": [
+    "FYECO:0000312"
+  ],
+  "+ s - adenosyl - l - methionine": [
+    "FYECO:0000312"
+  ],
+  "+ s - adenosylmethionine": [
+    "FYECO:0000312"
+  ],
+  "+ top - 53": [
+    "FYECO:0000313"
+  ],
+  "+ cpt": [
+    "FYECO:0000314"
+  ],
+  "+ camptothecin": [
+    "FYECO:0000314"
+  ],
+  "uv": [
+    "FYECO:0000315"
+  ],
+  "ultraviolet light": [
+    "FYECO:0000315"
+  ],
+  "uv irradiation": [
+    "FYECO:0000315"
+  ],
+  "+ limited uracil": [
+    "FYECO:0000316"
+  ],
+  "+ urea": [
+    "FYECO:0000317"
+  ],
+  "urea add": [
+    "FYECO:0000317"
+  ],
+  "urea added": [
+    "FYECO:0000317"
+  ],
+  "+ compactin": [
+    "FYECO:0000318"
+  ],
+  "+ bfa": [
+    "FYECO:0000319"
+  ],
+  "+ brefeldin a": [
+    "FYECO:0000319"
+  ],
+  "+ oleate": [
+    "FYECO:0000320"
+  ],
+  "+ copper chelator": [
+    "FYECO:0000321"
+  ],
+  "+ tetrathiomolybdate": [
+    "FYECO:0000321"
+  ],
+  "+ bortezomib": [
+    "FYECO:0000322"
+  ],
+  "cold shock and recovery at high temperature": [
+    "FYECO:0000323"
+  ],
+  "+ latb": [
+    "FYECO:0000324"
+  ],
+  "+ latrunculin b": [
+    "FYECO:0000324"
+  ],
+  "+ ethylene glycol": [
+    "FYECO:0000325"
+  ],
+  "+ 4 - nqo": [
+    "FYECO:0000326"
+  ],
+  "+ 4 - nitroquinoline n - oxide": [
+    "FYECO:0000326"
+  ],
+  "+ mg132": [
+    "FYECO:0000327"
+  ],
+  "proteasome inhibitor": [
+    "FYECO:0000327"
+  ],
+  "lnb glucose medium": [
+    "FYECO:0000328"
+  ],
+  "+ formamide": [
+    "FYECO:0000329"
+  ],
+  "+ limited iron": [
+    "FYECO:0000330"
+  ],
+  "glucose mm , arginine nitrogen source": [
+    "FYECO:0000331"
+  ],
+  "glucose minimal medium , arginine nitrogen source": [
+    "FYECO:0000331"
+  ],
+  "+ 2 - dg": [
+    "FYECO:0000332"
+  ],
+  "2 - deoxy - d - glucose add": [
+    "FYECO:0000332"
+  ],
+  "2 - deoxy - d - glucose added": [
+    "FYECO:0000332"
+  ],
+  "2 - deoxyglucose add": [
+    "FYECO:0000332"
+  ],
+  "2 - deoxyglucose added": [
+    "FYECO:0000332"
+  ],
+  "+ 20 standard aa 's": [
+    "FYECO:0000333"
+  ],
+  "22 standard amino acid add": [
+    "FYECO:0000333"
+  ],
+  "22 standard amino acids added": [
+    "FYECO:0000333"
+  ],
+  "+ phloxine b": [
+    "FYECO:0000334"
+  ],
+  "+ ap20187": [
+    "FYECO:0000335"
+  ],
+  "+ cerulenin": [
+    "FYECO:0000336"
+  ],
+  "inorganic phosphate absent": [
+    "FYECO:0000337"
+  ],
+  "+ 3 - brb - pp1": [
+    "FYECO:0000338"
+  ],
+  "+ auxin": [
+    "FYECO:0000339"
+  ],
+  "+ iron chelator": [
+    "FYECO:0000340"
+  ],
+  "+ dtt": [
+    "FYECO:0000341"
+  ],
+  "+ dithiothreitol": [
+    "FYECO:0000341"
+  ],
+  "+ icrf - 193": [
+    "FYECO:0000342"
+  ],
+  "+ ( nh4 ) 2so4": [
+    "FYECO:0000343"
+  ],
+  "+ ammonium sulfate": [
+    "FYECO:0000343"
+  ],
+  "+ mnso4": [
+    "FYECO:0000344"
+  ],
+  "+ manganese sulfate": [
+    "FYECO:0000344"
+  ],
+  "zinc starvation follow by zinc shock": [
+    "FYECO:0000345"
+  ],
+  "zinc starvation followed by zinc shock": [
+    "FYECO:0000345"
+  ],
+  "synchronous culture": [
+    "FYECO:0000346"
+  ],
+  "+ vanoxerine": [
+    "FYECO:0000347"
+  ],
+  "+ hexestrol": [
+    "FYECO:0000348"
+  ],
+  "+ clomifene": [
+    "FYECO:0000349"
+  ],
+  "+ clomiphene": [
+    "FYECO:0000349"
+  ],
+  "+ ketoconazole": [
+    "FYECO:0000350"
+  ],
+  "+ terconazole": [
+    "FYECO:0000351"
+  ],
+  "+ aminolevulinic acid": [
+    "FYECO:0000352"
+  ],
+  "+ agnp": [
+    "FYECO:0000353"
+  ],
+  "+ silver nanoparticles": [
+    "FYECO:0000353"
+  ],
+  "+ phleomycin": [
+    "FYECO:0000354"
+  ],
+  "+ r - limonene": [
+    "FYECO:0000355"
+  ],
+  "+ ( 4r ) - limonene": [
+    "FYECO:0000355"
+  ],
+  "+ ck - 666": [
+    "FYECO:0000356"
+  ],
+  "+ aspartate": [
+    "FYECO:0000357"
+  ],
+  "+ asp": [
+    "FYECO:0000357"
+  ],
+  "yes + galactose": [
+    "FYECO:0000358"
+  ],
+  "rich medium with glucose and galactose": [
+    "FYECO:0000358"
+  ],
+  "+ clotrimazole": [
+    "FYECO:0000359"
+  ],
+  "+ terbinafine": [
+    "FYECO:0000360"
+  ],
+  "+ acetaldehyde": [
+    "FYECO:0000361"
+  ],
+  "+ formaldehyde": [
+    "FYECO:0000362"
+  ],
+  "two - step temperature shift , standard to high , high to standard": [
+    "FYECO:0000363"
+  ],
+  "+ diamide": [
+    "FYECO:0000364"
+  ],
+  "+ n , n , n ' , n ' - tetramethyldiazene - 1,2 - dicarboxamide": [
+    "FYECO:0000364"
+  ],
+  "mbc block and release": [
+    "FYECO:0000365"
+  ],
+  "single passage culture": [
+    "FYECO:0000366"
+  ],
+  "multiple passage culture": [
+    "FYECO:0000367"
+  ],
+  "+ tamoxifen": [
+    "FYECO:0000368"
+  ],
+  "+ beta - glucanase": [
+    "FYECO:0000369"
+  ],
+  "+ foa": [
+    "FYECO:0000370"
+  ],
+  "+ 5 - fluoroorotic acid": [
+    "FYECO:0000370"
+  ],
+  "+ dmso": [
+    "FYECO:0000371"
+  ],
+  "+ dimethyl sulfoxide": [
+    "FYECO:0000371"
+  ],
+  "+ manumycin a": [
+    "FYECO:0000372"
+  ],
+  "+ manu - a": [
+    "FYECO:0000372"
+  ],
+  "+ thiolutin": [
+    "FYECO:0000373"
+  ],
+  "glucose mm , serine nitrogen source": [
+    "FYECO:0000374"
+  ],
+  "glucose minimal medium , serine nitrogen source": [
+    "FYECO:0000374"
+  ],
+  "+ streptonigrin": [
+    "FYECO:0000375"
+  ],
+  "pyruvate mm": [
+    "FYECO:0000376"
+  ],
+  "pyruvate minimal medium": [
+    "FYECO:0000376"
+  ],
+  "+ 5 - fu": [
+    "FYECO:0000377"
+  ],
+  "+ 5 - fluorouracil": [
+    "FYECO:0000377"
+  ],
+  "+ respiratory chain inhibitor": [
+    "FYECO:0000378"
+  ],
+  "+ electron transport chain inhibitor": [
+    "FYECO:0000378"
+  ],
+  "+ mitochondrial complex iii / iv inhibitor": [
+    "FYECO:0000378"
+  ],
+  "+ respiratory complex iii inhibitor": [
+    "FYECO:0000378"
+  ],
+  "+ diuron": [
+    "FYECO:0000379"
+  ],
+  "+ 3 - ( 3,4 - dichlorophenyl ) - 1,1 - dimethylurea": [
+    "FYECO:0000379"
+  ],
+  "+ nan3": [
+    "FYECO:0000380"
+  ],
+  "+ sodium azide": [
+    "FYECO:0000380"
+  ],
+  "thiamine absent": [
+    "FYECO:0000381"
+  ],
+  "fructose mm": [
+    "FYECO:0000382"
+  ],
+  "fructose minimal medium": [
+    "FYECO:0000382"
+  ],
+  "wild type cell of opposite mating type add to culture": [
+    "FYECO:0000383"
+  ],
+  "wild type cells of opposite mating type added to culture": [
+    "FYECO:0000383"
+  ],
+  "mat with wt": [
+    "FYECO:0000383"
+  ],
+  "mating with wt": [
+    "FYECO:0000383"
+  ],
+  "isogenic cell of opposite mating type add to culture": [
+    "FYECO:0000384"
+  ],
+  "isogenic cells of opposite mating type added to culture": [
+    "FYECO:0000384"
+  ],
+  "self mating": [
+    "FYECO:0000384"
+  ],
+  "+ fluconazole": [
+    "FYECO:0000385"
+  ],
+  "cpt block and release": [
+    "FYECO:0000386"
+  ],
+  "+ tebuconazole": [
+    "FYECO:0000387"
+  ],
+  "+ mpa": [
+    "FYECO:0000388"
+  ],
+  "+ mycophenolic acid": [
+    "FYECO:0000388"
+  ],
+  "glucose mm , sulfate sulfur source": [
+    "FYECO:0000389"
+  ],
+  "glucose minimal medium , sulfate sulfur source": [
+    "FYECO:0000389"
+  ],
+  "glucose minimal medium , sulphate sulphur source": [
+    "FYECO:0000389"
+  ],
+  "glucose mm , sulphate sulphur source": [
+    "FYECO:0000389"
+  ],
+  "+ torin1": [
+    "FYECO:0000390"
+  ],
+  "torin1": [
+    "FYECO:0000390"
+  ],
+  "+ echinocandin": [
+    "FYECO:0000391"
+  ],
+  "+ caspofungin": [
+    "FYECO:0000392"
+  ],
+  "+ caspofungin sld": [
+    "FYECO:0000393"
+  ],
+  "+ caspofungin ld": [
+    "FYECO:0000394"
+  ],
+  "+ micafungin": [
+    "FYECO:0000395"
+  ],
+  "+ micafungin sld": [
+    "FYECO:0000396"
+  ],
+  "+ micafungin ld": [
+    "FYECO:0000397"
+  ],
+  "+ anidulafungin": [
+    "FYECO:0000398"
+  ],
+  "+ anidulafungin sld": [
+    "FYECO:0000399"
+  ],
+  "+ anidulafungin ld": [
+    "FYECO:0000400"
+  ],
+  "transient amino acid starvation < 1 hour": [
+    "FYECO:0000401"
+  ],
+  "xylose add": [
+    "FYECO:0000402"
+  ],
+  "xylose added": [
+    "FYECO:0000402"
+  ],
+  "+ zinc sulfate": [
+    "FYECO:0000404"
+  ],
+  "+ zinc sulphate": [
+    "FYECO:0000404"
+  ],
+  "+ ile": [
+    "FYECO:0000405"
+  ],
+  "isoleucine add": [
+    "FYECO:0000405"
+  ],
+  "isoleucine added": [
+    "FYECO:0000405"
+  ],
+  "+ val": [
+    "FYECO:0000406"
+  ],
+  "valine add": [
+    "FYECO:0000406"
+  ],
+  "valine added": [
+    "FYECO:0000406"
+  ],
+  "+ benzamidine": [
+    "FYECO:0000407"
+  ],
+  "benzamidine add": [
+    "FYECO:0000407"
+  ],
+  "benzamidine added": [
+    "FYECO:0000407"
+  ],
+  "+ canavanin": [
+    "FYECO:0000408"
+  ],
+  "canavanin add": [
+    "FYECO:0000408"
+  ],
+  "canavanin added": [
+    "FYECO:0000408"
+  ],
+  "+ 2,2 ' - dipyridyl": [
+    "FYECO:0000409"
+  ],
+  "2,2 ' - dipyridyl add": [
+    "FYECO:0000409"
+  ],
+  "2,2 ' - dipyridyl added": [
+    "FYECO:0000409"
+  ],
+  "+ 3,4 - dihydrocoumarin": [
+    "FYECO:0000410"
+  ],
+  "3,4 - dihydrocoumarin add": [
+    "FYECO:0000410"
+  ],
+  "3,4 - dihydrocoumarin added": [
+    "FYECO:0000410"
+  ],
+  "+ egtazic acid": [
+    "FYECO:0000411"
+  ],
+  "egtazic acid add": [
+    "FYECO:0000411"
+  ],
+  "egtazic acid added": [
+    "FYECO:0000411"
+  ],
+  "egta add": [
+    "FYECO:0000411"
+  ],
+  "egta added": [
+    "FYECO:0000411"
+  ],
+  "+ tunicamycin": [
+    "FYECO:0000412"
+  ],
+  "tunicamycin add": [
+    "FYECO:0000412"
+  ],
+  "tunicamycin added": [
+    "FYECO:0000412"
+  ],
+  "+ valproic acid": [
+    "FYECO:0000413"
+  ],
+  "valproic acid add": [
+    "FYECO:0000413"
+  ],
+  "valproic acid added": [
+    "FYECO:0000413"
+  ],
+  "xylose ye": [
+    "FYECO:0000414"
+  ],
+  "xylose rich medium": [
+    "FYECO:0000414"
+  ],
+  "+ tea tree oil": [
+    "FYECO:0000415"
+  ],
+  "tea tree oil add": [
+    "FYECO:0000415"
+  ],
+  "tea tree oil added": [
+    "FYECO:0000415"
+  ],
+  "glucose mm , cysteine nitrogen source": [
+    "FYECO:0000416"
+  ],
+  "glucose minimal medium , cysteine nitrogen source": [
+    "FYECO:0000416"
+  ],
+  "standard glucose minimal medium , cysteine nitrogen source": [
+    "FYECO:0000416"
+  ],
+  "glucose mm , methionine nitrogen source": [
+    "FYECO:0000417"
+  ],
+  "glucose minimal medium , methionine nitrogen source": [
+    "FYECO:0000417"
+  ],
+  "standard glucose minimal medium , methionine nitrogen source": [
+    "FYECO:0000417"
+  ],
+  "leucine absent": [
+    "FYECO:0000418"
+  ],
+  "+ ethyl methanesulfonate": [
+    "FYECO:0000419"
+  ],
+  "+ ferrichrome": [
+    "FYECO:0000420"
+  ],
+  "+ ( 8e,10s ) - 10 - hydroxy - 8 - octadecenoic acid": [
+    "FYECO:0000421"
+  ],
+  "+ ( r , z ) - 10 - hydroxyoctadec - 8 - enoic acid": [
+    "FYECO:0000421"
+  ],
+  "no glucose yes": [
+    "FYECO:0000422"
+  ],
+  "+ ciclopirox olamine": [
+    "FYECO:0000423"
+  ],
+  "+ amorolfine": [
+    "FYECO:0000424"
+  ],
+  "x - ray": [
+    "FYECO:0000425"
+  ],
+  "x - rays": [
+    "FYECO:0000425"
+  ],
+  "x ray": [
+    "FYECO:0000425"
+  ],
+  "x rays": [
+    "FYECO:0000425"
+  ],
+  "glucose mm , lysine nitrogen source": [
+    "FYECO:0000426"
+  ],
+  "glucose minimal medium , lysine nitrogen source": [
+    "FYECO:0000426"
+  ],
+  "standard glucose minimal medium , lysine nitrogen source": [
+    "FYECO:0000426"
+  ],
+  "fructose ye": [
+    "FYECO:0000427"
+  ],
+  "fructose rich medium": [
+    "FYECO:0000427"
+  ],
+  "ethanol ye": [
+    "FYECO:0000428"
+  ],
+  "ethanol rich medium": [
+    "FYECO:0000428"
+  ],
+  "ye with trace glucose": [
+    "FYECO:0000429"
+  ],
+  "very low glucose ye": [
+    "FYECO:0000429"
+  ],
+  "rich medium with trace glucose": [
+    "FYECO:0000429"
+  ],
+  "mm with trace glucose": [
+    "FYECO:0000430"
+  ],
+  "very low glucose mm": [
+    "FYECO:0000430"
+  ],
+  "minimal medium with trace glucose": [
+    "FYECO:0000430"
+  ],
+  "+ itraconazole": [
+    "FYECO:0000431"
+  ],
+  "galactose ye": [
+    "FYECO:0000432"
+  ],
+  "galactose rich medium": [
+    "FYECO:0000432"
+  ],
+  "mannitol ye": [
+    "FYECO:0000433"
+  ],
+  "mannitol rich medium": [
+    "FYECO:0000433"
+  ],
+  "transient hydroxyurea treatment": [
+    "FYECO:0000434"
+  ],
+  "acute hydroxyurea treatment": [
+    "FYECO:0000434"
+  ],
+  "+ cccp": [
+    "FYECO:0000435"
+  ],
+  "an experimental condition in which carbonyl cyanide m - chlorophenyl hydrazone be add to the medium or assay buffer in excess compare to standard medium or assay buffer .": [
+    "FYECO:0000435"
+  ],
+  "an experimental condition in which carbonyl cyanide m - chlorophenyl hydrazone was added to the medium or assay buffer in excess compared to standard medium or assay buffers .": [
+    "FYECO:0000435"
+  ],
+  "+ fccp": [
+    "FYECO:0000436"
+  ],
+  "carbonyl cyanide m - chlorophenyl hydrazone": [
+    "FYECO:0000436"
+  ]
+}

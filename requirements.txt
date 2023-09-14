@@ -1,0 +1,8 @@
+TensorFlow==2.3.0
+Keras==2.4.3
+nltk==3.5
+keras-bert==0.86.0
+bioc==1.3.4
+streamlit==1.13.0
+numpy==1.18.5
+altair==4.0
